@@ -403,8 +403,14 @@ models:
         name: description
         label: Description
       - type: string
-        name: price
-        label: Price
+        name: price1
+        label: Price1
+      - type: string
+        name: price2
+        label: Price2
+      - type: string
+        name: price3
+        label: Price3
       - type: object
         name: images
         label: Images
