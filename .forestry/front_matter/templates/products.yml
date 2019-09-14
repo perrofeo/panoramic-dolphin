@@ -19,7 +19,7 @@ fields:
   config:
     required: false
   label: Price2
-- name: precio3
+- name: price3
   type: text
   config:
     required: false
