@@ -3,7 +3,7 @@ layout: product
 id: "11"
 title: test-img
 description: probar las imagenes
-price: "20"
+price: '20'
 images:
   default:
     thumbnail:
@@ -22,5 +22,8 @@ images:
 category: summer
 featured: true
 section: Store
+price1: "20"
+price2: "40"
+precio3: "100"
 
 ---

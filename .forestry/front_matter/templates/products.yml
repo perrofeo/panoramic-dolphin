@@ -108,8 +108,8 @@ fields:
   config:
     required: true
 pages:
-- products/plant4.md
 - products/test-img.md
+- products/plant4.md
 - products/plant1.md
 - products/plant9.md
 - products/plant8.md
