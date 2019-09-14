@@ -12,8 +12,18 @@ fields:
   name: description
   label: Description
 - type: text
-  name: price
-  label: Price
+  name: price1
+  label: Price1
+- name: price2
+  type: text
+  config:
+    required: false
+  label: Price2
+- name: precio3
+  type: text
+  config:
+    required: false
+  label: Precio3
 - type: field_group
   name: images
   label: Images
