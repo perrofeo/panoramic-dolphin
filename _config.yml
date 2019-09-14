@@ -7,8 +7,8 @@ snipcart_css: https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css
 snipcart_api_key: YzViMTVmZWMtOTQ1My00MTYxLTkxNzgtZmUyNmRkZjE3OTM4NjM2NjMyMjE0OTE3MDA1MjMx
 logos:
   light:
-    optimized: images/logo-white.svg
-    fallback: images/logo-white.svg
+    optimized: ''
+    fallback: "/images/logo healthy pleasures.png"
   dark:
     optimized: images/logo.svg
     fallback: images/logo.svg
