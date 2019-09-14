@@ -3,7 +3,7 @@
     "name" : "Planty",
     "scope" : "/",
     "display" : "standalone",
-    "start_url" : "https://best-turtle-571d7.netlify.com/",
+    "start_url" : "https://panoramic-dolphin-d13b7.netlify.com/",
     "short_name" : "Planty",
     "theme_color" : "#88DD9B",
     "description" : "",
@@ -14,7 +14,7 @@
     "generated" : "true",
     "icons" : [
         {
-            "src": "https://best-turtle-571d7.netlify.com/images/favicon.png",
+            "src": "https://panoramic-dolphin-d13b7.netlify.com//images/favicon.png",
             "sizes": "310x310"
         }
     ]}
