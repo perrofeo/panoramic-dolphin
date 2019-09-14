@@ -1,0 +1,20 @@
+{"dir" : "ltr",
+    "lang" : "es",
+    "name" : "Planty",
+    "scope" : "/",
+    "display" : "standalone",
+    "start_url" : "https://best-turtle-571d7.netlify.com/",
+    "short_name" : "Planty",
+    "theme_color" : "#88DD9B",
+    "description" : "",
+    "orientation" : "any",
+    "background_color" : "#88DD9B",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://best-turtle-571d7.netlify.com/images/favicon.png",
+            "sizes": "310x310"
+        }
+    ]}
