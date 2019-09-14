@@ -23,7 +23,7 @@ fields:
   type: text
   config:
     required: false
-  label: Precio3
+  label: Price3
 - type: field_group
   name: images
   label: Images
