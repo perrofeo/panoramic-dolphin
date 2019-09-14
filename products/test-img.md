@@ -24,6 +24,7 @@ featured: true
 section: Store
 price1: "20"
 price2: "40"
-precio3: "100"
+precio3: '100'
+price3: ''
 
 ---
