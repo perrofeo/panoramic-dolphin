@@ -10,8 +10,8 @@ logos:
     optimized: ''
     fallback: "/images/logo healthy pleasures.png"
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: ''
+    fallback: "/images/logo healthy pleasures.png"
 palette: default
 palettes:
   default:
