@@ -9,3 +9,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- category/maní-1.md
