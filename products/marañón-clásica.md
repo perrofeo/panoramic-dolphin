@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "25"
-id2: "26"
-id3: "27"
-title: Marañón Clásica
+id: "90"
+id2: "91"
+id3: "92"
+title: Marañón con Chocolate
 description: Procesada con marañon (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/MARANON CHOCOLATE 100G WEB.png"
     original:
       optimized: ''
       fallback: ''
