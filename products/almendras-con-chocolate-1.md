@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "15"
-id2: "16"
-id3: "17"
-title: Almendras con Chocolate
+id: "40"
+id2: "41"
+id3: "42"
+title: Almendras con Coco
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -26,6 +26,5 @@ images:
 category: almendra
 featured: true
 section: Store
-published: false
 
 ---
