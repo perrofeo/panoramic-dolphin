@@ -20,9 +20,14 @@ images:
       optimized: "/images/plant1-featured-lg.webp"
       fallback: "/images/plant1-featured-lg.jpg"
 category: bigplants
-featured: true
+featured: false
 section: Store
 layout: product
+id2: ''
+id3: ''
+price1: ''
+price2: ''
+price3: ''
 
 ---
 # Nulla suscipit
