@@ -4,7 +4,17 @@ hide_body: false
 fields:
 - type: text
   name: id
-  label: ID
+  label: ID 100g
+- name: id2
+  type: text
+  config:
+    required: false
+  label: ID 265g
+- name: id3
+  type: text
+  config:
+    required: false
+  label: ID 1kg
 - type: text
   name: title
   label: Title
