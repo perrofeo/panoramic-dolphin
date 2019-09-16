@@ -121,11 +121,11 @@ fields:
   config:
     required: true
 pages:
+- products/test-img.md
 - products/plant2.md
 - products/plant1.md
 - products/plant4.md
 - products/almendras-con-chocolate.md
-- products/test-img.md
 - products/plant9.md
 - products/plant8.md
 - products/plant7.md

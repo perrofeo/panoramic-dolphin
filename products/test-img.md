@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/featured-original.png"
-category: summer
+category: almendra
 featured: true
 section: Store
 price1: "20"
