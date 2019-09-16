@@ -395,7 +395,13 @@ models:
     fields:
       - type: string
         name: id
-        label: ID
+        label: ID 100g
+      - type: string
+        name: id2
+        label: ID 265g
+      - type: string
+        name: id3
+        label: ID 1kg
       - type: string
         name: title
         label: Title
