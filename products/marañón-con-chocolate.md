@@ -15,7 +15,7 @@ images:
       fallback: "/images/MARANON PROTEINA 100G.png"
     original:
       optimized: ''
-      fallback: "/images/MARANON CHOCOLATE 100G WEB.png"
+      fallback: "/images/MARANON PROTEINA 100G.png"
   featured:
     thumbnail:
       optimized: ''
