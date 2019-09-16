@@ -15,7 +15,7 @@ images:
       fallback: "/images/ALMENDRA-FONDO-CHOC.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ALMENDRA-FONDO-CHOC-1.jpg"
   featured:
     thumbnail:
       optimized: ''
