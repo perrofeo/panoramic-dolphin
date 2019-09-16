@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/featured-original.png"
-category: almendra
+category: bigplants
 featured: false
 section: Store
 price1: "20"
