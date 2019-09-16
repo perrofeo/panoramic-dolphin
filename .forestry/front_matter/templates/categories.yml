@@ -27,7 +27,6 @@ fields:
     required: true
 pages:
 - category/marañon.md
-- category/maní.md
 - category/almendra.md
 - category/summer.md
 - category/europe.md
