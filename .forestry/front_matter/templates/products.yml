@@ -121,6 +121,7 @@ fields:
   config:
     required: true
 pages:
+- products/maní-con-coco.md
 - products/test-img.md
 - products/plant2.md
 - products/plant1.md
