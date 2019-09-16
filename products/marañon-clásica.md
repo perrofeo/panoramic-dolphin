@@ -19,12 +19,12 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/FEAT-THUMB-MARANON-CLAS.jpg"
     original:
       optimized: ''
       fallback: ''
 category: ''
-featured: false
+featured: true
 section: ''
 
 ---
