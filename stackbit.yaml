@@ -477,6 +477,9 @@ models:
           - europe
           - bigplants
           - cactuses
+          - almendra
+          - marañon
+          - maní
       - type: boolean
         name: featured
         label: Featured
