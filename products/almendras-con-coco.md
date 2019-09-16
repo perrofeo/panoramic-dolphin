@@ -15,7 +15,7 @@ images:
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB.png"
     original:
       optimized: ''
-      fallback: "/images/ALMENDRAS 100G COCO WEB.png"
+      fallback: "/images/ALMENDRAS 100G PROTEINA WEB.png"
   featured:
     thumbnail:
       optimized: ''
