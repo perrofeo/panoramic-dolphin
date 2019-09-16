@@ -1,10 +1,7 @@
 ---
 layout: category
 slug: marañon
-title: Marañón
+title: Marañon
 section: Store
-menu:
-  categories:
-    weight: 2
 
 ---
