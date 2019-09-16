@@ -23,8 +23,11 @@ featured: false
 section: Store
 layout: product
 price1: "20"
-price2: ''
+price2: "40"
 precio3: ''
+price3: "85"
+id2: ''
+id3: ''
 
 ---
 # Cras molestie
