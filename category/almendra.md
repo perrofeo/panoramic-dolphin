@@ -1,10 +1,10 @@
 ---
 layout: category
-slug: marañon
-title: Marañon
+slug: almendra
+title: Almendra
 section: Store
 menu:
   categories:
-    weight: 7
+    weight: 5
 
 ---
