@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/ALMENDRA-FONDO-CHOC.jpg"
+      fallback: "/images/ALMENDRAS 100G COCO WEB.png"
     original:
       optimized: ''
       fallback: "/images/ALMENDRA-FONDO-CHOC-1.jpg"
@@ -24,7 +24,7 @@ images:
       optimized: ''
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: almendra
-featured: true
+featured: false
 section: Store
 
 ---
