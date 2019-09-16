@@ -3,7 +3,7 @@ layout: product
 id: "80"
 id2: "81"
 id3: "82"
-title: Maní con Coco
+title: Maní con Chocolate
 description: Procesada con maní (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/MANI 100G CHOCOLATE WEB.png"
     original:
       optimized: ''
       fallback: ''
