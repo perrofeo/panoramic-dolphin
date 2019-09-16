@@ -22,7 +22,7 @@ images:
       fallback: "/images/ALMENDRA-FONDO-CHOC-2.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: summer
 featured: true
 section: Store
