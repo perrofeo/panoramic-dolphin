@@ -38,6 +38,7 @@ sass:
   style: nested
   precision: 10
 plugins:
+- light
 - jekyll-menus
 exclude:
 - Gemfile
