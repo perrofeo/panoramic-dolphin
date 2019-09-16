@@ -23,8 +23,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: marañon
 featured: true
-section: ''
+section: Store
 
 ---
