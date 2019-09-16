@@ -19,7 +19,7 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/FEAT-THUMB-MANI-PROT.jpg"
     original:
       optimized: ''
       fallback: ''
