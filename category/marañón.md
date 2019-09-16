@@ -1,6 +1,6 @@
 ---
 layout: category
-slug: marañon
+slug: marañón
 title: Marañon
 section: Store
 
