@@ -10,4 +10,5 @@ fields:
   config:
     required: true
 pages:
+- category/maní-1.md
 - category/maní.md
