@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "50"
-id2: "51"
-id3: "52"
-title: Almendras con Proteína
+id: "60"
+id2: "61"
+id3: "62"
+title: Almendras Clásica
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
