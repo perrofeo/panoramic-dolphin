@@ -5,35 +5,35 @@ fields:
 - type: text
   name: id
   label: ID 100g
-- type: text
-  name: price1
-  label: Precio - 100g
 - name: id2
   type: text
   config:
     required: false
   label: ID 265g
-- name: price2
-  type: text
-  config:
-    required: false
-  label: Precio - 265g
 - name: id3
   type: text
   config:
     required: false
   label: ID 1kg
-- name: price3
-  type: text
-  config:
-    required: false
-  label: Precio - 1kg
 - type: text
   name: title
   label: Title
 - type: text
   name: description
   label: Description
+- type: text
+  name: price1
+  label: Precio - 100g
+- name: price2
+  type: text
+  config:
+    required: false
+  label: Precio - 265g
+- name: price3
+  type: text
+  config:
+    required: false
+  label: Precio - 1kg
 - type: field_group
   name: images
   label: Images
