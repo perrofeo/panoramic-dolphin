@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "40"
-id2: "41"
-id3: "42"
-title: Almendras con Coco
+id: "100"
+id2: "101"
+id3: "102"
+title: Almendras con Proteína
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -26,6 +26,5 @@ images:
 category: almendra
 featured: false
 section: Store
-published: false
 
 ---
