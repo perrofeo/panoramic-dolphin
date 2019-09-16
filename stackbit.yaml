@@ -478,7 +478,7 @@ models:
           - bigplants
           - cactuses
           - almendra
-          - marañon
+          - marañón
           - maní
       - type: boolean
         name: featured
