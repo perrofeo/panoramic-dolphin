@@ -26,6 +26,5 @@ images:
 category: marañón
 featured: true
 section: Store
-published: false
 
 ---
