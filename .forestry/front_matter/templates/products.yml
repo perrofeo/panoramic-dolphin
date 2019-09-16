@@ -91,12 +91,15 @@ fields:
   label: Category
   config:
     source:
-      type: custom
+      type: simple
     options:
     - summer
     - europe
     - bigplants
     - cactuses
+    - almendra
+    - maní
+    - marañon
 - type: boolean
   name: featured
   label: Featured
