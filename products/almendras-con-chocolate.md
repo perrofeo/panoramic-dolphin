@@ -5,9 +5,9 @@ id2: "16"
 id3: "17"
 title: Almendras con Chocolate
 description: Procesada con almendra (de CR) sin sal y 100% puro.
-price1: "20"
-price2: "40"
-price3: "85"
+price1: "2500"
+price2: "5000"
+price3: "8000"
 images:
   default:
     thumbnail:
