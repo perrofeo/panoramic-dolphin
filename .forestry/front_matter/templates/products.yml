@@ -121,6 +121,7 @@ fields:
   config:
     required: true
 pages:
+- products/plant2.md
 - products/plant1.md
 - products/plant4.md
 - products/almendras-con-chocolate.md
@@ -131,4 +132,3 @@ pages:
 - products/plant6.md
 - products/plant5.md
 - products/plant3.md
-- products/plant2.md
