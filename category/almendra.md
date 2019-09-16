@@ -5,6 +5,6 @@ title: Almendra
 section: Store
 menu:
   categories:
-    weight: 5
+    weight: 1
 
 ---
