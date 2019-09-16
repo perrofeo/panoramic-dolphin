@@ -1,7 +1,7 @@
 ---
 layout: category
 slug: marañon
-title: Marañon
+title: Marañón
 section: Store
 menu:
   categories:
