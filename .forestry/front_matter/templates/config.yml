@@ -101,7 +101,7 @@ fields:
 - type: list
   name: plugins
   label: Plugins
-  hidden: false
+  hidden: true
   config:
     use_select: true
     source:
