@@ -10,4 +10,4 @@ fields:
   config:
     required: true
 pages:
-- category/almendra-1.md
+- category/almendra.md
