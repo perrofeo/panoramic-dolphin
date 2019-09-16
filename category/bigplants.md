@@ -5,6 +5,6 @@ section: Store
 layout: category
 menu:
   categories:
-    weight: 7
+    weight: 6
 
 ---
