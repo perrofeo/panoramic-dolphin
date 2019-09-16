@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: "/images/featured-original.png"
 category: almendra
-featured: true
+featured: false
 section: Store
 price1: "20"
 price2: "40"
