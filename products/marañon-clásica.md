@@ -5,9 +5,9 @@ id2: "26"
 id3: "27"
 title: Marañon Clásica
 description: Procesada con marañon (de CR) sin sal y 100% puro.
-price1: ''
-price2: ''
-price3: ''
+price1: "2500"
+price2: "5000"
+price3: "8000"
 images:
   default:
     thumbnail:
