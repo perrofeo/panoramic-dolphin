@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Inicio
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Mantequillas de maní, almendra y marañón de Costa Rica
