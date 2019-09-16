@@ -99,6 +99,7 @@ fields:
     - cactuses
     - almendra
     - maní
+    - marañón
 - type: boolean
   name: featured
   label: Featured
