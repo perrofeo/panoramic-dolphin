@@ -5,6 +5,6 @@ title: Marañon
 section: Store
 menu:
   categories:
-    weight: 7
+    weight: 6
 
 ---
