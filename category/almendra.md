@@ -2,6 +2,6 @@
 layout: category
 slug: almendra
 title: Almendra
-section: ''
+section: Store
 
 ---
