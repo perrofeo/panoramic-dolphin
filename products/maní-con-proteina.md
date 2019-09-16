@@ -3,7 +3,7 @@ layout: product
 id: "30"
 id2: "31"
 id3: "32"
-title: Maní con Proteina
+title: Maní con Proteína
 description: Procesada con maní (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
