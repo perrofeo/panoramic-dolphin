@@ -24,7 +24,7 @@ images:
       optimized: ''
       fallback: ''
 category: maní
-featured: false
+featured: true
 section: ''
 
 ---
