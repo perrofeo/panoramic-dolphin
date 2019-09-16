@@ -19,7 +19,7 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: "/images/ALMENDRA-FONDO-CHOC-2.jpg"
+      fallback: "/images/FEAT-THUMB-MANI-COCO-1.jpg"
     original:
       optimized: ''
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
