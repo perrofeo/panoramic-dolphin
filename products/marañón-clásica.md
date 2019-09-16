@@ -24,7 +24,7 @@ images:
       optimized: ''
       fallback: ''
 category: marañón
-featured: true
+featured: false
 section: Store
 
 ---
