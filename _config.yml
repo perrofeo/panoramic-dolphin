@@ -8,7 +8,7 @@ snipcart_api_key: YzViMTVmZWMtOTQ1My00MTYxLTkxNzgtZmUyNmRkZjE3OTM4NjM2NjMyMjE0OT
 logos:
   light:
     optimized: "/images/logo-healthy-pleasures.svg"
-    fallback: "/images/logo healthy pleasures.png"
+    fallback: "/images/logo-healthy-pleasures.png"
   dark:
     optimized: "/images/logo-healthy-pleasures.svg"
     fallback: "/images/logo-healthy-pleasures.png"
