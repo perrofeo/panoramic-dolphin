@@ -70,11 +70,6 @@ fields:
       name: include_palette
       label: Palette
       template: palette
-  - name: dark
-    type: text
-    config:
-      required: false
-    label: dark
 - type: field_group
   name: sass
   label: Sass
