@@ -12,7 +12,7 @@ logos:
   dark:
     optimized: "/images/logo-healthy-pleasures.svg"
     fallback: "/images/logo-healthy-pleasures.png"
-palette: default,light
+palette: light
 palettes:
   default:
     sass:
