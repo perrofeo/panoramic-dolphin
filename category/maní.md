@@ -2,6 +2,6 @@
 layout: category
 slug: maní
 title: Maní
-section: ''
+section: Store
 
 ---
