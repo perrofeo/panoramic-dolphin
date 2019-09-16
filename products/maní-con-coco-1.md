@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "20"
-id2: "21"
-id3: "22"
-title: Maní con Coco
+id: "70"
+id2: "71"
+id3: "72"
+title: Maní Clásica
 description: Procesada con maní (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/MANI 100G WEB.png"
     original:
       optimized: ''
       fallback: ''
@@ -26,6 +26,5 @@ images:
 category: maní
 featured: true
 section: ''
-published: false
 
 ---
