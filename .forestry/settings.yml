@@ -11,7 +11,7 @@ sections:
   - config
 - type: document
   path: index.md
-  label: Home
+  label: Inicio
   templates:
   - index
 - type: directory
@@ -24,7 +24,7 @@ sections:
   - page
 - type: document
   path: store.md
-  label: Store
+  label: Tienda
   templates:
   - store
 - type: document
@@ -34,7 +34,7 @@ sections:
   - faq
 - type: document
   path: about.md
-  label: About
+  label: Nosotros
   templates:
   - about
 - type: directory
