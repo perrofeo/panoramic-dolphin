@@ -121,6 +121,7 @@ fields:
   config:
     required: true
 pages:
+- products/almendras-con-coco.md
 - products/almendras-con-chocolate-1.md
 - products/marañon-clásica.md
 - products/maní-con-proteina.md
