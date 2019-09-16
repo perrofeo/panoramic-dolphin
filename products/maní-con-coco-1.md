@@ -15,7 +15,7 @@ images:
       fallback: "/images/MANI 100G WEB.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/MANI 100G WEB.png"
   featured:
     thumbnail:
       optimized: ''
