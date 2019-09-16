@@ -14,7 +14,7 @@ logos:
     fallback: "/images/logo-healthy-pleasures.png"
 palette: default
 palettes:
-  default:
+  default: "light"
     sass:
       default: "#FFFFFF"
       light: "#F0F0F0"
