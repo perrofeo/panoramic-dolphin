@@ -1,8 +1,8 @@
 ---
 layout: product
-id: "20"
-id2: "21"
-id3: "22"
+id: "80"
+id2: "81"
+id3: "82"
 title: Maní con Coco
 description: Procesada con maní (de CR) sin sal y 100% puro.
 price1: "2500"
@@ -26,6 +26,5 @@ images:
 category: maní
 featured: true
 section: ''
-published: false
 
 ---
