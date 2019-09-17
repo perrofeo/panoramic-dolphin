@@ -10,4 +10,4 @@ fields:
   config:
     required: true
 pages:
-- products/almendras-clásica-1.md
+- products/almendras-clásica.md
