@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/MARANON PROTEINA 100G.png"
+      fallback: "/images/MARANON PROTEINA 100G-1.png"
     original:
       optimized: ''
       fallback: "/images/MARANON PROTEINA 100G.png"
