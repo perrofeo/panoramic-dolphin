@@ -15,7 +15,7 @@ images:
       fallback: "/images/MARANON CLASICA 100G-1.png"
     original:
       optimized: ''
-      fallback: "/images/MARANON CLASICA 100G.png"
+      fallback: "/images/MARANON CLASICA 100G-1.png"
   featured:
     thumbnail:
       optimized: ''
