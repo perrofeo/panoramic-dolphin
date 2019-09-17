@@ -10,5 +10,4 @@ fields:
   config:
     required: true
 pages:
-- category/marañón.md
 - products/almendras-clásica.md
