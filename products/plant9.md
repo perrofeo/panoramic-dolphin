@@ -27,6 +27,7 @@ id3: ''
 price1: ''
 price2: ''
 price3: ''
+published: false
 
 ---
 # Fusce sagittis
