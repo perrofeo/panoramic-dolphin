@@ -1,9 +1,9 @@
 ---
 layout: product
-id: "110"
-id2: "111"
-id3: "112"
-title: Marañón con Proteína
+id: "120"
+id2: "121"
+id3: "122"
+title: Marañón con Coco
 description: Procesada con marañon (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/MARANON PROTEINA 100G.png"
+      fallback: "/images/MARANON COCO 100G WEB.png"
     original:
       optimized: ''
       fallback: "/images/MARANON PROTEINA 100G.png"
@@ -26,6 +26,5 @@ images:
 category: marañón
 featured: false
 section: Store
-published: false
 
 ---
