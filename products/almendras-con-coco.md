@@ -12,10 +12,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/ALMENDRAS 100G COCO WEB.png"
+      fallback: "/images/ALMENDRAS 100G COCO WEB-1.png"
     original:
       optimized: ''
-      fallback: "/images/ALMENDRAS 100G COCO WEB.png"
+      fallback: "/images/ALMENDRAS 100G COCO WEB-1.png"
   featured:
     thumbnail:
       optimized: ''
