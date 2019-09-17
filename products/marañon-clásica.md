@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/MARANON CLASICA 100G.png"
     original:
       optimized: ''
       fallback: ''
