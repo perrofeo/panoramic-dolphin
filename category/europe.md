@@ -6,5 +6,6 @@ layout: category
 menu:
   categories:
     weight: 5
+published: false
 
 ---
