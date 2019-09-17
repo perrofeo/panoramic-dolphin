@@ -121,6 +121,7 @@ fields:
   config:
     required: true
 pages:
+- products/plant8.md
 - products/plant9.md
 - products/plant6.md
 - products/plant3.md
@@ -141,5 +142,4 @@ pages:
 - products/maní-con-coco.md
 - products/plant2.md
 - products/plant1.md
-- products/plant8.md
 - products/plant7.md
