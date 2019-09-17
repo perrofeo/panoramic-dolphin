@@ -36,10 +36,11 @@ layout: body
                 <article class="product__description">
                     {{ page.description }}
                 </article>
-
+                <div class="product__buttons">
                 {% include buy_button.html product_page=page %}
                 {% include buy_button2.html product_page=page %}
                 {% include buy_button3.html product_page=page %}
+                </div>
 
                 <!-- <div class="product__content">
                     {{ content }}
