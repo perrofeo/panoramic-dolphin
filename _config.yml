@@ -15,6 +15,8 @@ logos:
 palette: default
 palettes:
   default:
+    bg_image_primary_optimized: "/images/Mantequilla-to-goRec.jpg"
+      bg_image_primary_fallback: "/images/Mantequilla-to-goRec.jpg"
     sass:
       default: "#FFFFFF"
       light: "#F0F0F0"
