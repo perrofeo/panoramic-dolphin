@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/MARANON CHOCOLATE 100G WEB.png"
+      fallback: "/images/MARANON CHOCOLATE 100G WEB-1.png"
     original:
       optimized: ''
       fallback: "/images/MARANON CHOCOLATE 100G WEB.png"
