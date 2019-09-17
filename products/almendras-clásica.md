@@ -15,7 +15,7 @@ images:
       fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
     original:
       optimized: ''
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB-1.png"
+      fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
   featured:
     thumbnail:
       optimized: ''
