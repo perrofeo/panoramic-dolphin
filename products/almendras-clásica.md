@@ -3,7 +3,7 @@ layout: product
 id: "130"
 id2: "131"
 id3: "132"
-title: Almendras con Coco
+title: Almendras Cásica
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
