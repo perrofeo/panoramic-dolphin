@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/MANI 100G CHOCOLATE WEB.png"
+      fallback: "/images/MANI 100G CHOCOLATE WEB-1.png"
     original:
       optimized: ''
       fallback: "/images/MANI 100G CHOCOLATE WEB.png"
