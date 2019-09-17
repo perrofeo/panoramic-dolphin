@@ -22,7 +22,6 @@ category: bigplants
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
 # Sed consectetur
