@@ -9,3 +9,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- products/almendras-con-coco-2.md
