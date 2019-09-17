@@ -1,7 +1,4 @@
 ---
-layout: category
-slug: marañón
-title: Marañón
-section: Store
+layout: page
 
 ---
