@@ -113,8 +113,3 @@ fields:
   label: Exclude
   description: Exclude directories and/or files from the conversion.
   hidden: true
-- name: palette_sass
-  type: include
-  config: {}
-  template: palette
-  label: Palette sass
