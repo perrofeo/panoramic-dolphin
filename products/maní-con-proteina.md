@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/MANI PROTEINA 100G WEB.png"
     original:
       optimized: ''
       fallback: ''
