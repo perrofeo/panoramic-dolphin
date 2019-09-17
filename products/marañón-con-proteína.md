@@ -15,7 +15,7 @@ images:
       fallback: "/images/MARANON COCO 100G WEB.png"
     original:
       optimized: ''
-      fallback: "/images/MARANON PROTEINA 100G.png"
+      fallback: "/images/MARANON COCO 100G WEB-1.png"
   featured:
     thumbnail:
       optimized: ''
