@@ -1,21 +1,21 @@
 ---
 layout: product
-id: ''
-id2: ''
-id3: ''
-title: ''
-description: ''
-price1: ''
-price2: ''
-price3: ''
+id: "130"
+id2: "131"
+id3: "132"
+title: Almendras con Coco
+description: Procesada con almendra (de CR) sin sal y 100% puro.
+price1: "2500"
+price2: "5000"
+price3: "8000"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ALMENDRAS CLASICA 100G WEB-1.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ALMENDRAS CLASICA 100G WEB-1.png"
   featured:
     thumbnail:
       optimized: ''
@@ -23,8 +23,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: almendra
 featured: false
-section: ''
+section: Store
 
 ---
