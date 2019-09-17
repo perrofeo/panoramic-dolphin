@@ -15,7 +15,7 @@ images:
       fallback: "/images/ALMENDRAS 100G CHOCOLATE WEB.png"
     original:
       optimized: ''
-      fallback: "/images/ALMENDRA-FONDO-CHOC-1.jpg"
+      fallback: "/images/ALMENDRAS 100G CHOCOLATE WEB.png"
   featured:
     thumbnail:
       optimized: ''
