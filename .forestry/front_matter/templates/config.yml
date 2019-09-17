@@ -98,6 +98,11 @@ fields:
     label: Precision
     description: Used to determine how many digits after the decimal will be allowed.
     default: 10
+  - name: palette
+    type: include
+    config: {}
+    template: palette
+    label: Palette
 - type: list
   name: plugins
   label: Plugins
