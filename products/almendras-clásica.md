@@ -1,13 +1,13 @@
 ---
 layout: product
-id: '130'
-id2: '131'
-id3: '132'
+id: "130"
+id2: "131"
+id3: "132"
 title: Almendras Clásica
 description: Procesada con almendra (de CR) sin sal y 100% puro.
-price1: '2500'
-price2: '5000'
-price3: '8000'
+price1: "2500"
+price2: "5000"
+price3: "8000"
 images:
   default:
     thumbnail:
