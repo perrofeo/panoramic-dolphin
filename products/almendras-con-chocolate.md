@@ -3,7 +3,7 @@ layout: product
 id: "15"
 id2: "16"
 id3: "17"
-title: Almendras con Chocolate
+title: Mantequilla de Almendras con Chocolate
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
