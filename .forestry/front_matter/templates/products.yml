@@ -121,6 +121,7 @@ fields:
   config:
     required: true
 pages:
+- products/almendras-con-coco.md
 - products/mantequilla-de-almendras-con-proteína.md
 - products/mantequilla-de-almendras-con-chocolate.md
 - products/mantequilla-de-almendras-clásica.md
@@ -132,5 +133,4 @@ pages:
 - products/maní-con-coco.md
 - products/maní-con-chocolate.md
 - products/maní-clásica.md
-- products/almendras-con-coco.md
 - products/test-img.md
