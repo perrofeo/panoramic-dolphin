@@ -16,7 +16,7 @@
             font-size: $font_size_xlarge;
             font-weight: 700;
             line-height: 3.6rem;
-            @include smaller-than-tablet { font-size: $font_size_large; }
+            @include smaller-than-tablet { font-size: $font_size_large; line-height: 2.5rem }
         }
     }
 
