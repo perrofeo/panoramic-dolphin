@@ -27,7 +27,6 @@
   &__menu-item {
     margin: 0;
     font-size: $font_size_regular;
-    font-weight: bold;
     list-style: none;
     &:not(:last-child) {
       margin-right: $spacing--unit * 5;
