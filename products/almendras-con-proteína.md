@@ -3,7 +3,7 @@ layout: product
 id: "100"
 id2: "101"
 id3: "102"
-title: Almendras con Proteína
+title: Mantequilla de Almendras con Proteína
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
