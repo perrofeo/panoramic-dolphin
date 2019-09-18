@@ -3,7 +3,7 @@ layout: product
 id: "70"
 id2: "71"
 id3: "72"
-title: Maní Clásica
+title: Mantequilla de Maní Clásica
 description: Procesada con maní (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
