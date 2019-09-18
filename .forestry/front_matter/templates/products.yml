@@ -121,6 +121,7 @@ fields:
   config:
     required: true
 pages:
+- products/marañon-clásica.md
 - products/mantequilla-de-maní-con-proteína.md
 - products/mantequilla-de-maní-con-coco.md
 - products/mantequilla-de-maní-con-chocolate.md
@@ -132,5 +133,4 @@ pages:
 - products/marañón-con-proteína.md
 - products/marañón-con-coco.md
 - products/marañón-con-chocolate.md
-- products/marañon-clásica.md
 - products/test-img.md
