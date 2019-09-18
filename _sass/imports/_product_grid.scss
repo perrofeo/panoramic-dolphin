@@ -26,6 +26,7 @@
     font-size: $font_size_medium;
     color: $color_dark_grey;
     font-weight: bold;
+    display: none;
   }
 
   &__category {
@@ -33,6 +34,7 @@
     font-weight: bold;
     font-size: $font_size_small;
     color: $color_dark_grey;
+    display: none;
   }
 
   &__item-image {
