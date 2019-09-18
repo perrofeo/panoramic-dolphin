@@ -13,7 +13,7 @@
         h1 {
             color: $color_default;
             max-width: 720px;
-            font-size: $spacing--unit*8;
+            font-size: $font_size_xlarge;
             font-weight: 600;
             line-height: 3.6rem;
             @include smaller-than-tablet { font-size: $font_size_large; }
