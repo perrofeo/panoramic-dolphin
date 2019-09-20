@@ -24,9 +24,6 @@ fields:
 - type: text
   name: price1
   label: Precio - 100g
-- type: text
-  name: maxquantity1
-  label: Cantidad Máxima 100g
 - name: price2
   type: text
   config:
