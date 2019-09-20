@@ -26,6 +26,6 @@ images:
 category: almendra
 featured: false
 section: Store
-maxquantity1: "0"
+maxquantity1: ''
 
 ---
