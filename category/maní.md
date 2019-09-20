@@ -5,6 +5,6 @@ title: Maní
 section: Store
 menu:
   categories:
-    weight: 1
+    weight: 2
 
 ---
