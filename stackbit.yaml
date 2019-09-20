@@ -417,9 +417,6 @@ models:
       - type: string
         name: price3
         label: Price3
-      - type: string
-        name: maxquantity1
-        label: Maxquantity1
       - type: object
         name: images
         label: Images
