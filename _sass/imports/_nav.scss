@@ -46,7 +46,7 @@
   }
   &__total-items {
     @include smaller-than-tablet {
-      display: none;
+      // display: none;
     }
     font-weight: bold;
     color: inherit;
