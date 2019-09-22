@@ -19,7 +19,7 @@ palettes:
       default: "#FFFFFF"
       light: "#F0F0F0"
       medium: "#6B797A"
-      dark: "#384647"
+      dark: "#715F60"
       active: "#892B48"
       active_light: "#C0FDB6"
       active_medium: "#5C9174"
