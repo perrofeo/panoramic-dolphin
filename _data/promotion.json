@@ -1,12 +1,12 @@
 {
-  "title": "A new home interior for summer",
-  "subtitle": "from $149.99",
+  "title": "Tu trio de mantequillas favoritas 20% off",
+  "subtitle": "a partir de ₡ 10 mil",
   "image": {
     "optimized": "",
     "fallback": "/images/PROMO_prueba1.jpg"
   },
   "cta": {
-    "text": "Discover",
+    "text": "Descubre",
     "link": "/store"
   }
 }
