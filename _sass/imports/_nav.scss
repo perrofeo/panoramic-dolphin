@@ -83,19 +83,19 @@
   }
 
   &--light {
-    color: $color_light;
+    color: $color_dark;
     .hamburger__icon-path {
-      fill: $color_light;
+      fill: $color_dark;
     }
   }
   &--light & {
     &__total-items {
-      color: $color_light;
+      color: $color_dark;
     }
     &__button-icon {
       svg {
         path {
-          fill: $color_light;
+          fill: $color_dark;
         }
       }
     }
