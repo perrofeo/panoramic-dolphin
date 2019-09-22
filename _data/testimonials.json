@@ -1,18 +1,18 @@
 {
-    "data": [
-        {
-            "text": "I didn't know the Snipcart guys were into herbs as well! How beautiful is that Planty theme. I'm going to launch a killer JAMstack e-commerce store using this for sure.",
-            "author": {
-                "name": "John Dope",
-                "location": "Colorado, USA"
-            }
-        },
-        {
-            "text": "Well I'll be d*mned. These plants really ARE greener than any of my recruits.",
-            "author": {
-                "name": "Major Payne",
-                "location": "VA, USA"
-            }
-        }
-    ]
+  "data": [
+    {
+      "text": "La mantequilla de almendras de Healthy Pleasures nunca falta en nuestra cocina. Es deliciosa con pan, manzana, apios, y la lista continua.",
+      "author": {
+        "name": "John Dope",
+        "location": "Curridabat, San José"
+      }
+    },
+    {
+      "text": "Amo la mantequilla de marañón. Es excelente para desayunos o para matar el hambre en la tarde.",
+      "author": {
+        "name": "Major Payne",
+        "location": "Brasilito, Guanacaste"
+      }
+    }
+  ]
 }
