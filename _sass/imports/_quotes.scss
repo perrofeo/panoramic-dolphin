@@ -27,14 +27,14 @@
 
   &__author {
     font-family: $font_family_primairy;
-    color: $color_dark;
+    color: $color_active;
     font-weight: 900;
     text-transform: uppercase;
     margin-top: auto;
   }
 
   &__location {
-    color: $color_medium;
+    color: $color_dark_grey;
   }
 
   &__separator {
