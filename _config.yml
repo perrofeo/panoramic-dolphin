@@ -25,7 +25,7 @@ palettes:
       active_medium: "#5C9174"
       active_dark: "#547567"
       dark_grey: "#715F60"
-      light_grey: "#6B797A"
+      light_grey: "#715F60"
       bg_image_primary_optimized: "/images/PORTADA_prueba7.jpg"
       bg_image_primary_fallback: "/images/PORTADA_prueba7.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
