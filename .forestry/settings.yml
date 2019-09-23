@@ -51,7 +51,7 @@ sections:
   - promotion
 - type: document
   path: _data/testimonials.json
-  label: Qué dicen nuestros clientes
+  label: Testimonials
   templates:
   - testimonials
 - type: directory
