@@ -165,7 +165,7 @@
             align-items: center;
             flex-direction: row;
             button {
-                margin-right: 0.2em;
+                margin: 0.2em 0.2em 0.2em 0;
             }
             @include smaller-than-tablet { flex-direction: column; }
     }
