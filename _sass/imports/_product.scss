@@ -163,11 +163,12 @@
             justify-content: center;
             align-items: center;
             flex-direction: row;
+            button {
+                margin-right: 0.2em;
+            }
             @include smaller-than-tablet { flex-direction: column; }
     }
-    &__button {
-        margin-right: 0.2em;
-    }
+    
 
     &__back-to-store {
         text-transform: uppercase;
