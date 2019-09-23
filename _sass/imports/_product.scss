@@ -163,6 +163,7 @@
             justify-content: center;
             align-items: center;
             flex-direction: row;
+            @include smaller-than-tablet { flex-direction: column; }
     }
 
     &__back-to-store {
