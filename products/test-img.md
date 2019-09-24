@@ -28,5 +28,6 @@ precio3: '100'
 price3: "85"
 id2: "12"
 id3: "13"
+published: false
 
 ---
