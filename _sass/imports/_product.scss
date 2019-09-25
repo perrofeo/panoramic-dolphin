@@ -170,7 +170,9 @@
             @include smaller-than-tablet { flex-direction: column; }
     }
     &__button-todo {
-        display: inline;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
     }
     
 
