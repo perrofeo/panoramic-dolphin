@@ -14,11 +14,11 @@ questions:
     * El envío internacional lleva entre 10 y 20 días laborales.
 - question: " ¿Cómo funcionan los reembolsos y devoluciones?"
   answer: |-
-    It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
+    It happens. Even the most beautiful of plants will disappoint _someone_. Again, tell it like it is:
 
-      - All discounted items sales are final.
-      - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-      - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+    * Todas las ventas de artículos con descuento son finales.
+    * Si desea otra versión de su artículo, utilice la etiqueta de devolución. Las instrucciones están impresas en su parte posterior
+    * Si su artículo está dañado o no funciona correctamente, envíenos un correo electrónico a info@healthypleasures.com. Le reembolsaremos y le enviaremos uno nuevo lo antes posible.
 - question: How do you handle sensitive customer information?
   answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
     am I right? Make sure you’re as transparent as possible with your data handling
