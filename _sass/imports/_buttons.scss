@@ -33,6 +33,7 @@
   &__text1 {
     padding: 0 0.3em;
     font-size: $font_size_regular;
+    @include smaller-than-movil { display: none; }
   }
 
   &--icon-only {
