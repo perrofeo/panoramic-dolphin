@@ -146,9 +146,9 @@
     &__description {
         font-size: $font_size_regular;
         color: $color_medium;
-        padding-bottom: 20px;
+        padding-bottom: 30px;
         line-height: 150%;
-        border-bottom: 1px solid #981B42;
+        border-bottom: 1px solid #CC9933;
         @include smaller-than-tablet { font-size: $font_size_regular; }
     }
 
@@ -174,7 +174,7 @@
         display: flex;
         flex-direction: row;
         align-items: center;
-        border-bottom: 1px solid #981B42;
+        border-bottom: 1px solid #CC9933;
         justify-content: space-between;
 
     }
