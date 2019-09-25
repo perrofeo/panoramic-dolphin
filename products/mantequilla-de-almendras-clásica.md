@@ -5,7 +5,11 @@ id2: "131"
 id3: "132"
 title: Mantequilla de Almendras Clásica
 description: 'Procesada con almendra de Costa Rica sin sal y 100% puro. Ingredientes:
-  almendras puras y canela. Puede contener trazas de trigo, maní y marañón.  '
+  almendras puras y canela. Puede contener trazas de trigo, maní y marañón. Información
+  nutricional (Tamaño porción 2 cucharaditas - 10g):  Calorías: 57 Kcal, Grasa total:
+  5g, Grasa satural: 1g, Sodio: 2mg, Carbohidratos: 2g, Fibra: 1g, Proteína: 2g, Colesterol:
+  0mg. *El porcentaje de valor diario recomendado es basado en una dieta de 2000 Kcal.
+  No contiene aceite, lácteos, colorantes artificiales ni preservantes. '
 price1: "2500"
 price2: "5000"
 price3: "8000"
