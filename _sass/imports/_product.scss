@@ -161,13 +161,16 @@
     &__buttons {
         width: 100%; 
             display: flex; 
-            justify-content: center;
+            justify-content: left;
             align-items: center;
             flex-direction: column;
             button {
                 margin: 0.2em 0.2em 0.2em 0;
             }
             @include smaller-than-tablet { flex-direction: column; }
+    }
+    &__button-todo {
+        display: inline;
     }
     
 
