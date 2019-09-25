@@ -6,9 +6,9 @@ introduction: Healthy Pleasures es una PYME costarricense que elabora mantequill
   azúcar y hechos con productos 100% locales.
 bulletpoints:
 - title: Nuestra razón de ser
-  description: Nuestra misión es bendecir el cuerpo, la mente y el espíritu de cada
-    uno de nuestros clientes y donar el 10% de nuestras ganancias a misiones de ayuda
-    cristiana.
+  description: Nuestra misión desde el inicio ha sido y es la de bendecir tu cuerpo
+    y espíritu con la creación de productos saludables y donar el 10% de nuestras
+    ganancias a misioneros cristianos.
   image:
     optimized: images/nan_talk.webp
     fallback: images/nan_talk.jpg
