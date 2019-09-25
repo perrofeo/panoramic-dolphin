@@ -161,8 +161,8 @@
     &__buttons {
         width: 100%; 
             display: flex; 
-            justify-content: left;
-            align-items: center;
+            justify-content: center;
+            align-items: left;
             flex-direction: column;
             button {
                 margin: 0.2em 0.2em 0.2em 0;
