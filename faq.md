@@ -5,13 +5,13 @@ introduction: Aquí puedes conocer rápidamente la respuesta a las preguntas má
   que te puedan surgir a la hora de comprar nuestros productos en línea. No dudes
   en contactarnos si tienes alguna otra pregunta, sugerencia o problema.
 questions:
-- question: How long does shipping take?
+- question: "¿Cuánto demora en llegar mi pedido?"
   answer: |-
-    Now that’s a frequent one all right, ain’t it? Your answer to this should *manage customer expectations*. Just like [a good checkout flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+    **Depende de dónde te encuentres**:
 
-      - US shipping will take between 3 to 5 business days.
-      - International shipping will take between 5 and 10 business days.
-      - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+    * El envío dentro del Valle Central shipping lleva entre 1 y 2 días laborales.
+    * El envío dentro de Costa Rica lleva entre 2 y 5 días laborales.
+    * El envío internacional lleva entre 10 y 20 días laborales.
 - question: How do refunds and returns work?
   answer: |-
     It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
