@@ -1,8 +1,9 @@
 ---
 title: Preguntas Frecuentes
-headline: Behold our FAQ
-introduction: All right, friends. Let’s do this. This section will cover basic, frequently
-  asked questions for e-commerce merchants.
+headline: Preguntas Frequentes
+introduction: Aquí puedes conocer rápidamente la respuesta a las preguntas más frecuentes
+  que te puedan surgir a la hora de comprar nuestros productos en línea. No dudes
+  en contactarnos si tienes alguna otra pregunta, sugerencia o problema.
 questions:
 - question: How long does shipping take?
   answer: |-
