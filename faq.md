@@ -12,7 +12,7 @@ questions:
     * El envío dentro del Valle Central shipping lleva entre 1 y 2 días laborales.
     * El envío dentro de Costa Rica lleva entre 2 y 5 días laborales.
     * El envío internacional lleva entre 10 y 20 días laborales.
-- question: How do refunds and returns work?
+- question: " ¿Cómo funcionan los reembolsos y devoluciones?"
   answer: |-
     It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
 
