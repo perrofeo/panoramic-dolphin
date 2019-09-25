@@ -31,9 +31,8 @@
     padding: 0 0.5em;
   }
   &__text1 {
-    font-family: $font_family_secondary;
-    font-size: $font_size_small;
-    font-weight: 400;
+    padding: 0 0.3em;
+    font-size: $font_size_regular;
   }
 
   &--icon-only {
