@@ -146,7 +146,7 @@
     &__description {
         font-size: $font_size_regular;
         color: $color_medium;
-        margin-bottom: 20px;
+        padding-bottom: 20px;
         line-height: 150%;
         border-bottom: 1px solid #981B42;
         @include smaller-than-tablet { font-size: $font_size_regular; }
