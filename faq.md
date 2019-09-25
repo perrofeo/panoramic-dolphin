@@ -14,8 +14,6 @@ questions:
     * El envío internacional lleva entre 10 y 20 días laborales.
 - question: " ¿Cómo funcionan los reembolsos y devoluciones?"
   answer: |-
-    It happens. Even the most beautiful of plants will disappoint _someone_. Again, tell it like it is:
-
     * Todas las ventas de artículos con descuento son finales.
     * Si desea otra versión de su artículo, utilice la etiqueta de devolución. Las instrucciones están impresas en su parte posterior
     * Si su artículo está dañado o no funciona correctamente, envíenos un correo electrónico a info@healthypleasures.com. Le reembolsaremos y le enviaremos uno nuevo lo antes posible.
