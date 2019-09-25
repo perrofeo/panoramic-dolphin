@@ -121,8 +121,8 @@ fields:
   config:
     required: true
 pages:
-- products/test-img.md
 - products/mantequilla-de-almendras-clásica.md
+- products/test-img.md
 - products/mantequilla-de-marañón-con-proteína.md
 - products/mantequilla-de-marañón-con-coco.md
 - products/mantequilla-de-marañón-con-chocolate.md
