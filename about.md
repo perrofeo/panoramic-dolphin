@@ -10,8 +10,8 @@ bulletpoints:
     y espíritu con la creación de productos saludables y donar el 10% de nuestras
     ganancias a misioneros cristianos.
   image:
-    optimized: images/nan_talk.webp
-    fallback: images/nan_talk.jpg
+    optimized: ''
+    fallback: "/images/nosotros_foto_mision.jpg"
 - title: "¿Qué queremos?"
   description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
