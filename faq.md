@@ -16,7 +16,7 @@ questions:
   answer: |-
     * Todas las ventas de artículos con descuento son finales.
     * Si desea otra versión de su artículo, utilice la etiqueta de devolución. Las instrucciones están impresas en su parte posterior
-    * Si su artículo está dañado o no funciona correctamente, envíenos un correo electrónico a [info@healthypleasures.com](). Le reembolsaremos y le enviaremos uno nuevo lo antes posible.
+    * Si su artículo está dañado o no funciona correctamente, envíenos un correo electrónico a **info@healthypleasures.com**. Le reembolsaremos y le enviaremos uno nuevo lo antes posible.
 - question: How do you handle sensitive customer information?
   answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
     am I right? Make sure you’re as transparent as possible with your data handling
