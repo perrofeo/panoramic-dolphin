@@ -30,6 +30,11 @@
   &__text {
     padding: 0 0.5em;
   }
+  &__text1 {
+    font-family: $font_family_secondary;
+    font-size: $font_size_small;
+    font-weight: 400;
+  }
 
   &--icon-only {
     width: $spacing--unit * 6;
