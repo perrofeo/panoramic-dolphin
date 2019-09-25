@@ -4,9 +4,10 @@ headline: Somos Healthy Pleasures
 introduction: Healthy Pleasures es una PYME costarricense que elabora las mejores
   mantequillas de maní, almendra y marañón naturales y artesanales.
 bulletpoints:
-- title: Nuestra misión
-  description: Bendecir el cuerpo, la mente y el espíritu de cada uno de nuestros
-    clientes y donar el 10% de nuestras ganancias a misiones de ayuda cristiana.
+- title: Nuestra razón de ser
+  description: Nuestra misión es bendecir el cuerpo, la mente y el espíritu de cada
+    uno de nuestros clientes y donar el 10% de nuestras ganancias a misiones de ayuda
+    cristiana.
   image:
     optimized: images/nan_talk.webp
     fallback: images/nan_talk.jpg
