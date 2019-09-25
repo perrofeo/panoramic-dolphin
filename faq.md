@@ -9,7 +9,7 @@ questions:
   answer: |-
     **Depende de dónde te encuentres**:
 
-    * El envío dentro del Valle Central shipping lleva entre 1 y 2 días laborales.
+    * El envío dentro del Valle Central lleva entre 1 y 2 días laborales.
     * El envío dentro de Costa Rica lleva entre 2 y 5 días laborales.
     * El envío internacional lleva entre 10 y 20 días laborales.
 - question: " ¿Cómo funcionan los reembolsos y devoluciones?"
