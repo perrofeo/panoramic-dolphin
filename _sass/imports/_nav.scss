@@ -94,6 +94,7 @@
       color: $color_dark;
     }
     &__button-icon {
+      display: flex;
       svg {
         path {
           fill: $color_dark;
