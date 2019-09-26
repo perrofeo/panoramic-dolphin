@@ -17,7 +17,7 @@ bulletpoints:
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
   image:
     optimized: ''
-    fallback: "/images/nosotros_foto_vision.jpg"
+    fallback: "/images/nosotros_foto_vision-1.jpg"
 layout: about
 menu:
   main:
