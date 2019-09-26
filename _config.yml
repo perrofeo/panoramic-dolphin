@@ -1,7 +1,7 @@
 ---
 baseurl: "/"
 permalink: "/:title/"
-title: Snipcart
+title: Healthy Pleasures
 snipcart_js: https://cdn.snipcart.com/scripts/2.0/snipcart.js
 snipcart_css: https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css
 snipcart_api_key: YzViMTVmZWMtOTQ1My00MTYxLTkxNzgtZmUyNmRkZjE3OTM4NjM2NjMyMjE0OTE3MDA1MjMx
