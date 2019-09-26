@@ -5,16 +5,19 @@ fields:
 - type: text
   name: id
   label: ID 100g
+  description: Un número único para identificar el producto.
 - name: id2
   type: text
   config:
     required: false
   label: ID 265g
+  description: Un número único para identificar el producto.
 - name: id3
   type: text
   config:
     required: false
   label: ID 1kg
+  description: Un número único para identificar el producto.
 - type: text
   name: title
   label: Title
@@ -86,6 +89,7 @@ fields:
       - type: file
         name: fallback
         label: Fallback (JPG or PNG)
+  description: 'Imágenes en formato cuadrado. Max 500x500. '
 - type: select
   name: category
   label: Category
@@ -93,16 +97,13 @@ fields:
     source:
       type: simple
     options:
-    - summer
-    - europe
-    - bigplants
-    - cactuses
     - almendra
     - maní
     - marañón
 - type: boolean
   name: featured
   label: Featured
+  description: 'Selecciónalo si quieres que salga en Best-sellers. '
 - type: select
   name: section
   label: Section
