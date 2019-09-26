@@ -1,7 +1,7 @@
 .hamburger {
   @include bigger-than-tablet { display: none; }
   outline: none;
-  padding: 0;
+  padding: 0 0 0 20px;
 
   &__content {
     background-color: $color_light;
