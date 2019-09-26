@@ -93,7 +93,7 @@
 
         &--active {
             font-weight: bold;
-            color: darken($color_dark, 10%);
+            color: $color_dark_grey;
             border-bottom: solid 1px #CC9933;
             padding-bottom: 5px;
             @include smaller-than-tablet {
