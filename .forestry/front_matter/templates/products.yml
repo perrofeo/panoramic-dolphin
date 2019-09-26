@@ -5,16 +5,19 @@ fields:
 - type: text
   name: id
   label: ID 100g
+  description: Un número único para identificar el producto.
 - name: id2
   type: text
   config:
     required: false
   label: ID 265g
+  description: Un número único para identificar el producto.
 - name: id3
   type: text
   config:
     required: false
   label: ID 1kg
+  description: Un número único para identificar el producto.
 - type: text
   name: title
   label: Title
