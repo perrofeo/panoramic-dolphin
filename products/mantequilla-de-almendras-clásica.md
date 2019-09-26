@@ -6,9 +6,9 @@ id3: "132"
 title: Mantequilla de Almendras Clásica
 description: 'Procesada con almendra de Costa Rica 100% pura y sin sal. Ingredientes:
   almendras puras y canela. Puede contener trazas de trigo, maní y marañón.'
-price1: '2,500'
-price2: '5,000'
-price3: '8,000'
+price1: "2500"
+price2: "5000"
+price3: "8000"
 images:
   default:
     thumbnail:
