@@ -103,6 +103,7 @@ fields:
 - type: boolean
   name: featured
   label: Featured
+  description: 'Selecciónalo si quieres que salga en best-sellers. '
 - type: select
   name: section
   label: Section
