@@ -93,10 +93,6 @@ fields:
     source:
       type: simple
     options:
-    - summer
-    - europe
-    - bigplants
-    - cactuses
     - almendra
     - maní
     - marañón
