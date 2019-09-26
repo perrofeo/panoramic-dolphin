@@ -94,7 +94,7 @@
         &--active {
             font-weight: bold;
             color: darken($color_dark, 10%);
-            border-bottom: solid 1px $color_active;
+            border-bottom: solid 1px #CC9933;
             padding-bottom: 5px;
             @include smaller-than-tablet {
                 border-bottom: none;
