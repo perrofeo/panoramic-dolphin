@@ -23,6 +23,7 @@
         &--light {
             svg path { fill: $color_light; }
             color: $color_light;
+            text-shadow: 2px 2px 8px #8B7475;
         }
 
         &--dark {
