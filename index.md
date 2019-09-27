@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: Inicio - Healthy Pleasures
 isHome: true
 layout: index
 
