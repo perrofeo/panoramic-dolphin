@@ -1,5 +1,5 @@
 ---
-title: Tienda
+title: 'Tienda '
 layout: store
 menu:
   main:
