@@ -132,4 +132,5 @@
   }
   background-repeat: no-repeat;
   background-size: cover;
+  @include smaller-than-tablet { background-position: bottom; }
 }
