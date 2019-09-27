@@ -1,5 +1,5 @@
 ---
-title: Tienda
+title: Tienda - Healthy Pleasures
 layout: store
 menu:
   main:
