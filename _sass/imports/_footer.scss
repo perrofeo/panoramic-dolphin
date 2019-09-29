@@ -23,9 +23,9 @@
     justify-content: center;
     align-items: center;
     &:not(:last-child) { 
-        margin-right: 40px;
+        margin-right: 0px;
     }
-    &__nav-item social {
+    &__nav-item-social {
       padding: 0 20px;
     }
   }
