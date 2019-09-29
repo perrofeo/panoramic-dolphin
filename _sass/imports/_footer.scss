@@ -25,6 +25,9 @@
     &:not(:last-child) { 
         margin-right: 40px;
     }
+    &__nav-item social {
+      padding: 0 20px;
+    }
   }
   
   &__logo { 
