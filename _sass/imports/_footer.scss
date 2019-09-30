@@ -37,9 +37,10 @@
   }
 
   &__nav-link { 
-    color: #ffffff;
-    font-weight: bold;
-    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: $font_family_primairy;
 }
 
   &__legal-notice {
