@@ -27,9 +27,9 @@
 
   &__price {
     margin-top: 15px;
-    font-size: $font_size_medium;
+    font-size: $font_size_regular;
     color: $color_dark_grey;
-    font-weight: bold;
+    text-align: center;
   }
   &__category {
     text-transform: uppercase;
