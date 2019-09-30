@@ -1,9 +1,9 @@
 {
-  "title": "Tu trio de mantequillas favoritas 20% off",
-  "subtitle": "a partir de ₡ 10 mil",
+  "title": "Tu mantequilla de marañón favorita 20% off",
+  "subtitle": "a partir de ₡  mil",
   "image": {
     "optimized": "",
-    "fallback": "/images/PROMO_prueba1.jpg"
+    "fallback": "/images/PROMO_prueba1-1.jpg"
   },
   "cta": {
     "text": "Descubre",
