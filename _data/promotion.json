@@ -1,12 +1,12 @@
 {
-  "title": "Tu mantequilla de marañón favorita 20% off",
-  "subtitle": "a partir de ₡  mil",
+  "title": "Tu mantequilla de marañón clásica 10% OFF",
+  "subtitle": "Usa el código MARSAVE10",
   "image": {
     "optimized": "",
     "fallback": "/images/PROMO_prueba1-1.jpg"
   },
   "cta": {
-    "text": "Descubre",
+    "text": "Comprar",
     "link": "/store"
   }
 }
