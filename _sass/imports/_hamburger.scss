@@ -58,15 +58,15 @@
     margin-bottom: 25px;
     font-weight: bold;
     padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: $font_family_primairy;
   }
  
   &__nav-link {
     text-align: center;
     font-size: $font_size_large;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: "Montserrat", sans-serif;
-    padding: 0px 20px 20px;
+    
   }
 }
