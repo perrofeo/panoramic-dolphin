@@ -30,6 +30,7 @@
     font-size: $font_size_regular;
     color: $color_dark_grey;
     text-align: center;
+    display: block;
   }
   &__category {
     text-transform: uppercase;
