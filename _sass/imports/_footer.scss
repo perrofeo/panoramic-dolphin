@@ -30,7 +30,7 @@
         margin-right: 40px;
     }
     @include smaller-than-tablet {
-      flex-direction: row;
+      flex-direction: column;
     }
   }
   
