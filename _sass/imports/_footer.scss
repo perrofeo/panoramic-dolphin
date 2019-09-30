@@ -29,6 +29,9 @@
     &:not(:last-child) { 
         margin-right: 40px;
     }
+    @include smaller-than-tablet {
+      flex-direction: row;
+    }
   }
   
   &__logo { 
