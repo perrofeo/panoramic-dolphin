@@ -23,8 +23,8 @@
     .webp & {
       background-image: $background_images_secondary_opt;
     }
-    background-size: auto 250%;
-    background-position: center;
+    background-size: auto 180%;
+    background-position: calc(90% + 100px) 13%;
     transition: left .3s ease-in-out;
 
     &--opened {
