@@ -19,7 +19,6 @@
       margin: 0;
       list-style: none;
       margin: 20px 0;
-      @include smaller-than-tablet { display: none; }
   }
 
   &__nav-item {
