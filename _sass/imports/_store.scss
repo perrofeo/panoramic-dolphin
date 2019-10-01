@@ -4,7 +4,7 @@
         font-size: $font_size_xlarge;
         line-height: 60px;
         @include smaller-than-tablet { 
-            font-size: $font_size_large; 
+            font-size: 38px; 
             line-height: 42px;
         }
         color: #B88A2E;
