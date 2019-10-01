@@ -11,17 +11,17 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: '/images/ALMENDRAS 100G PROTEINA WEB-2.webp'
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
     original:
-      optimized: ''
+      optimized: '/images/ALMENDRAS 100G PROTEINA WEB-2.webp'
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
   featured:
     thumbnail:
-      optimized: ''
+      optimized: '/images/FEAT-THUMB-ALMENDRA-CHOCO.webp'
       fallback: "/images/FEAT-THUMB-ALMENDRA-CHOCO.jpg"
     original:
-      optimized: ''
+      optimized: '/images/ALMENDRA-FONDO-CHOC-3.webp'
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: almendra
 featured: false

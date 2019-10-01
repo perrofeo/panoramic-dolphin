@@ -12,10 +12,10 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: '/images/ALMENDRAS CLASICA 100G WEB-2.webp'
       fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
     original:
-      optimized: ''
+      optimized: '/images/ALMENDRAS CLASICA 100G WEB-2.webp'
       fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
   featured:
     thumbnail:
