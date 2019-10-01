@@ -11,14 +11,14 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: "/images/MANI COCO 100G WEB-1.webp"
       fallback: "/images/MANI COCO 100G WEB-1.png"
     original:
-      optimized: ''
+      optimized: "/images/MANI COCO 100G WEB-1.webp"
       fallback: "/images/MANI COCO 100G WEB-1.png"
   featured:
     thumbnail:
-      optimized: ''
+      optimized: "/images/FEAT-THUMB-MANI-COCO.webp"
       fallback: "/images/FEAT-THUMB-MANI-COCO.jpg"
     original:
       optimized: ''

@@ -11,14 +11,14 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: "/images/MARANON COCO 100G WEB-2.webp"
       fallback: "/images/MARANON COCO 100G WEB-2.png"
     original:
-      optimized: ''
+      optimized: "/images/MARANON COCO 100G WEB-2.webp"
       fallback: "/images/MARANON COCO 100G WEB-2.png"
   featured:
     thumbnail:
-      optimized: ''
+      optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
       fallback: "/images/FEAT-THUMB-MARANON-CLAS.jpg"
     original:
       optimized: ''

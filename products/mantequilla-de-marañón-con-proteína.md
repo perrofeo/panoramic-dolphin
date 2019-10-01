@@ -11,14 +11,14 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: "/images/MARANON PROTEINA 100G-1.webp"
       fallback: "/images/MARANON PROTEINA 100G-1.png"
     original:
-      optimized: ''
+      optimized: "/images/MARANON PROTEINA 100G-1.webp"
       fallback: "/images/MARANON PROTEINA 100G-1.png"
   featured:
     thumbnail:
-      optimized: ''
+      optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
       fallback: "/images/FEAT-THUMB-MARANON-CLAS.jpg"
     original:
       optimized: ''
