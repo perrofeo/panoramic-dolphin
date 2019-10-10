@@ -43,6 +43,9 @@
   }
   &__logo-image {
     height: 55px;
+    @include smaller-than-tablet {
+      height: 52px;
+    }
   }
   &__total-items {
     @include smaller-than-tablet {
