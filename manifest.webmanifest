@@ -3,7 +3,7 @@
     "name" : "Healthy Pleasures",
     "scope" : "/",
     "display" : "standalone",
-    "start_url" : "https://panoramic-dolphin-d13b7.netlify.com/",
+    "start_url" : "https://www.healthypleasurescr.com/",
     "short_name" : "Healthy Pleasures",
     "theme_color" : "#CC9933",
     "description" : "Mantequillas de almendra, maní y marañón de Costa Rica",
@@ -14,7 +14,7 @@
     "generated" : "true",
     "icons" : [
         {
-            "src": "https://panoramic-dolphin-d13b7.netlify.com/images/Healthy-Pleasures-favicon.png",
+            "src": "https://www.healthypleasurescr.com/images/Healthy-Pleasures-favicon.png",
             "sizes": "512x512"
         }
     ]}
