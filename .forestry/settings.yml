@@ -27,6 +27,10 @@ sections:
   label: Tienda
   templates:
   - store
+- type: jekyll-posts
+  label: Blog
+  create: all
+  match: "**/*"
 - type: document
   path: faq.md
   label: FAQ
