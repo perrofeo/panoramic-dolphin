@@ -48,8 +48,6 @@
         <script src="{{ 'js/main.js' | relative_url }}"></script>
         <script src="{{ site.snipcart_js }}" defer></script>
         <div hidden id="snipcart" data-api-key="{{ site.snipcart_api_key }}"></div>
-        <script>Snipcart.api.configure('show_continue_shopping', true);
-            Snipcart.execute('config', 'show_continue_shopping', true);</script>
           <cart-header title="Planty">
             <div class="root">
               <header class="snipcart-cart-header" v-if="!loading">
