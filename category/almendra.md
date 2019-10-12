@@ -1,7 +1,7 @@
 ---
 layout: category
 slug: almendra
-title: Almendras
+title: Almendra
 section: Store
 menu:
   categories:

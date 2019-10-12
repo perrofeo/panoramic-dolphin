@@ -26,6 +26,6 @@ fields:
   config:
     required: true
 pages:
+- category/almendra.md
 - category/marañón-1.md
 - category/maní.md
-- category/almendra.md
