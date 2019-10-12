@@ -3,7 +3,7 @@ layout: product
 id: "100"
 id2: "101"
 id3: "102"
-title: Mantequilla de Almendras con Proteína
+title: Mantequilla de Almendra con Proteína
 description: Procesada con almendra (de CR) sin sal y 100% puro.
 price1: "2500"
 price2: "5000"
@@ -11,17 +11,17 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: '/images/ALMENDRAS 100G PROTEINA WEB-2.webp'
+      optimized: "/images/ALMENDRAS 100G PROTEINA WEB-2.webp"
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
     original:
-      optimized: '/images/ALMENDRAS 100G PROTEINA WEB-2.webp'
+      optimized: "/images/ALMENDRAS 100G PROTEINA WEB-2.webp"
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
   featured:
     thumbnail:
-      optimized: '/images/FEAT-THUMB-ALMENDRA-CHOCO.webp'
+      optimized: "/images/FEAT-THUMB-ALMENDRA-CHOCO.webp"
       fallback: "/images/FEAT-THUMB-ALMENDRA-CHOCO.jpg"
     original:
-      optimized: '/images/ALMENDRA-FONDO-CHOC-3.webp'
+      optimized: "/images/ALMENDRA-FONDO-CHOC-3.webp"
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: almendra
 featured: false
