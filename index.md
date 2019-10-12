@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Descubre nuestras mantequillas de almendras, maní y marañón
+# Descubre nuestras mantequillas de almendra, maní y marañón
