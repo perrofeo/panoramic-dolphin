@@ -48,11 +48,7 @@
         <script src="{{ 'js/main.js' | relative_url }}"></script>
         <script src="{{ site.snipcart_js }}" defer></script>
         <script>
-            if (typeof Snipcart !== 'undefined'){
-                document.addEventListener('snipcart.ready', function() {
-                    Snipcart.execute('config', 'show_continue_shopping', true);
-                });
-            }
+            Snipcart.api.configure('show_continue_shopping', true);
             </script>
         <div hidden id="snipcart" data-api-key="{{ site.snipcart_api_key }}">
           <cart-header title="Planty">
