@@ -29,7 +29,9 @@ sections:
   - store
 - type: jekyll-posts
   label: Blog
-  create: all
+  create: documents
+  templates:
+  - blog-post
 - type: document
   path: faq.md
   label: FAQ
