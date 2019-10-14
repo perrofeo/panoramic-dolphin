@@ -4,7 +4,7 @@
 }
 &__section-title {
     font-family: "Montserrat", sans-serif;
-    font-size: 42px;
+    font-size: $font_size_xxlarge;
     margin-bottom: 24px;
     color: #CC9933;
     margin-top: 75px;
@@ -12,5 +12,6 @@
 }
 p {
     padding: 0px 0 10px;
+    color: $color_medium;
 }
 }

@@ -57,3 +57,5 @@ exclude:
 collections:
   posts:
     permalink: "/posts/:title/"
+paginate: 2
+paginate_path: "/blog/page:num/"
