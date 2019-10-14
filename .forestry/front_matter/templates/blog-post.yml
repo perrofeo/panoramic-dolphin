@@ -11,5 +11,10 @@ fields:
   name: author
   label: author
   default: Healthy Pleasures
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
 pages:
 - _posts/2019-10-12-Mi primer post.md
