@@ -10,5 +10,6 @@ fields:
 - type: text
   name: author
   label: author
+  default: Healthy Pleasures
 pages:
 - _posts/2019-10-12-Mi primer post.md
