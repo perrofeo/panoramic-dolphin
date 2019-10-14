@@ -3,9 +3,10 @@ layout: body
 ---
 
 <main class="content post">
-  <h1 class="post__section-title">{{ page.title }}</h1>
-  <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+    <section class="content__row post__section">
+        <h1 class="post__section-title">{{ page.title }}</h1>
+        <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-{{ content }}
-
+        {{ content }}
+    </section>
 </main>
