@@ -16,5 +16,3 @@ fields:
   config:
     required: false
   label: title
-pages:
-- _posts/comprar-con-propósito.md
