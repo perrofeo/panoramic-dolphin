@@ -16,6 +16,10 @@ h2 {
     color: $color_active;
     font-size: $font_size_medium;
 }
+img {
+    max-width: 400px;
+    width: 100%;
+}
 p {
     padding: 0px 0 10px;
     color: $color_medium;
