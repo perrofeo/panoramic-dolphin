@@ -23,8 +23,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: almendra
 featured: false
-section: ''
+section: Store
 
 ---
