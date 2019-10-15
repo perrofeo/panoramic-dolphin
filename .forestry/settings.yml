@@ -28,7 +28,7 @@ sections:
   templates:
   - store
 - type: jekyll-posts
-  label: Blog
+  label: Post
   create: documents
   templates:
   - blog-post
