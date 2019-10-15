@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: Comprar con propósito
 
 ---
-![](/images/Gabo_misionero-1.jpg)
+![El misionero Gabriel en Malasia](/images/Gabo_misionero-1.jpg "Gabo el misionero de Healthy Pleasures")
 
 Te presentamos a Gabriel, uno de los misioneros que bendecis con cada una de tus compras.
 
