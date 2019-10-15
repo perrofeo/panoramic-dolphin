@@ -15,7 +15,7 @@ images:
       fallback: "/images/MARANON PROTEINA 100G-1.png"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ALMENDRA-FONDO-CHOC.jpg"
   featured:
     thumbnail:
       optimized: ''
