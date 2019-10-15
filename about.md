@@ -5,11 +5,6 @@ introduction: Healthy Pleasures es una PYME costarricense que elabora mantequill
   de maní, almendra y marañón. Nuestros productos son naturales, artesanales y
   hechos con materias primas 100% locales.
 bulletpoints:
-- title: fhgfhhhf
-  description: yryuururu8r
-  image:
-    optimized: ''
-    fallback: "/images/Gabo_misionero.jpg"
 - title: Nuestra razón de ser
   description: Nuestra misión desde el inicio ha sido y es la de bendecir tu cuerpo
     y espíritu con la creación de productos saludables y donar el 10% de nuestras
@@ -17,6 +12,11 @@ bulletpoints:
   image:
     optimized: ''
     fallback: "/images/nosotros_foto_mision.jpg"
+- title: fhgfhhhf
+  description: yryuururu8r
+  image:
+    optimized: ''
+    fallback: "/images/Gabo_misionero.jpg"
 - title: Qué queremos
   description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
