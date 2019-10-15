@@ -17,4 +17,5 @@ fields:
     required: false
   label: title
 pages:
+- _posts/ayudar-y-bendecir-el-cuerpo.md
 - _posts/test-title.md
