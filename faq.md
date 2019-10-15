@@ -1,5 +1,5 @@
 ---
-title: Preguntas Frecuentes
+title: FAQ
 headline: Preguntas Frecuentes
 introduction: Aquí puedes conocer rápidamente la respuesta a las preguntas más frecuentes
   que te puedan surgir a la hora de comprar nuestros productos en línea. No dudes
