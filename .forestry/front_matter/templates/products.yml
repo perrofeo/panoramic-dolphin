@@ -122,7 +122,6 @@ fields:
   config:
     required: true
 pages:
-- products/blablabla.md
 - products/mantequilla-de-almendras-con-coco.md
 - products/mantequilla-de-almendras-clásica.md
 - products/mantequilla-de-maní-con-proteína.md
