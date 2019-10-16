@@ -5,8 +5,6 @@ introduction: Aquí puedes conocer rápidamente la respuesta a las preguntas má
   que te puedan surgir a la hora de comprar nuestros productos en línea. No dudes
   en contactarnos si tienes alguna otra pregunta, sugerencia o problema.
 questions:
-- question: que es la vida?
-  answer: un blablabla
 - question: "¿Cuánto demora en llegar mi pedido?"
   answer: |-
     **Depende de dónde te encuentres**:
