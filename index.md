@@ -4,4 +4,6 @@ isHome: true
 layout: index
 
 ---
-# Descubre nuestras mantequillas de almendra, maní y marañón
+## Healthy Pleasures ®
+
+###### Mantequillas de semillas naturales, veganas y sin azúcar hechas con amor y propósito en Costa Rica. 
