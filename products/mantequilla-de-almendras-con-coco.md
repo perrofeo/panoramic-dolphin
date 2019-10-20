@@ -4,9 +4,11 @@ id: "40"
 id2: "41"
 id3: "42"
 title: Mantequilla de Almendra con Coco
-description: Procesada con almendra (de CR) sin sal y 100% puro.
-price1: "2500"
-price2: "5000"
+description: "¡Para los coco lovers! Si sos amante de las almendras y el coco esta
+  es tu opción. Ingredientes: almendras sin sal y coco rayado 100% puro. Su textura
+  crunchy te enamorará. "
+price1: "2850"
+price2: "17500"
 price3: "8000"
 images:
   default:
