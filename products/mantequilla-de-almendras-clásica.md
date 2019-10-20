@@ -3,12 +3,13 @@ layout: product
 id: "130"
 id2: "131"
 id3: "132"
-title: Mantequilla de Almendra Clásica
-description: 'Procesada con almendra de Costa Rica 100% pura y sin sal. Ingredientes:
-  almendras puras y canela. Puede contener trazas de trigo, maní y marañón.'
+title: Mantequilla de Almendra Pura
+description: 'Deliciosa mantequilla de almendra pura para los amantes de la comida
+  natural ♡ Sólo contiene 2 ingredientes: almendras sin sal y canela en polvo. Deleitate
+  con esta delicia natural.  '
 price1: "2500"
 price2: "5000"
-price3: "8000"
+price3: "16500"
 images:
   default:
     thumbnail:
