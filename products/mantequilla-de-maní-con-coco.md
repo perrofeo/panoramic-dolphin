@@ -4,10 +4,11 @@ id: "20"
 id2: "21"
 id3: "22"
 title: Mantequilla de Maní con Coco
-description: Procesada con maní (de CR) sin sal y 100% puro.
+description: 'Para los coconut lovers ♡ Contiene tan sólo dos ingredientes locales:
+  Maní sin sal y coco rayado puro. Su textura crunchy te encantará. '
 price1: "2500"
-price2: "5000"
-price3: "8000"
+price2: "4500"
+price3: "13500"
 images:
   default:
     thumbnail:
