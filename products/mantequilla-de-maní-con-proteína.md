@@ -3,11 +3,12 @@ layout: product
 id: "30"
 id2: "31"
 id3: "32"
-title: Mantequilla de Maní con Proteína
-description: Procesada con maní (de CR) sin sal y 100% puro.
-price1: "2500"
+title: Mantequilla de Maní con Proteína Vegana
+description: Esta mantequilla es una carga de proteína natural para tu cuerpo, si
+  deseas aumentar masa muscular esta es tu opción ♡
+price1: "2750"
 price2: "5000"
-price3: "8000"
+price3: "14000"
 images:
   default:
     thumbnail:
