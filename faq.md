@@ -14,12 +14,8 @@ questions:
     Correos de Costa Rica.\n2. Transporte Healthy Pleasures en Sabana, San Pedro,
     Curridabat, Escazú y Santa Ana."
 - question: "¿Cuánto demora en llegar mi pedido?"
-  answer: |-
-    **Depende de dónde te encuentres**:
-
-    * El envío dentro del Valle Central lleva entre 1 y 2 días laborales.
-    * El envío dentro de Costa Rica lleva entre 2 y 5 días laborales.
-    * El envío internacional lleva entre 10 y 20 días laborales.
+  answer: "**Depende de dónde te encuentres**:\n\n* El envío dentro de la GAM entre
+    1 y 2 días. \n* El envío fuer a dela GAM entre 2-3 días. "
 layout: faq
 menu:
   main:
