@@ -5,6 +5,10 @@ introduction: Aquí puedes conocer rápidamente la respuesta a las preguntas má
   que te puedan surgir a la hora de comprar nuestros productos en línea. No dudes
   en contactarnos si tienes alguna otra pregunta, sugerencia o problema.
 questions:
+- question: "¿Cómo realizan los envíos? "
+  answer: "Tenemos dos formas de entregarte tu pedido hasta tu casa o trabajo: \n\n1.
+    Correos de Costa Rica.\n2. Transporte Healthy Pleasures en Sabana, San Pedro,
+    Curridabat, Escazú y Santa Ana."
 - question: "¿Cuánto demora en llegar mi pedido?"
   answer: |-
     **Depende de dónde te encuentres**:
