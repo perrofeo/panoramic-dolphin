@@ -1,9 +1,9 @@
 ---
 title: FAQ
 headline: Preguntas Frecuentes
-introduction: Aquí puedes conocer rápidamente la respuesta a las preguntas más frecuentes
-  que te puedan surgir a la hora de comprar nuestros productos en línea. No dudes
-  en contactarnos si tienes alguna otra pregunta, sugerencia o problema.
+introduction: Aquí encontrarás respuesta a las preguntas más frecuentes que te puedan
+  surgir al comprar nuestros productos en línea. No dudes en contactarnos si tienes
+  alguna otra pregunta, sugerencia o problema.
 questions:
 - question: "¿Hacen envíos en todo Costa Rica?"
   answer: Sí, hacemos envíos en todo el país. Para nosotros es una prioridad que cada
