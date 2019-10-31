@@ -6,8 +6,8 @@ introduction: Healthy Pleasures es una PYME costarricense que elabora las mejore
   ¡Tu compra tiene un propósito! Descúbrelo a continuación...
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: "##### ¡Hola! Mi nombre es Bárbara fundadora de Healthy Pleasures,
-    junto a mi se encuentra mi mamá y mano derecha Sioní. Healthy Pleasures nació
+  description: "###### Mi nombre es Bárbara y soy la fundadora de Healthy Pleasures,
+    \ junto a mi se encuentra mi mamá y mano derecha Sioní. Healthy Pleasures nació
     en el corazón de Dios para crear alimentos nutritivos y deliciosos para vos. ¡Muchas
     gracias por escogernos!"
   image:
