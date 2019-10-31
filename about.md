@@ -11,6 +11,15 @@ bulletpoints:
   image:
     optimized: ''
     fallback: "/images/nosotros_foto_mision.jpg"
+- title: Comprá para tu bienestar y comprá para ayudar ♡
+  description: '[Cada vez que comprás una de nuestras mantequillas apoyas económicamente
+    la labor de amor y servicio de misioneros cristianos costarricenses en diferentes
+    partes del mundo. Conocé más sobre los misioneros que apoyas con cada una de tus
+    compras con tan solo un click. ](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/
+    "Comprar con propósito")'
+  image:
+    optimized: ''
+    fallback: ''
 - title: Qué queremos
   description: "Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
