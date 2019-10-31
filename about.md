@@ -21,11 +21,9 @@ bulletpoints:
   image:
     optimized: ''
     fallback: ''
-- title: Qué queremos
-  description: "Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
+- title: Visión
+  description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
-    \n\nCreemos que al comer rico y saludable es parte de amar nuestro cuerpo y quienes
-    somos. "
   image:
     optimized: "/images/Webpg.webp"
     fallback: "/images/HEALTHY PLEASURES-11.jpg"
