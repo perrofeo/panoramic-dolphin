@@ -19,7 +19,7 @@ bulletpoints:
     \n\nCreemos que al comer rico y saludable es parte de amar nuestro cuerpo y quienes
     somos. "
   image:
-    optimized: ''
+    optimized: "/images/Webpg.webp"
     fallback: "/images/HEALTHY PLEASURES-11.jpg"
 layout: about
 menu:
