@@ -7,11 +7,9 @@ introduction: "###### **Somos una pequeña empresa dedicada a la elaboración de
 bulletpoints:
 - title: "¿Quiénes somos?"
   description: "###### Mi nombre es Bárbara, tengo 25 años y soy una emprededora de
-    Costa Rica. Healthy Pleasures nació en el corazón de Dios con un doble propósito:
-    bendecir tu cuerpo, mente y espíritu con nuestros productos y donar el 10% de
-    las ganancias a misioneros cristianos de Costa Rica. Somos un equipo de tres mujeres
-    que se dedican a trabajar todos los días con pasión para llevar alimentos naturales
-    y de calidad hasta tu mesa ♡"
+    Costa Rica. Somos un equipo conformado por tres mujeres que se dedican a trabajar
+    todos los días con pasión para llevar alimentos naturales y de calidad hasta tu
+    mesa. Si querés conocernos más hac click **aquí.**"
   image:
     optimized: "/images/Foto yo.webp"
     fallback: "/images/Foto yo.png"
