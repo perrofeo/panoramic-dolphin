@@ -8,8 +8,8 @@ bulletpoints:
 - title: "¿Quiénes somos?"
   description: "##### ¡Hola! Mi nombre es Bárbara fundadora de Healthy Pleasures,
     junto a mi se encuentra mi mamá y mano derecha Sioní. Healthy Pleasures nació
-    en el corazón de Dios para crear alimentos nutritivos y deliciosos para vos, con
-    ingredientes orgullosamente ticos. "
+    en el corazón de Dios para crear alimentos nutritivos y deliciosos para vos. ¡Muchas
+    gracias por escogernos!"
   image:
     optimized: ''
     fallback: "/images/nosotros_foto_mision.jpg"
