@@ -25,12 +25,11 @@ bulletpoints:
     optimized: "/images/Fotogabo.webp"
     fallback: "/images/Foto Gabo.png"
 - title: "¿Qué queremos?"
-  description: |-
-    Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
-
-    ***
-
-    Utilizar envases 100% reutilizables y reciclables para inculcar una cultura de protección de nuestro planeta.
+  description: "Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
+    con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.\n\n***\n\nUtilizar
+    envases 100% reutilizables y reciclables con el fin de proteger nuestro planeta.
+    Si te interesa conocer más sobre nuestro programa de reutilización de frascos
+    haz click **aquí.** "
   image:
     optimized: "/images/Webpg.webp"
     fallback: "/images/HEALTHY PLEASURES-11.jpg"
