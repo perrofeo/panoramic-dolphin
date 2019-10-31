@@ -6,10 +6,8 @@ introduction: Healthy Pleasures es una PYME costarricense que elabora las mejore
   ¡Tu compra tiene un propósito! Descúbrelo a continuación...
 bulletpoints:
 - title: Nuestro propósito
-  description: "Healthy Pleasures nació con un propósito claro: Bendecir el cuerpo,
-    la mente y el espíritu de nuestros/as clientes con nuestros productos y donar
-    el 10% de las ganancias a misioneros cristianos de Costa Rica. \n\n¡Comprá para
-    tu bienestar y comprá para ayudar! ♡"
+  description: Bendecir tu  cuerpo, mente y espíritu con nuestros productos y donar
+    el 10% de las ganancias a misioneros cristianos de Costa Rica.
   image:
     optimized: ''
     fallback: "/images/nosotros_foto_mision.jpg"
