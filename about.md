@@ -1,7 +1,7 @@
 ---
 title: Nuestra Historia
 headline: Somos Healthy Pleasures
-introduction: "###### **Somos una pequeña empresa dedicada a la elaboración de mantequillas
+introduction: "##### **Somos una pequeña empresa dedicada a la elaboración de mantequillas
   de nueces 100% naturales, veganas, artesanales, keto y sin azúcar. Tu compra tiene
   un gran propósito, decubrilo a continuación...** "
 bulletpoints:
@@ -25,8 +25,10 @@ bulletpoints:
     optimized: "/images/Fotogabo.webp"
     fallback: "/images/Foto Gabo.png"
 - title: Visión
-  description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
-    con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
+  description: "Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
+    con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.\n\nUtilizar
+    envases 100% reutilizables y reciclables para inculcar una cultura de protección
+    de nuestro planeta. "
   image:
     optimized: "/images/Webpg.webp"
     fallback: "/images/HEALTHY PLEASURES-11.jpg"
