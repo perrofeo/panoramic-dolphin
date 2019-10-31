@@ -19,7 +19,8 @@ bulletpoints:
     vez que comprás una de nuestras mantequillas apoyas económicamente la labor de
     amor y servicio de misioneros cristianos costarricenses en diferentes partes del
     mundo. Conocé más sobre los misioneros que apoyas con cada una de tus compras
-    con tan solo un click. "
+    con tan solo un [**click.**](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/
+    \"Compra con propósito\") "
   image:
     optimized: "/images/Fotogabo.webp"
     fallback: "/images/Foto Gabo.png"
