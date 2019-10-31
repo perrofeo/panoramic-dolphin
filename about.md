@@ -11,8 +11,8 @@ bulletpoints:
     en el corazón de Dios para crear alimentos nutritivos y deliciosos para vos. ¡Muchas
     gracias por escogernos!"
   image:
-    optimized: ''
-    fallback: "/images/nosotros_foto_mision.jpg"
+    optimized: "/images/Foto yo.webp"
+    fallback: "/images/Foto yo.png"
 - title: 'Nuestro propósito '
   description: |-
     ##### Bendecir tu cuerpo, mente y espíritu con nuestros productos y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.
