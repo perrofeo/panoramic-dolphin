@@ -20,7 +20,7 @@ bulletpoints:
     somos. "
   image:
     optimized: ''
-    fallback: "/images/nosotros_foto_vision-1.jpg"
+    fallback: "/images/HEALTHY PLEASURES-11.jpg"
 layout: about
 menu:
   main:
