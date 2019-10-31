@@ -15,7 +15,7 @@ bulletpoints:
     fallback: "/images/Foto yo.png"
 - title: 'Nuestro propósito '
   description: "##### Bendecir tu cuerpo, mente y espíritu con nuestros productos
-    y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.\n\n![](/images/Gabo_misionero-1.jpg)\n\nCada
+    y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.\n\n***\n\nCada
     vez que comprás una de nuestras mantequillas apoyas económicamente la labor de
     amor y servicio de misioneros cristianos costarricenses en diferentes partes del
     mundo. Conocé más sobre los misioneros que apoyas con cada una de tus compras
