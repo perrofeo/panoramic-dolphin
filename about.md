@@ -6,10 +6,10 @@ introduction: "###### **Somos una pequeña empresa dedicada a la elaboración de
   un gran propósito, decubrilo a continuación...** "
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: "###### Mi nombre es Bárbara, tengo 25 años y soy una emprededora de
-    Costa Rica. Somos un equipo conformado por tres mujeres que se dedican a trabajar
-    todos los días con pasión para llevar alimentos naturales y de calidad hasta tu
-    mesa. Si querés conocernos más hac click **aquí.**"
+  description: Mi nombre es Bárbara, tengo 25 años y soy una emprededora de Costa
+    Rica. Somos un equipo conformado por tres mujeres que se dedican a trabajar todos
+    los días con pasión para llevar alimentos naturales y de calidad hasta tu mesa.
+    Si querés conocernos más hac click **aquí.**
   image:
     optimized: "/images/Foto yo.webp"
     fallback: "/images/Foto yo.png"
