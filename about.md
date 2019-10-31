@@ -13,12 +13,11 @@ bulletpoints:
   image:
     optimized: ''
     fallback: "/images/nosotros_foto_mision.jpg"
-- title: Comprá para tu bienestar y comprá para ayudar ♡
-  description: '[Cada vez que comprás una de nuestras mantequillas apoyas económicamente
-    la labor de amor y servicio de misioneros cristianos costarricenses en diferentes
-    partes del mundo. Conocé más sobre los misioneros que apoyas con cada una de tus
-    compras con tan solo un click. ](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/
-    "Comprar con propósito")'
+- title: 'Nuestro propósito '
+  description: |-
+    Bendecir tu cuerpo, mente y espíritu con nuestros productos y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.
+
+    [Cada vez que comprás una de nuestras mantequillas apoyas económicamente la labor de amor y servicio de misioneros cristianos costarricenses en diferentes partes del mundo. Conocé más sobre los misioneros que apoyas con cada una de tus compras con tan solo un click. ](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/ "Comprar con propósito")
   image:
     optimized: ''
     fallback: ''
