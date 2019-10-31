@@ -3,7 +3,7 @@ title: Nuestra Historia
 headline: Somos Healthy Pleasures
 introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la elaboración
   de mantequillas de nueces 100% naturales, veganas, artesanales, keto y sin azúcar.
-  Tu compra tiene un gran propósito, decubrilo a continuación...** "
+  Tu compra tiene un gran propósito, descubrilo a continuación...** "
 bulletpoints:
 - title: "¿Quiénes somos?"
   description: Mi nombre es Bárbara, tengo 25 años y soy una emprededora de Costa
