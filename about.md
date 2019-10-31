@@ -6,10 +6,12 @@ introduction: "###### **Somos una pequeña empresa dedicada a la elaboración de
   un gran propósito, decubrilo a continuación...** "
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: "###### Mi nombre es Bárbara y soy la fundadora de Healthy Pleasures,
-    \ junto a mi se encuentra mi mamá y mano derecha Sioní. Healthy Pleasures nació
-    en el corazón de Dios para crear alimentos nutritivos y deliciosos para vos. ¡Muchas
-    gracias por escogernos!"
+  description: "###### Mi nombre es Bárbara, tengo 25 años y soy una emprededora de
+    Costa Rica. Healthy Pleasures nació en el corazón de Dios con un doble propósito:
+    bendecir tu cuerpo, mente y espíritu con nuestros productos y donar el 10% de
+    las ganancias a misioneros cristianos de Costa Rica. Somos un equipo de tres mujeres
+    que se dedican a trabajar todos los días con pasión para llevar alimentos naturales
+    y de calidad hasta tu mesa ♡"
   image:
     optimized: "/images/Foto yo.webp"
     fallback: "/images/Foto yo.png"
