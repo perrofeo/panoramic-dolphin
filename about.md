@@ -5,9 +5,11 @@ introduction: Healthy Pleasures es una PYME costarricense que elabora las mejore
   mantequillas de nueces 100% naturales, veganas, artesanales, keto y sin azúcar.
   ¡Tu compra tiene un propósito! Descúbrelo a continuación...
 bulletpoints:
-- title: Nuestro propósito
-  description: Bendecir tu  cuerpo, mente y espíritu con nuestros productos y donar
-    el 10% de las ganancias a misioneros cristianos de Costa Rica.
+- title: "¿Quiénes somos?"
+  description: "##### ¡Hola! Mi nombre es Bárbara fundadora de Healthy Pleasures,
+    junto a mi se encuentra mi mamá y mano derecha Sioní. Healthy Pleasures nació
+    en el corazón de Dios para crear alimentos nutritivos y deliciosos para vos, con
+    ingredientes orgullosamente ticos. "
   image:
     optimized: ''
     fallback: "/images/nosotros_foto_mision.jpg"
