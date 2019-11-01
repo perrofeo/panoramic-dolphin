@@ -107,6 +107,12 @@
         }
       }
     }
+    &__nav-right a {
+      svg {
+        path {
+          fill: white;
+        }
+      }
   }
 }
 
