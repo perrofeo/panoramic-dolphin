@@ -21,13 +21,13 @@ images:
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
   featured:
     thumbnail:
-      optimized: "/images/FEAT-THUMB-ALMENDRA-CHOCO.webp"
-      fallback: "/images/FEAT-THUMB-ALMENDRA-CHOCO.jpg"
+      optimized: "/images/almendra proteina.webp"
+      fallback: "/images/HEALTHY PLEASURES-6.jpg"
     original:
       optimized: "/images/ALMENDRA-FONDO-CHOC-3.webp"
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: almendra
-featured: false
+featured: true
 section: Store
 
 ---
