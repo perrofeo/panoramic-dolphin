@@ -1,23 +1,38 @@
 ---
 title: Nuestra Historia
 headline: Somos Healthy Pleasures
-introduction: Healthy Pleasures es una PYME costarricense que elabora mantequillas
-  de maní, almendra y marañón. Nuestros productos son naturales, artesanales y
-  hechos con materias primas 100% locales.
+introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la elaboración
+  de mantequillas de nueces 100% naturales, veganas, artesanales, keto y sin azúcar.
+  Tu compra tiene un gran propósito, descubrilo a continuación...** "
 bulletpoints:
-- title: Nuestra razón de ser
-  description: Nuestra misión desde el inicio ha sido y es la de bendecir tu cuerpo
-    y espíritu con la creación de productos saludables y donar el 10% de nuestras
-    ganancias a misioneros cristianos.
+- title: "¿Quiénes somos?"
+  description: Mi nombre es Bárbara, tengo 25 años y soy una emprededora de Costa
+    Rica. Somos un equipo conformado por tres mujeres que se dedican a trabajar todos
+    los días con pasión para llevar alimentos naturales y de calidad hasta tu mesa.
+    Si querés conocernos más hacé click **aquí.**
   image:
-    optimized: ''
-    fallback: "/images/nosotros_foto_mision.jpg"
-- title: Qué queremos
-  description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
-    con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
+    optimized: "/images/Foto yo.webp"
+    fallback: "/images/Foto yo.png"
+- title: 'Nuestro propósito '
+  description: "##### Bendecir tu cuerpo, mente y espíritu con nuestros productos
+    y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.\n\n***\n\nCada
+    vez que comprás una de nuestras mantequillas apoyas económicamente la labor de
+    amor y servicio de misioneros cristianos costarricenses en diferentes partes del
+    mundo. Conocé más sobre los misioneros que apoyas con cada una de tus compras
+    con tan solo un [**click.**](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/
+    \"Compra con propósito\") "
   image:
-    optimized: ''
-    fallback: "/images/nosotros_foto_vision-1.jpg"
+    optimized: "/images/Fotogabo.webp"
+    fallback: "/images/Foto Gabo.png"
+- title: "¿Qué queremos?"
+  description: "Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
+    con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.\n\n***\n\nUtilizar
+    envases 100% reutilizables y reciclables con el fin de proteger nuestro planeta.
+    Si te interesa conocer más sobre nuestro programa de reutilización de frascos
+    haz click **aquí.** "
+  image:
+    optimized: "/images/Webpg.webp"
+    fallback: "/images/HEALTHY PLEASURES-11.jpg"
 layout: about
 menu:
   main:
