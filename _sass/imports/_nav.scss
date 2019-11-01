@@ -92,7 +92,7 @@
   &--light {
     color: white;
     .hamburger__icon-path {
-      fill: $color_dark;
+      fill: white;
     }
   }
   &--light & {
@@ -103,7 +103,7 @@
       display: flex;
       svg {
         path {
-          fill: $color_dark;
+          fill: white;
         }
       }
     }
