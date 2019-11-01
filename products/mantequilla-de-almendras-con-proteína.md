@@ -21,8 +21,8 @@ images:
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
   featured:
     thumbnail:
-      optimized: "/images/almendraproteina.webp"
-      fallback: "/images/MANTEQUILLA ALMENDRA FONDO PROTEINA.jpg"
+      optimized: "/images/ezgif.com-gif-maker (6).webp"
+      fallback: "/images/MANTEQUILLA ALMENDRA FONDO PROTEINA.jpeg"
     original:
       optimized: "/images/ALMENDRA-FONDO-CHOC-3.webp"
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
