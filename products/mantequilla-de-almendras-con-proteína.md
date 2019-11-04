@@ -14,8 +14,8 @@ price3: "19000"
 images:
   default:
     thumbnail:
-      optimized: "/images/ALMENDRAS 100G PROTEINA WEB-2.webp"
-      fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
+      optimized: "/images/almendraproteina-1.webp"
+      fallback: "/images/ALMENDRA PROTEINA 265G-1.png"
     original:
       optimized: "/images/ALMENDRAS 100G PROTEINA WEB-2.webp"
       fallback: "/images/ALMENDRAS 100G PROTEINA WEB-2.png"
