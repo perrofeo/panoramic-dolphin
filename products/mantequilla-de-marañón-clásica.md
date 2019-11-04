@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: "/images/marañonpura.webp"
-      fallback: "/images/MARANON PURA 265G.png"
+      fallback: "/images/MARANON PURA 265G-1.png"
     original:
       optimized: "/images/marañonpura.webp"
       fallback: "/images/MARANON PURA 265G.png"
