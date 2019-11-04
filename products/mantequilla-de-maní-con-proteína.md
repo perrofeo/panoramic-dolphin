@@ -12,8 +12,8 @@ price3: "14000"
 images:
   default:
     thumbnail:
-      optimized: "/images/MANI PROTEINA 100G WEB-1.webp"
-      fallback: "/images/MANI PROTEINA 100G WEB-1.png"
+      optimized: "/images/maniproteina.webp"
+      fallback: "/images/MANI PROTEINA 265.png"
     original:
       optimized: "/images/MANI PROTEINA 100G WEB-1.webp"
       fallback: "/images/MANI PROTEINA 100G WEB-1.png"
