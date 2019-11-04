@@ -15,8 +15,8 @@ images:
       optimized: "/images/maniproteina.webp"
       fallback: "/images/MANI PROTEINA 265.png"
     original:
-      optimized: "/images/MANI PROTEINA 100G WEB-1.webp"
-      fallback: "/images/MANI PROTEINA 100G WEB-1.png"
+      optimized: "/images/maniproteina.webp"
+      fallback: "/images/MANI PROTEINA 265.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MANI-PROT.webp"
