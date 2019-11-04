@@ -13,8 +13,8 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: "/images/ALMENDRAS 100G COCO WEB-1.webp"
-      fallback: "/images/ALMENDRAS 100G COCO WEB-1.png"
+      optimized: "/images/almendracoco.webp"
+      fallback: "/images/MANTEQUILLA COCO 265G.png"
     original:
       optimized: "/images/ALMENDRAS 100G COCO WEB-1.webp"
       fallback: "/images/ALMENDRAS 100G COCO WEB-1.png"
