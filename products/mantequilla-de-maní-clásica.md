@@ -15,8 +15,8 @@ images:
       optimized: "/images/manipura.webp"
       fallback: "/images/MANI PURO 265.png"
     original:
-      optimized: "/images/MANI 100G WEB-1.webp"
-      fallback: "/images/MANI 100G WEB-1.png"
+      optimized: "/images/manipura.webp"
+      fallback: "/images/MANI PURO 265.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MANI-COCO.webp"
