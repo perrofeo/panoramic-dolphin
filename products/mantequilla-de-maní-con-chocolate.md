@@ -15,8 +15,8 @@ images:
       optimized: "/images/manichocolate.webp"
       fallback: "/images/MANI CHOCOLATE 265.png"
     original:
-      optimized: "/images/MANI 100G CHOCOLATE WEB-1.webp"
-      fallback: "/images/MANI 100G CHOCOLATE WEB-1.png"
+      optimized: "/images/manichocolate.webp"
+      fallback: "/images/MANI CHOCOLATE 265.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MANI-COCO.webp"
