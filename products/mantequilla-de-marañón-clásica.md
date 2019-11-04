@@ -11,7 +11,7 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañonpura.webp"
+      optimized: "/images/marañonpura-1.webp"
       fallback: "/images/MARANON PURA 265G.png"
     original:
       optimized: "/images/MARANON CLASICA 100G-1.webp"
