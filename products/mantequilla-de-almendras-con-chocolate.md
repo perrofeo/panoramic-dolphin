@@ -13,8 +13,8 @@ price3: "19000"
 images:
   default:
     thumbnail:
-      optimized: "/images/ALMENDRAS 100G CHOCOLATE WEB.webp"
-      fallback: "/images/ALMENDRAS 100G CHOCOLATE WEB.png"
+      optimized: "/images/almendrachocolate.webp"
+      fallback: "/images/ALMENDRA CHOCOLATE 265G-1.png"
     original:
       optimized: "/images/ALMENDRAS 100G CHOCOLATE WEB.webp"
       fallback: "/images/ALMENDRAS 100G CHOCOLATE WEB.png"
