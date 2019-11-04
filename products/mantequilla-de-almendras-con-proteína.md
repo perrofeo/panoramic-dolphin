@@ -3,11 +3,8 @@ layout: product
 id: "100"
 id2: "101"
 id3: "102"
-title: Mantequilla de Almendra con Proteína
-description: 'Nuestra mantequilla de almendra con proteína es tu opción si buscas
-  incorporar proteína en tu alimentación. La proteína que utilizamos es vegana y sin
-  azúcar porque nos interesa que consigas tus metas de la forma más saludable posible
-  ♡  '
+title: Mantequilla de Almendra con Proteína Vegana
+description: 'La proteína que utilizamos es vegana (libre de lácteos) y sin azúcar. '
 price1: "3000"
 price2: "6000"
 price3: "19000"
