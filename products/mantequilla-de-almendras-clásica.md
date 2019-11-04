@@ -12,8 +12,8 @@ price3: "16500"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendrapura.webp"
-      fallback: "/images/ALMENDRA PURA 265G.png"
+      optimized: "/images/almendrapura2.webp"
+      fallback: "/images/ALMENDRA PURA 265G-1.png"
     original:
       optimized: "/images/almendrapura.webp"
       fallback: "/images/ALMENDRA PURA 265G.png"
