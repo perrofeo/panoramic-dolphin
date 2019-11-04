@@ -12,8 +12,8 @@ price3: "13500"
 images:
   default:
     thumbnail:
-      optimized: "/images/MANI COCO 100G WEB-1.webp"
-      fallback: "/images/MANI COCO 100G WEB-1.png"
+      optimized: "/images/manicoco.webp"
+      fallback: "/images/MANI COCO 265-1.png"
     original:
       optimized: "/images/manicoco.webp"
       fallback: "/images/MANI COCO 265-1.png"
