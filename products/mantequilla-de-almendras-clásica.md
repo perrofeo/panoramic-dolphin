@@ -16,8 +16,8 @@ images:
       optimized: "/images/almendrapura.webp"
       fallback: "/images/ALMENDRA PURA 265G.png"
     original:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB-2.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
+      optimized: "/images/almendrapura.webp"
+      fallback: "/images/ALMENDRA PURA 265G.png"
   featured:
     thumbnail:
       optimized: ''
