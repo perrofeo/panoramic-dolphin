@@ -13,8 +13,8 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendracoco.webp"
-      fallback: "/images/MANTEQUILLA COCO 265G.png"
+      optimized: "/images/almendracoco-1.webp"
+      fallback: "/images/MANTEQUILLA COCO 265G-1.jpg"
     original:
       optimized: "/images/almendracoco.webp"
       fallback: "/images/MANTEQUILLA COCO 265G.png"
