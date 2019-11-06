@@ -144,5 +144,8 @@
   }
   background-repeat: no-repeat;
   background-size: cover;
-  @include smaller-than-tablet { background-position: bottom; }
+  @include smaller-than-tablet { 
+    background-position: bottom;
+    background: url(/images/PORTADA_prueba13c1.jpg); 
+  }
 }
