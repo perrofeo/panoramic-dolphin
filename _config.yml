@@ -11,7 +11,7 @@ logos:
     fallback: "/images/logo-healthy-pleasures-blanco.svg"
   dark:
     optimized: "/images/logo-healthy-pleasures.svg"
-    fallback: "/images/logo-healthy-pleasures.png"
+    fallback: "/images/logo healthy pleasures.png"
 palette: default
 palettes:
   default:
@@ -57,4 +57,3 @@ exclude:
 collections:
   posts:
     permalink: "/posts/:title/"
-
