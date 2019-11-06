@@ -7,8 +7,8 @@ snipcart_css: https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css
 snipcart_api_key: YzViMTVmZWMtOTQ1My00MTYxLTkxNzgtZmUyNmRkZjE3OTM4NjM2NjMyMjE0OTE3MDA1MjMx
 logos:
   light:
-    optimized: "/images/logo-healthy-pleasures.svg"
-    fallback: "/images/logo-healthy-pleasures.png"
+    optimized: "/images/logo-healthy-pleasures-blanco.svg"
+    fallback: "/images/logo-healthy-pleasures-blanco.svg"
   dark:
     optimized: "/images/logo-healthy-pleasures.svg"
     fallback: "/images/logo healthy pleasures.png"
@@ -26,8 +26,8 @@ palettes:
       active_dark: "#547567"
       dark_grey: "#715F60"
       light_grey: "#8B7475"
-      bg_image_primary_optimized: "/images/PORTADA_prueba13c.jpg"
-      bg_image_primary_fallback: "/images/PORTADA_prueba13c.jpg"
+      bg_image_primary_optimized: "/images/PORTADA_prueba13b.jpg"
+      bg_image_primary_fallback: "/images/PORTADA_prueba13b.jpg"
       bg_image_secondary_optimized: "/images/rama_fondo_pagina.svg"
       bg_image_secondary_fallback: "/images/rama_fondo_pagina.svg"
       bg_image_product_optimized: "/images/rama_fondo_promo.svg"
