@@ -11,8 +11,8 @@ price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: "/images/MARANON COCO 100G WEB-2.webp"
-      fallback: "/images/MARANON COCO 100G WEB-2.png"
+      optimized: "/images/marañoncoco.webp"
+      fallback: "/images/MARANON COCO 265G.png"
     original:
       optimized: "/images/MARANON COCO 100G WEB-2.webp"
       fallback: "/images/MARANON COCO 100G WEB-2.png"

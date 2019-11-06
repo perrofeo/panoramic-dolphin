@@ -3,19 +3,19 @@ layout: product
 id: "25"
 id2: "26"
 id3: "27"
-title: Mantequilla de Marañón Clásica
-description: Procesada con marañon (de CR) sin sal y 100% puro.
+title: 'Mantequilla de marañón '
+description: 'Esta opción tiene un único ingrediente: marañones procesasados. '
 price1: "2500"
 price2: "5000"
 price3: "8000"
 images:
   default:
     thumbnail:
-      optimized: "/images/MARANON CLASICA 100G-1.webp"
-      fallback: "/images/MARANON CLASICA 100G-1.png"
+      optimized: "/images/marañonpura.webp"
+      fallback: "/images/MARANON PURA 265G-1.png"
     original:
-      optimized: "/images/MARANON CLASICA 100G-1.webp"
-      fallback: "/images/MARANON CLASICA 100G-1.png"
+      optimized: "/images/marañonpura.webp"
+      fallback: "/images/MARANON PURA 265G.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"

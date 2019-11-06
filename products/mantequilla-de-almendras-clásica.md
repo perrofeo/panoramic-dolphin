@@ -4,20 +4,19 @@ id: "130"
 id2: "131"
 id3: "132"
 title: Mantequilla de Almendra Pura
-description: 'Deliciosa mantequilla de almendra pura para los amantes de la comida
-  natural ♡ Sólo contiene 2 ingredientes: almendras sin sal y canela en polvo. Deleitate
-  con esta delicia natural.  '
+description: 'Deliciosa mantequilla de almendra pura ♡ Sólo contiene 2 ingredientes:
+  almendras sin sal y canela en polvo.'
 price1: "2500"
 price2: "5000"
 price3: "16500"
 images:
   default:
     thumbnail:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB-2.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
+      optimized: "/images/almendrapura2.webp"
+      fallback: "/images/ALMENDRA PURA 265G-1.png"
     original:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB-2.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB-2.png"
+      optimized: "/images/almendrapura.webp"
+      fallback: "/images/ALMENDRA PURA 265G.png"
   featured:
     thumbnail:
       optimized: ''
