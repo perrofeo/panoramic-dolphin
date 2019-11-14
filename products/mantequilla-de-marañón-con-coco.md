@@ -5,17 +5,17 @@ id2: "121"
 id3: "122"
 title: Mantequilla de Marañón con Coco
 description: Procesada con marañon (de CR) sin sal y 100% puro.
-price1: "2500"
-price2: "5000"
-price3: "8000"
+price1: "3000"
+price2: "6500"
+price3: "20500"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañoncoco.webp"
-      fallback: "/images/MARANON COCO 265G.png"
+      optimized: "/images/marañoncoco-1.webp"
+      fallback: "/images/mantequillaArtboard 18.png"
     original:
-      optimized: "/images/MARANON COCO 100G WEB-2.webp"
-      fallback: "/images/MARANON COCO 100G WEB-2.png"
+      optimized: "/images/marañoncoco-1.webp"
+      fallback: "/images/mantequillaArtboard 18.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
