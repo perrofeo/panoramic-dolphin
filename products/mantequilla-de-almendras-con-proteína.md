@@ -14,8 +14,8 @@ images:
       optimized: "/images/almendraproteina-2.webp"
       fallback: "/images/mantequillaArtboard 4.png"
     original:
-      optimized: "/images/almendraproteina-1.webp"
-      fallback: "/images/ALMENDRA PROTEINA 265G-1.png"
+      optimized: "/images/almendraproteina-2.webp"
+      fallback: "/images/mantequillaArtboard 4.png"
   featured:
     thumbnail:
       optimized: "/images/ezgif.com-gif-maker (6).webp"
