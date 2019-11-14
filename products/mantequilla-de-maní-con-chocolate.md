@@ -12,8 +12,8 @@ price3: "13500"
 images:
   default:
     thumbnail:
-      optimized: "/images/manichocolate.webp"
-      fallback: "/images/MANI CHOCOLATE 265.png"
+      optimized: "/images/manichocolate-1.webp"
+      fallback: "/images/mantequillaArtboard 8.png"
     original:
       optimized: "/images/manichocolate.webp"
       fallback: "/images/MANI CHOCOLATE 265.png"
