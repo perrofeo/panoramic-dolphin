@@ -13,8 +13,8 @@ price3: "19000"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendrachocolate.webp"
-      fallback: "/images/ALMENDRA CHOCOLATE 265G-1.png"
+      optimized: "/images/Amendrachocolate.webp"
+      fallback: "/images/mantequillaArtboard 3.png"
     original:
       optimized: "/images/almendrachocolate.webp"
       fallback: "/images/ALMENDRA CHOCOLATE 265G-1.png"
