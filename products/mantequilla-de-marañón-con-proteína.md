@@ -5,17 +5,17 @@ id2: "111"
 id3: "112"
 title: Mantequilla de Marañón con Proteína
 description: Procesada con marañon (de CR) sin sal y 100% puro.
-price1: "2500"
-price2: "5000"
-price3: "8000"
+price1: "3250"
+price2: "7000"
+price3: "22000"
 images:
   default:
     thumbnail:
-      optimized: "/images/MARANON PROTEINA 100G-1.webp"
-      fallback: "/images/MARANON PROTEINA 100G-1.png"
+      optimized: "/images/marañonproteina.webp"
+      fallback: "/images/mantequillaArtboard 20.png"
     original:
-      optimized: "/images/MARANON PROTEINA 100G-1.webp"
-      fallback: "/images/MARANON PROTEINA 100G-1.png"
+      optimized: "/images/marañonproteina.webp"
+      fallback: "/images/mantequillaArtboard 20.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
