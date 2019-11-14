@@ -12,11 +12,11 @@ price3: "12000"
 images:
   default:
     thumbnail:
-      optimized: "/images/manipura.webp"
-      fallback: "/images/MANI PURO 265.png"
+      optimized: "/images/manipuro.webp"
+      fallback: "/images/mantequillaArtboard 14.png"
     original:
-      optimized: "/images/manipura.webp"
-      fallback: "/images/MANI PURO 265.png"
+      optimized: "/images/manipuro.webp"
+      fallback: "/images/mantequillaArtboard 14.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MANI-COCO.webp"
