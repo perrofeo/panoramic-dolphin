@@ -3,19 +3,20 @@ layout: product
 id: "25"
 id2: "26"
 id3: "27"
-title: 'Mantequilla de marañón '
-description: 'Esta opción tiene un único ingrediente: marañones procesasados. '
-price1: "2500"
-price2: "5000"
-price3: "8000"
+title: Mantequilla de Marañón pura
+description: "¡La favorita de muchas y muchos ! Esta opción tiene un único ingrediente:
+  marañones procesasados. "
+price1: "3000"
+price2: "6000"
+price3: "18000"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañonpura.webp"
-      fallback: "/images/MARANON PURA 265G-1.png"
+      optimized: "/images/marañónpura.webp"
+      fallback: "/images/mantequillaArtboard 17 copy.png"
     original:
-      optimized: "/images/marañonpura.webp"
-      fallback: "/images/MARANON PURA 265G.png"
+      optimized: "/images/marañónpura.webp"
+      fallback: "/images/mantequillaArtboard 17 copy.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
