@@ -5,17 +5,17 @@ id2: "91"
 id3: "92"
 title: Mantequilla de Marañón con Chocolate
 description: Procesada con marañon (de CR) sin sal y 100% puro.
-price1: "2500"
-price2: "5000"
-price3: "8000"
+price1: "3650"
+price2: "6750"
+price3: "20500"
 images:
   default:
     thumbnail:
-      optimized: "/images/MARANON CHOCOLATE 100G WEB-1.webp"
-      fallback: "/images/MARANON CHOCOLATE 100G WEB-1.png"
+      optimized: "/images/marañonchocolate.webp"
+      fallback: "/images/mantequillaArtboard 17.png"
     original:
-      optimized: "/images/MARANON CHOCOLATE 100G WEB-1.webp"
-      fallback: "/images/MARANON CHOCOLATE 100G WEB-1.png"
+      optimized: "/images/marañonchocolate.webp"
+      fallback: "/images/mantequillaArtboard 17.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
