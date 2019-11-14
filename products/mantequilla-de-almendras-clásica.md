@@ -12,8 +12,8 @@ price3: "16500"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendrapura2.webp"
-      fallback: "/images/ALMENDRA PURA 265G-1.png"
+      optimized: "/images/almendrapura-1.webp"
+      fallback: "/images/mantequillaArtboard 5.png"
     original:
       optimized: "/images/almendrapura.webp"
       fallback: "/images/ALMENDRA PURA 265G.png"
