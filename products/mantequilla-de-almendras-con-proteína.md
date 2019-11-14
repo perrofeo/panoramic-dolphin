@@ -5,14 +5,14 @@ id2: "101"
 id3: "102"
 title: Mantequilla de Almendra con Proteína Vegana
 description: 'La proteína que utilizamos es vegana (libre de lácteos) y sin azúcar. '
-price1: "3000"
-price2: "6000"
+price1: "3150"
+price2: "6250"
 price3: "19000"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendraproteina-1.webp"
-      fallback: "/images/ALMENDRA PROTEINA 265G-1.png"
+      optimized: "/images/almendraproteina-2.webp"
+      fallback: "/images/mantequillaArtboard 4.png"
     original:
       optimized: "/images/almendraproteina-1.webp"
       fallback: "/images/ALMENDRA PROTEINA 265G-1.png"
