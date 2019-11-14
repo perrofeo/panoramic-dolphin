@@ -16,8 +16,8 @@ images:
       optimized: "/images/almendracoco-2.webp"
       fallback: "/images/mantequillaArtboard 15.png"
     original:
-      optimized: "/images/almendracoco.webp"
-      fallback: "/images/MANTEQUILLA COCO 265G.png"
+      optimized: "/images/almendracoco-2.webp"
+      fallback: "/images/mantequillaArtboard 15.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-ALMENDRA-CHOCO.webp"
