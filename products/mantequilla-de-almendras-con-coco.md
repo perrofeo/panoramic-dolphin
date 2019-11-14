@@ -8,13 +8,13 @@ description: "¡Para los amantes del coco! Si sos amante de las almendras y el c
   esta es tu opción. Ingredientes: almendras sin sal y coco rayado 100% puro. Su textura
   crunchy te enamorará. "
 price1: "2850"
-price2: "17500"
-price3: "8000"
+price2: "5750"
+price3: "18000"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendracoco-1.webp"
-      fallback: "/images/MANTEQUILLA COCO 265G-1.jpg"
+      optimized: "/images/almendracoco-2.webp"
+      fallback: "/images/mantequillaArtboard 15.png"
     original:
       optimized: "/images/almendracoco.webp"
       fallback: "/images/MANTEQUILLA COCO 265G.png"
