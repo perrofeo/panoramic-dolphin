@@ -7,16 +7,16 @@ title: Mantequilla de Maní con Proteína Vegana
 description: Esta mantequilla es una carga de proteína natural para tu cuerpo, si
   deseas aumentar masa muscular esta es tu opción ♡
 price1: "2750"
-price2: "5000"
-price3: "14000"
+price2: "5150"
+price3: "15000"
 images:
   default:
     thumbnail:
-      optimized: "/images/maniproteina.webp"
-      fallback: "/images/MANI PROTEINA 265.png"
+      optimized: "/images/maniproteina-1.webp"
+      fallback: "/images/mantequillaArtboard 12.png"
     original:
-      optimized: "/images/maniproteina.webp"
-      fallback: "/images/MANI PROTEINA 265.png"
+      optimized: "/images/maniproteina-1.webp"
+      fallback: "/images/mantequillaArtboard 12.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MANI-PROT.webp"
