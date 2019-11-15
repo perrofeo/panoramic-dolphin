@@ -11,7 +11,7 @@ price3: "20500"
 images:
   default:
     thumbnail:
-      optimized: "/images/maranoncoco.webp"
+      optimized: "/images/maranoncoco-1.webp"
       fallback: "/images/mantequillaArtboard 18-2.png"
     original:
       optimized: "/images/marañoncoco-1.webp"
