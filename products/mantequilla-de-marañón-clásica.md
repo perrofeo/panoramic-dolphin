@@ -12,8 +12,8 @@ price3: "18000"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañónpura.webp"
-      fallback: "/images/mantequillaArtboard 17 copy.png"
+      optimized: "/images/maranon.webp"
+      fallback: "/images/mantequillaArtboard 17 copy-1.png"
     original:
       optimized: "/images/marañónpura.webp"
       fallback: "/images/mantequillaArtboard 17 copy.png"

@@ -122,10 +122,10 @@ fields:
   config:
     required: true
 pages:
+- products/mantequilla-de-marañón-clásica.md
 - products/mantequilla-de-marañón-con-coco.md
 - products/mantequilla-de-marañón-con-chocolate.md
 - products/mantequilla-de-marañón-con-proteína.md
-- products/mantequilla-de-marañón-clásica.md
 - products/mantequilla-de-maní-clásica.md
 - products/mantequilla-de-maní-con-proteína.md
 - products/mantequilla-de-maní-con-coco.md
