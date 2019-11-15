@@ -15,8 +15,8 @@ images:
       optimized: "/images/almendrapura-1.webp"
       fallback: "/images/mantequillaArtboard 5.png"
     original:
-      optimized: "/images/almendra1kg.webp"
-      fallback: "/images/mantequillaArtboard 2.png"
+      optimized: "/images/almendrapura-1.webp"
+      fallback: "/images/mantequillaArtboard 5.png"
   featured:
     thumbnail:
       optimized: ''
