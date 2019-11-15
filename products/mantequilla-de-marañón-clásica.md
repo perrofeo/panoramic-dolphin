@@ -12,11 +12,11 @@ price3: "18000"
 images:
   default:
     thumbnail:
-      optimized: "/images/maranon.webp"
-      fallback: "/images/mantequillaArtboard 17 copy-1.png"
+      optimized: "/images/maranon-1.webp"
+      fallback: "/images/mantequillaArtboard 17 copy-2.png"
     original:
-      optimized: "/images/maranon.webp"
-      fallback: "/images/mantequillaArtboard 17 copy-1.png"
+      optimized: "/images/maranon-1.webp"
+      fallback: "/images/mantequillaArtboard 17 copy-2.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
