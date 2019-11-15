@@ -12,7 +12,7 @@ images:
   default:
     thumbnail:
       optimized: "/images/maranoncoco.webp"
-      fallback: "/images/mantequillaArtboard 18-1.png"
+      fallback: "/images/mantequillaArtboard 18-2.png"
     original:
       optimized: "/images/marañoncoco-1.webp"
       fallback: "/images/mantequillaArtboard 18.png"
