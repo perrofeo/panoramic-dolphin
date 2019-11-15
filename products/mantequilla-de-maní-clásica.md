@@ -19,8 +19,8 @@ images:
       fallback: "/images/mantequillaArtboard 14.png"
   featured:
     thumbnail:
-      optimized: "/images/mani1kg.webp"
-      fallback: "/images/mani1kg-1.png"
+      optimized: ''
+      fallback: ''
     original:
       optimized: ''
       fallback: ''
