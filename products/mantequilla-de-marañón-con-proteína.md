@@ -11,11 +11,11 @@ price3: "22000"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañonproteina.webp"
-      fallback: "/images/mantequillaArtboard 20.png"
+      optimized: "/images/maranonproteina.webp"
+      fallback: "/images/mantequillaArtboard 20-1.png"
     original:
-      optimized: "/images/marañonproteina.webp"
-      fallback: "/images/mantequillaArtboard 20.png"
+      optimized: "/images/maranonproteina.webp"
+      fallback: "/images/mantequillaArtboard 20-1.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
