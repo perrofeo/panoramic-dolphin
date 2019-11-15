@@ -19,7 +19,7 @@ images:
       fallback: "/images/mantequillaArtboard 17 copy-2.png"
   featured:
     thumbnail:
-      optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
+      optimized: "/images/maranon1kg.webp"
       fallback: "/images/mantequillaArtboard 18 copy.png"
     original:
       optimized: ''
