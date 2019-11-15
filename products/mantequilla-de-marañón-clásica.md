@@ -19,8 +19,8 @@ images:
       fallback: "/images/mantequillaArtboard 17 copy-2.png"
   featured:
     thumbnail:
-      optimized: "/images/maranonpura.webp"
-      fallback: "/images/maranon1kgfondo_Fotor.png"
+      optimized: "/images/mananonpura1kg.webp"
+      fallback: "/images/HEALTHY PLEASURES-2.jpg"
     original:
       optimized: ''
       fallback: ''
