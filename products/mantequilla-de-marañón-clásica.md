@@ -20,7 +20,7 @@ images:
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
-      fallback: "/images/FEAT-THUMB-MARANON-CLAS.jpg"
+      fallback: "/images/mantequillaArtboard 18 copy.png"
     original:
       optimized: ''
       fallback: ''
