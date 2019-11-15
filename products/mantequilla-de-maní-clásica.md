@@ -19,8 +19,8 @@ images:
       fallback: "/images/mantequillaArtboard 14.png"
   featured:
     thumbnail:
-      optimized: "/images/FEAT-THUMB-MANI-COCO.webp"
-      fallback: "/images/FEAT-THUMB-MANI-COCO.jpg"
+      optimized: "/images/mani1kg.webp"
+      fallback: "/images/mani1kg-1.png"
     original:
       optimized: ''
       fallback: ''
