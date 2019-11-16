@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: Comprar con propósito
+title: Misionero Gabriel Almanza
 
 ---
-Te presentamos a Gabriel Almanza, uno de los misioneros que apoyas economicamente con cada una de tus compras.
+Te presentamos a Gabriel Almanza, uno de los misioneros que apoyas económicamente con cada una de tus compras.
 
 ![](/images/Gabo_misionero-1.jpg)
 
