@@ -11,8 +11,8 @@ bulletpoints:
     todos los días con pasión para llevar alimentos naturales y de calidad hasta tu
     mesa. Si querés conocernos más hacé click **aquí.**"
   image:
-    optimized: "/images/Foto yo.webp"
-    fallback: "/images/Foto yo.png"
+    optimized: "/images/nosotros_foto_mision.webp"
+    fallback: "/images/nosotros_foto_mision.jpg"
 - title: 'Nuestro propósito '
   description: "##### Bendecir tu cuerpo, mente y espíritu con nuestros productos
     y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.\n\n***\n\nCada
