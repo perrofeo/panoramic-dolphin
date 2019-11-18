@@ -1,9 +1,9 @@
 {
-  "title": "Tu mantequilla de marañón clásica 10% OFF",
-  "subtitle": "Usa el código MARSAVE10",
+  "title": "Mantequillas de maní 10% OFF",
+  "subtitle": "Usa el código #bendicetucuerpo",
   "image": {
-    "optimized": "/images/PROMO_prueba1-1.webp",
-    "fallback": "/images/PROMO_prueba1-1.jpg"
+    "optimized": "/images/promomani.webp",
+    "fallback": "/images/HEALTHY PLEASURES-8.jpg"
   },
   "cta": {
     "text": "Comprar",

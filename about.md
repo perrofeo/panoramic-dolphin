@@ -6,13 +6,13 @@ introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la el
   Tu compra tiene un gran propósito, descubrilo a continuación...** "
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: Mi nombre es Bárbara, tengo 25 años y soy una emprededora de Costa
-    Rica. Somos un equipo conformado por tres mujeres que se dedican a trabajar todos
-    los días con pasión para llevar alimentos naturales y de calidad hasta tu mesa.
-    Si querés conocernos más hacé click **aquí.**
+  description: Mi nombre es Bárbara, fundadora de Healthy Pleasures, todos los días
+    trabajo junto con Sioní y Rosa para llevar alimentos naturales, artesanales y
+    de calidad hasta tu mesa. Nos mueve nuestro amor y pasión por la alimentación
+    consiente y con propósito. Si querés conocernos más hacé click **aquí.**
   image:
-    optimized: "/images/Foto yo.webp"
-    fallback: "/images/Foto yo.png"
+    optimized: "/images/nosotros_foto_mision.webp"
+    fallback: "/images/nosotros_foto_mision.jpg"
 - title: 'Nuestro propósito '
   description: "##### Bendecir tu cuerpo, mente y espíritu con nuestros productos
     y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.\n\n***\n\nCada

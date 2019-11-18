@@ -12,15 +12,15 @@ price3: "18000"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañónpura.webp"
-      fallback: "/images/mantequillaArtboard 17 copy.png"
+      optimized: "/images/maranon-1.webp"
+      fallback: "/images/mantequillaArtboard 17 copy-2.png"
     original:
-      optimized: "/images/marañónpura.webp"
-      fallback: "/images/mantequillaArtboard 17 copy.png"
+      optimized: "/images/maranon-1.webp"
+      fallback: "/images/mantequillaArtboard 17 copy-2.png"
   featured:
     thumbnail:
-      optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
-      fallback: "/images/FEAT-THUMB-MARANON-CLAS.jpg"
+      optimized: "/images/mananonpura1kg.webp"
+      fallback: "/images/HEALTHY PLEASURES-2.jpg"
     original:
       optimized: ''
       fallback: ''

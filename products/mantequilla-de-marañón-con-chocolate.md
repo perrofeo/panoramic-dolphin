@@ -11,11 +11,11 @@ price3: "20500"
 images:
   default:
     thumbnail:
-      optimized: "/images/marañonchocolate.webp"
-      fallback: "/images/mantequillaArtboard 17.png"
+      optimized: "/images/maranonchocolate.webp"
+      fallback: "/images/maranon-choco.png"
     original:
-      optimized: "/images/marañonchocolate.webp"
-      fallback: "/images/mantequillaArtboard 17.png"
+      optimized: "/images/maranonchocolate.webp"
+      fallback: "/images/maranon-choco.png"
   featured:
     thumbnail:
       optimized: "/images/FEAT-THUMB-MARANON-CLAS.webp"
