@@ -4,18 +4,10 @@ author: Healthy Pleasures
 title: Misionero Gabriel Almanza
 
 ---
-Te presentamos a Gabriel Almanza, uno de los misioneros que apoyas económicamente con cada una de tus compras.
+Gabo es administrador aduanero de profesión pero trabaja como misionero de tiempo completo en Australia, lugar en donde trabaja con adolescentes en situación de riesgo social y además ha realizado diversos viajes misioneros a Filipinas, Laos, Papua del Oeste (Indonesia) y prontamente a Mozambique y otros países del Medio Oriente.
 
-![](/images/Gabo_misionero-1.jpg)
+Su misión consiste en compartir el amor de Dios a través de diversas actividades tales como organización de programas de alimentación para niños, visitas a orfanatos, prisiones, hospitales; como también, da enseñanza de Inglés. 
 
-Gabriel se mudo a vivir a Australia hace dos años con el popósito de ser misionero a tiempo completo en una organización misionera internacional llamada JUCUM. 
+Compartir las buenas noticias por medio de diversas obras, testimonios y demás es lo que toma lugar en aldeas, ciudades, tugurios, calles que Gabo visita. Gabo ama y está apasionado por ver como Dios cambia las vidas de las personas en un instante y ver los ojos de esperanza que se forman al escuchar el nombre de Jesús.
 
-Durante este tiempo y en la actualidad Gabo trabaja con adolescentes en situación de riesgo social y víctimas de trata de personas en Australia, Papúa Nueva Guinea y Malasia. 
-
-La base de su trabajo como misionero es la evangelización, es decir, el de dar a conocer el amor de Dios en países no alcanzados a través de su servicio.
-
-Al comprar una mantequilla Healthy Pleasures estas ayudando a Gabo a vivir para ayudar. 
-
-Si querés conocer más sobre el trabajo de Gabo o inclusive apoyarlo economicamente podes contactarlo al correo electrónico gabrielalmanzadiaz@gmail.com
-
-¡Gracias por escogernos y comprar con propósito!
+Si queres saber más sobre la misión de Gabo o si te interesa apoyarlo económicamente lo podes contactar al correo gabrielalmanzadiaz@gmail.com. 
