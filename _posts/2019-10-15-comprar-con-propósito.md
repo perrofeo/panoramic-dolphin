@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: Misionero Gabriel Almanza
+title: 'Misionero Healthy Pleasures-Gabriel Almanza '
 
 ---
 Gabo es administrador aduanero de profesión pero trabaja como misionero de tiempo completo en Australia, lugar en donde trabaja con adolescentes en situación de riesgo social y además ha realizado diversos viajes misioneros a Filipinas, Laos, Papua del Oeste (Indonesia) y prontamente a Mozambique y otros países del Medio Oriente.
