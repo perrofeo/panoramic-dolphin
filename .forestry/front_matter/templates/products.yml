@@ -122,8 +122,8 @@ fields:
   config:
     required: true
 pages:
-- products/mantequilla-de-almendras-con-coco.md
 - products/mantequilla-de-almendras-con-chocolate.md
+- products/mantequilla-de-almendras-con-coco.md
 - products/mantequilla-de-marañón-clásica.md
 - products/mantequilla-de-maní-clásica.md
 - products/mantequilla-de-almendras-clásica.md
