@@ -4,10 +4,11 @@ id: "37"
 id2: ''
 id3: ''
 title: Trío de mantequillas de maní, almendra y marañón puras
-description: Combo de nuestras mantequillas de maní, almendra y marañón de 100g.
-price1: "7100"
-price2: '15,000'
-price3: "42000"
+description: Combo de nuestras mantequillas de maní, almendra y marañón. Si compras
+  este trío te aplicamos un 10% off.
+price1: '6,750'
+price2: '14,400'
+price3: '41,850'
 images:
   default:
     thumbnail:
