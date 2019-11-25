@@ -26,6 +26,5 @@ images:
 category: almendra
 featured: true
 section: Store
-published: false
 
 ---
