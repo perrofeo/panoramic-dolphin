@@ -18,14 +18,14 @@ images:
       fallback: "/images/Copia.jpeg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/copia trio.webp"
+      fallback: "/images/Copia.jpeg"
     original:
-      optimized: ''
-      fallback: ''
-category: ''
-featured: false
-section: ''
+      optimized: "/images/copia trio.webp"
+      fallback: "/images/Copia.jpeg"
+category: almendra
+featured: true
+section: Store
 published: false
 
 ---
