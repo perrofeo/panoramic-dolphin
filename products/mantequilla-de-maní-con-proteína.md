@@ -3,7 +3,7 @@ layout: product
 id: "30"
 id2: "31"
 id3: "32"
-title: Mantequilla de maní con proteína vegana
+title: Mantequilla de Maní con Proteína vegana
 description: 'Una increíble combinación de maní con proteína sin lactosa sabor a vainilla.
   Cada porción te aporta 5g de proteína.  '
 price1: "2750"

@@ -3,8 +3,9 @@ layout: product
 id: "110"
 id2: "111"
 id3: "112"
-title: Mantequilla de Marañón con Proteína
-description: Procesada con marañon (de CR) sin sal y 100% puro.
+title: Mantequilla de Marañón con proteína
+description: 'Una increíble combinación de marañón con proteína sin lactosa sabor
+  a vainilla. Cada porción te aporta 5g de proteína.  '
 price1: "3250"
 price2: "7000"
 price3: "22000"
