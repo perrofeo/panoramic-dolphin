@@ -7,7 +7,7 @@ title: Mantequilla de Maní con Coco
 description: 'Para los coconut lovers ♡ Contiene tan sólo dos ingredientes locales:
   Maní sin sal y coco rayado puro. Su textura crunchy te encantará. '
 price1: "2500"
-price2: "4500"
+price2: "4750"
 price3: "13500"
 images:
   default:
