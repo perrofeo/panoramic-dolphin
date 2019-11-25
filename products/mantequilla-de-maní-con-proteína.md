@@ -3,9 +3,9 @@ layout: product
 id: "30"
 id2: "31"
 id3: "32"
-title: Mantequilla de Maní con Proteína Vegana
-description: Esta mantequilla es una carga de proteína natural para tu cuerpo, si
-  deseas aumentar masa muscular esta es tu opción ♡
+title: Mantequilla de maní con proteína vegana
+description: 'Una increíble combinación de maní con proteína sin lactosa sabor a vainilla.
+  Cada porción te aporta 5g de proteína.  '
 price1: "2750"
 price2: "5150"
 price3: "15000"

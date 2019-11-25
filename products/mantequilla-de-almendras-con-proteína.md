@@ -3,7 +3,7 @@ layout: product
 id: "100"
 id2: "101"
 id3: "102"
-title: Mantequilla de almendra con proteína vegana
+title: Mantequilla de Almendra con Proteína vegana
 description: 'Una increíble combinación de almendras con proteína sin lactosa sabor
   a vainilla. Cada porción te aporta 5g de proteína.  '
 price1: "3150"
