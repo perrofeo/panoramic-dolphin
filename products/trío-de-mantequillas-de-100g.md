@@ -14,8 +14,8 @@ images:
       optimized: "/images/copia trio.webp"
       fallback: "/images/Copia.jpeg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/copia trio.webp"
+      fallback: "/images/Copia.jpeg"
   featured:
     thumbnail:
       optimized: ''
