@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: 'Misionero Gabriel Almanza '
 
 ---
-![](/images/Foto Gabo.png) 
+![](/images/Gabo_misionero-1.jpg)
 
 Gabriel un joven de Costa Rica que vive como misionero a tiempo completo en Australia, lugar en donde trabaja con adolescentes en situación de riesgo social y además ha realizado diversos viajes misioneros a Filipinas, Laos, Papua del Oeste (Indonesia) y prontamente a Mozambique y otros países del Medio Oriente.
 
