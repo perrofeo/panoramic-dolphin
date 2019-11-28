@@ -122,8 +122,8 @@ fields:
   config:
     required: true
 pages:
-- products/mantequilla-de-marañón-con-coco.md
 - products/trío-de-mantequillas-de-100g.md
+- products/mantequilla-de-marañón-con-coco.md
 - products/mantequilla-de-marañón-clásica.md
 - products/mantequilla-de-marañón-con-chocolate.md
 - products/mantequilla-de-marañón-con-proteína.md
