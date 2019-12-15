@@ -18,10 +18,12 @@ Su misión consiste en compartir el amor de Dios a través de diversas actividad
 
 Por el otro lado, **María José** es una joven que vive como misionera a tiempo completo. Ella ha hechos distintos viajes misioneros trabajando y también llevando arte a comunidades en México, Argentina, Japón y en Costa Rica (específicamente en la zona de Liberia, Guanacaste). 
 
-![](/images/Captura de Pantalla 2019-12-14 a la(s) 22.02.22.png)
+![](/images/majo.png)![](/images/majoweb.png)
 
-Ella ahora trabaja aquí en Costa Rica en el área de entrenamiento, caminando y discipulando jóvenes para enviarlos a diferentes partes del mundo.Su misión o llamado consiste en compartir este amor de Dios y esperanza por medio del arte. Parte de algunos ministerios que hace Majo son: Talleres de Danza en comunidades en riesgo e Iglesias, presentaciones para niños, pintacaritas a niños de comunidades en riesgo y discipulado con ellos, servicio en iglesia local, repartición de biblias en el proyecto “Una biblia en cada casa de Costa Rica” y voluntaria de comedores infantiles.
+Actualmente, trabaja en Costa Rica en el área de entrenamiento de jóvenes de una organización misionera internacional llamada JUCUM (Juventud con una misión). Majo capacita, guía y discipula a jóvenes para enviarlos a diferentes partes del mundo con la misión de servir y evangelizar a través del arte. 
 
-Parte de la visión de Majo es seguir capacitando y guiando jóvenes para ir a diferentes naciones con el enfoque de utilizar el arte. Su propósito para este 2020 es hacer distintas cruzadas nacionales e internacionales con equipos de danza y también es comenzar a capacitarse en LESCO y poder caminar con jóvenes sordos para que ellos también puedan compartir y expresar del amor de Jesús por medio del arte. Así también seguir siendo parte de Juventud con una Misión en San José, enfocada en ministerios específicamente en el departamento de Danza, Media y entrenamiento.
+Su misión o llamado consiste en compartir este amor de Dios y esperanza por medio del arte. Parte de algunos ministerios que hace Majo son: Talleres de Danza en comunidades en riesgo e Iglesias, presentaciones para niños, pintacaritas a niños de comunidades en riesgo y discipulado con ellos, servicio en iglesia local, repartición de biblias en el proyecto “Una biblia en cada casa de Costa Rica” y voluntaria de comedores infantiles.
+
+Su propósito para este 2020 es hacer distintas cruzadas nacionales e internacionales con equipos de danza y también es comenzar a capacitarse en LESCO y poder caminar con jóvenes sordos para que ellos también puedan compartir y expresar del amor de Jesús por medio del arte. Así también seguir siendo parte de Juventud con una Misión en San José, enfocada en ministerios específicamente en el departamento de Danza, Media y entrenamiento.
 
 **Si querés saber más sobre la misión de Majo o si te interesa apoyarla económicamente lo podes contactar al correo mariicastillordz@gmail.com.**
