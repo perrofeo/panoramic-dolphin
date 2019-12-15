@@ -8,7 +8,7 @@ description: 'Una increíble combinación de almendras con proteína sin lactosa
   a vainilla. Cada porción te aporta 5g de proteína.  '
 price1: "3250"
 price2: "6500"
-price3: "19000"
+price3: "19500"
 images:
   default:
     thumbnail:
