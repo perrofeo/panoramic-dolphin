@@ -7,9 +7,9 @@ title: Mantequilla de Almendra con Coco
 description: "¡Para los amantes del coco! Si sos amante de las almendras y el coco
   esta es tu opción. Ingredientes: almendras sin sal y coco rayado 100% puro. Su textura
   crunchy te enamorará. "
-price1: "2850"
+price1: "3000"
 price2: "5850"
-price3: "18000"
+price3: "18500"
 images:
   default:
     thumbnail:
