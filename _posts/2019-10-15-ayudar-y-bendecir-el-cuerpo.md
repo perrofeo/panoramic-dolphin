@@ -1,12 +1,12 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: Compra con propósito
+title: " Compra con propósito"
 
 ---
-#### Nuestro propósito:
+En Healthy Pleasures comprás para tu bienestar pero también comprás para ayudar. Conoce nuestro propósito como empresa:
 
-1- Donar del 10% de nuestras ganancias a misioneros cristianos de Costa Rica. Si deseas saber quienes son los misioneros que apoyamos haz click **aquí.**
+1- Donar del 10% de nuestras ganancias a misioneros cristianos de Costa Rica. Si deseas saber quienes son los misioneros que apoyamos haz click [**aquí.**](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/ "Misioneros")
 
 2 - Bendecir tu cuerpo con la creación de alimentos naturales, deliciosos y a precio justo.
 
