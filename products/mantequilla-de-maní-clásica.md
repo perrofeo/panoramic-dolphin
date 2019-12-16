@@ -8,7 +8,7 @@ description: Nuestra mantequilla de maní es crunchy, libre de azúcar, vegana y
   ♡
 price1: "2250"
 price2: "4300"
-price3: "12500"
+price3: "13500"
 images:
   default:
     thumbnail:
