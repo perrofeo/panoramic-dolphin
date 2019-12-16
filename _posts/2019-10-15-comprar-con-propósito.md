@@ -18,7 +18,7 @@ Su misión consiste en compartir el amor de Dios a través de diversas actividad
 
 Por el otro lado, **María José** es una joven que vive como misionera a tiempo completo. Ella ha hechos distintos viajes misioneros trabajando y también llevando arte a comunidades en México, Argentina, Japón y en Costa Rica (específicamente en la zona de Liberia, Guanacaste).
 
-![](/images/majoweb.png)![](/images/majoweb.webp)
+![](/images/majoweb.webp)
 
 Actualmente, trabaja en Costa Rica en el área de entrenamiento de jóvenes de una organización misionera internacional llamada JUCUM (Juventud con una misión). Majo capacita, guía y discipula a jóvenes para enviarlos a diferentes partes del mundo con la misión de servir y evangelizar a través del arte.
 
