@@ -28,6 +28,5 @@ images:
 category: ''
 featured: false
 section: ''
-published: false
 
 ---
