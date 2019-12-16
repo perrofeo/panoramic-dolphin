@@ -1,0 +1,29 @@
+---
+layout: post
+author: Chef Andrea Chinchilla
+title: Chewy Christmas Cookies
+
+---
+**Galletas navideñas gluten free**
+
+![](/images/chewy cookies-2.jpeg)
+
+**Ingredientes:**
+
+* 100% amor
+* 1 taza de banano machacado (3 grandes aprox.)
+* 1/2 taza de mantequilla de gingerbread nut butter libre de azúcar Healthy Pleasures
+* 1/8 de taza de sustituto Natuvia
+* 1 taza de avena en hojuelas
+* 1/4 taza de nuez Nogal picada
+* 1/2 cdita de especias pumking spice Green Corner
+
+**Preparación**
+
+1. Precalentar el horno a 350ºF
+2. Machar el banano en recipiente hondo.
+3. Combinar el resto de los ingredientes juntos hasta que estén bien mezclados.
+4. Preparar una bandeja con papel encerado.
+5. Con ayuda de una cuchara honda poner 12 porciones de la mezcla y cocinar por 16 minutos.
+
+La receta rinde para 10 galletas. 

@@ -16,3 +16,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- _posts/chewy-christmas-cookies.md
