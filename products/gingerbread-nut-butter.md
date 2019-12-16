@@ -13,8 +13,8 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/navidena265g.webp"
+      fallback: "/images/navidena 265g-1.jpeg"
     original:
       optimized: ''
       fallback: ''
