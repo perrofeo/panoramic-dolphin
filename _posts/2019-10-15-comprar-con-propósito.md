@@ -4,9 +4,9 @@ author: Healthy Pleasures
 title: 'Misioneros que apoyás con tu compra '
 
 ---
-**Los misioneros cristianos** son personas que tiene una misión: vivir y trabajar para servir a Dios con el propósito de expandir el amor de Dios en diferentes partes del mundo. El corazón de las misiones es el de evangelizar, es decir, dar conocer las buenas nuevas del amor de Jesús, discipular, servir y amar a las personas.  
+**Los misioneros cristianos** son personas que tiene una misión: vivir y trabajar para servir a Dios con el propósito de expandir el amor de Dios en diferentes partes del mundo. El corazón de las misiones es el de evangelizar, es decir, dar conocer las buenas nuevas del amor de Jesús, discipular, servir y amar a las personas.
 
-En Healthy Pleasures **donamos el 10% de nuestras ganancias** mensuales a dos misioneros, Gabriel Almanza y María José Castillo, ambos son de Costa Rica. A continuación podrías conocer más sobre su vida como misioneros. 
+En Healthy Pleasures **donamos el 10% de nuestras ganancias** mensuales a dos misioneros, Gabriel Almanza y María José Castillo, ambos son de Costa Rica. A continuación podrías conocer más sobre su vida como misioneros.
 
 **Gabriel** es un joven de Costa Rica que vive como misionero a tiempo completo en Australia, lugar en donde trabaja con adolescentes en situación de riesgo social y además ha realizado diversos viajes misioneros a Filipinas, Laos, Papua del Oeste (Indonesia) y prontamente a Mozambique y otros países del Medio Oriente.
 
@@ -16,11 +16,11 @@ Su misión consiste en compartir el amor de Dios a través de diversas actividad
 
 **Si querés saber más sobre la misión de Gabo o si te interesa apoyarlo económicamente lo podes contactar al correo** **gabrielalmanzadiaz@gmail.com.**
 
-Por el otro lado, **María José** es una joven que vive como misionera a tiempo completo. Ella ha hechos distintos viajes misioneros trabajando y también llevando arte a comunidades en México, Argentina, Japón y en Costa Rica (específicamente en la zona de Liberia, Guanacaste). 
+Por el otro lado, **María José** es una joven que vive como misionera a tiempo completo. Ella ha hechos distintos viajes misioneros trabajando y también llevando arte a comunidades en México, Argentina, Japón y en Costa Rica (específicamente en la zona de Liberia, Guanacaste).
 
-![](/images/majo.png)![](/images/majoweb.png)
+![](/images/majoweb.png)![](/images/majoweb.webp)
 
-Actualmente, trabaja en Costa Rica en el área de entrenamiento de jóvenes de una organización misionera internacional llamada JUCUM (Juventud con una misión). Majo capacita, guía y discipula a jóvenes para enviarlos a diferentes partes del mundo con la misión de servir y evangelizar a través del arte. 
+Actualmente, trabaja en Costa Rica en el área de entrenamiento de jóvenes de una organización misionera internacional llamada JUCUM (Juventud con una misión). Majo capacita, guía y discipula a jóvenes para enviarlos a diferentes partes del mundo con la misión de servir y evangelizar a través del arte.
 
 Su misión o llamado consiste en compartir este amor de Dios y esperanza por medio del arte. Parte de algunos ministerios que hace Majo son: Talleres de Danza en comunidades en riesgo e Iglesias, presentaciones para niños, pintacaritas a niños de comunidades en riesgo y discipulado con ellos, servicio en iglesia local, repartición de biblias en el proyecto “Una biblia en cada casa de Costa Rica” y voluntaria de comedores infantiles.
 
