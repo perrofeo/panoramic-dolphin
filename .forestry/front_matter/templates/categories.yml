@@ -27,6 +27,7 @@ fields:
     required: true
 pages:
 - category/almendra.md
+- category/mantequilla-navideña.md
 - category/maní.md
 - category/marañón-1.md
 - category/promociones.md
