@@ -4,7 +4,7 @@ author: Chef Andrea Chinchilla
 title: Chewy Christmas Cookies
 
 ---
-**Galletas navideñas gluten free**
+Galletas navideñas gluten free para tus fiestas y reuniones navideñas.
 
 ![](/images/chewy cookies-2.jpeg)
 
@@ -27,3 +27,5 @@ title: Chewy Christmas Cookies
 5. Con ayuda de una cuchara honda poner 12 porciones de la mezcla y cocinar por 16 minutos.
 
 La receta rinde para 10 galletas.
+
+¡Feliz navidad!
