@@ -4,7 +4,7 @@ author: Chef Andrea Chinchilla
 title: Chewy Christmas Cookies
 
 ---
-Galletas navideñas gluten free para tus fiestas y reuniones navideñas.
+Galletas navideñas gluten free y sin azúcar agregada para tus fiestas y reuniones navideñas. ¡Comer rico y saludable sí es posible!
 
 ![](/images/chewy cookies-2.jpeg)
 
