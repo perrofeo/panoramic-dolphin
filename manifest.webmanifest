@@ -2,7 +2,7 @@
     "lang" : "es",
     "name" : "Healthy Pleasures",
     "scope" : "/",
-    "display" : "standalone",
+    "display": "minimal-ui",
     "start_url" : "https://www.healthypleasurescr.com/",
     "short_name" : "Healthy Pleasures",
     "theme_color" : "#CC9933",
