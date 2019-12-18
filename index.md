@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Descubre las mejores mantequillas de maní, almendra y marañón naturales y sin azúcar.
+# Descubre las mejores mantequillas de semillas 100% naturales y sin azúcar
