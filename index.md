@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Descubre las mejores mantequillas de nueces 100% naturales y libres de azúcar.
+# Descubre las mejores mantequillas de frutos secos 100% naturales y libres de azúcar.
