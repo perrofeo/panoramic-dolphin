@@ -14,13 +14,12 @@ bulletpoints:
     optimized: "/images/nosotros_foto_mision.webp"
     fallback: "/images/nosotros_foto_mision.jpg"
 - title: 'Nuestro propósito '
-  description: "##### Bendecir tu cuerpo, mente y espíritu con nuestros productos
-    y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.\n\n***\n\nCada
-    vez que comprás una de nuestras mantequillas apoyas económicamente la labor de
-    amor y servicio de misioneros cristianos costarricenses en diferentes partes del
-    mundo. Conocé más sobre los misioneros que apoyas con cada una de tus compras
-    con tan solo un [**click.**](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/
-    \"Compra con propósito\") "
+  description: |-
+    ##### Bendecir tu cuerpo, mente y espíritu con nuestros productos y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.
+
+    ***
+
+    Cada vez que comprás una de nuestras mantequillas apoyas económicamente la labor de amor y servicio de misioneros cristianos costarricenses en diferentes partes del mundo. Conocé más sobre los misioneros que apoyas con cada una de tus compras con tan solo un [**click.**](https://www.healthypleasurescr.com/posts/comprar-con-prop%C3%B3sito/ "Compra con propósito")
   image:
     optimized: "/images/Fotogabo.webp"
     fallback: "/images/Foto Gabo.png"

@@ -122,16 +122,17 @@ fields:
   config:
     required: true
 pages:
-- products/trío-de-mantequillas-de-100g.md
-- products/mantequilla-de-marañón-con-coco.md
-- products/mantequilla-de-marañón-clásica.md
-- products/mantequilla-de-marañón-con-chocolate.md
-- products/mantequilla-de-marañón-con-proteína.md
-- products/mantequilla-de-maní-clásica.md
-- products/mantequilla-de-maní-con-coco.md
-- products/mantequilla-de-maní-con-chocolate.md
+- products/gingerbread-nut-butter-1.md
 - products/mantequilla-de-almendras-clásica.md
-- products/mantequilla-de-almendras-con-proteína.md
-- products/mantequilla-de-maní-con-proteína.md
 - products/mantequilla-de-almendras-con-chocolate.md
 - products/mantequilla-de-almendras-con-coco.md
+- products/mantequilla-de-almendras-con-proteína.md
+- products/mantequilla-de-maní-clásica.md
+- products/mantequilla-de-maní-con-chocolate.md
+- products/mantequilla-de-maní-con-coco.md
+- products/mantequilla-de-maní-con-proteína.md
+- products/mantequilla-de-marañón-clásica.md
+- products/mantequilla-de-marañón-con-chocolate.md
+- products/mantequilla-de-marañón-con-coco.md
+- products/mantequilla-de-marañón-con-proteína.md
+- products/trío-de-mantequillas-de-100g.md

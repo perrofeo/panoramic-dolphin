@@ -26,7 +26,6 @@ fields:
   config:
     required: true
 pages:
-- category/promociones.md
 - category/almendra.md
-- category/marañón-1.md
 - category/maní.md
+- category/marañón-1.md
