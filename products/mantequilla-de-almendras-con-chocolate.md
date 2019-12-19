@@ -9,7 +9,7 @@ description: 'Nuestra mantequilla de almendra con chocolate es perfecta si sos a
   CR) y stevia pura. '
 price1: "3000"
 price2: "5850"
-price3: "18500"
+price3: '17,500'
 images:
   default:
     thumbnail:
