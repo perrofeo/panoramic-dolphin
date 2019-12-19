@@ -9,7 +9,7 @@ description: "¡Para los amantes del coco! Si sos amante de las almendras y el c
   crunchy te enamorará. "
 price1: "3000"
 price2: "5850"
-price3: "18500"
+price3: "17500"
 images:
   default:
     thumbnail:
