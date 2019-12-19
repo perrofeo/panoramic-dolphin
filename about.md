@@ -6,10 +6,10 @@ introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la el
   Tu compra tiene un gran propósito, descubrilo a continuación...** "
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: Mi nombre es Bárbara, fundadora de Healthy Pleasures, todos los días
+  description: 'Mi nombre es Bárbara, fundadora de Healthy Pleasures, todos los días
     trabajo junto con Sioní y Rosa para llevar alimentos naturales, artesanales y
     de calidad hasta tu mesa. Nos mueve nuestro amor y pasión por la alimentación
-    consiente y con propósito. Si querés conocernos más hacé click **aquí.**
+    consciente y con propósito. '
   image:
     optimized: "/images/nosotros_foto_mision.webp"
     fallback: "/images/nosotros_foto_mision.jpg"
