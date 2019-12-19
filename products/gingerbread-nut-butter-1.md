@@ -13,8 +13,8 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/navidena.webp"
-      fallback: "/images/navidena.jpeg"
+      optimized: "/images/navidena1.webp"
+      fallback: "/images/navidena-2.jpeg"
     original:
       optimized: "/images/navidena.webp"
       fallback: "/images/navidena.jpeg"
