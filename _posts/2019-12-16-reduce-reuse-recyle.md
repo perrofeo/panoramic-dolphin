@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: Conciencia ambiental
+title: Consciencia ambiental
 
 ---
 En Healthy Pleasures nos preocupamos por elaborar nuestras mantequillas de forma eco-amigable en cada una de nuestras etapas de producción, el funcionamiento con **conciencia ambiental** es una de nuestras metas y nos esforzamos diariamente para cumplirla. 
@@ -16,6 +16,4 @@ Bajo el lema
 
 **Reciclamos** todos los envases, bolas o materiales plásticos que puedan generarse en nuestro proceso de producción. 
 
-Buscamos incentivar en nuestros clientes llevar un estilo de vida integral, en el que se busquen amar su cuerpo pero también nuestro planeta. Vivir con conciencia ambiental es una decisión diaria y vital para la protección de nuestro planeta. Al elegir comprar Healthy Pleasures, elegís la protección el ambiente. 
-
- 
+Buscamos incentivar en nuestros clientes llevar un estilo de vida integral, en el que se busquen amar su cuerpo pero también nuestro planeta. Vivir con conciencia ambiental es una decisión diaria y vital para la protección de nuestro planeta. Al elegir comprar Healthy Pleasures, elegís la protección el ambiente.
