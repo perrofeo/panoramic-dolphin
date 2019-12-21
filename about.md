@@ -27,8 +27,8 @@ bulletpoints:
   description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
   image:
-    optimized: "/images/Webpg.webp"
-    fallback: "/images/HEALTHY PLEASURES-11.jpg"
+    optimized: "/images/mamifoto.webp"
+    fallback: "/images/mamifoto.jpg"
 layout: about
 menu:
   main:
