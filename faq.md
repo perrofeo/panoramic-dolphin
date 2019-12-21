@@ -11,9 +11,11 @@ questions:
     persona pueda disfrutar de todos los beneficios nutricionales de nuestros productos
     ♡
 - question: "¿Cómo realizan los envíos? "
-  answer: "Tenemos dos formas de entregarte tu pedido hasta tu casa o trabajo: \n\n1.
-    Correos de Costa Rica.\n2. Transporte Healthy Pleasures en Sabana, San Pedro,
-    Curridabat, Escazú y Santa Ana."
+  answer: "Tenemos dos formas de entregarte tu pedido hasta tu casa o trabajo:\n\n1.
+    Correos de Costa Rica.\n2. Transporte Healthy Pleasures en Sabana, Escazú, Santa
+    Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén (si vivís o trabajas
+    en estas zonas utiliza el código promocional \"esteyoeste\"para recibir un descuento
+    en el costo del envío). "
 - question: "¿Cuánto demora en llegar mi pedido?"
   answer: "**Depende de dónde te encuentres**:\n\n* El envío dentro de la GAM entre
     1 y 2 días. \n* El envío fuer a dela GAM entre 2-3 días. "
