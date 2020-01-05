@@ -2,14 +2,14 @@
 title: Nuestra Historia
 headline: Somos Healthy Pleasures
 introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la elaboración
-  de mantequillas de nueces 100% naturales, veganas, artesanales, keto y sin azúcar.
-  Tu compra tiene un gran propósito, descubrilo a continuación...** "
+  de mantequillas de semillas 100% naturales, veganas, artesanales, keto y sin azúcar.
+  Tu compra tiene un gran propósito, descubriío a continuación...**"
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: 'Mi nombre es Bárbara, fundadora de Healthy Pleasures, todos los días
-    trabajo junto con Sioní y Rosa para llevar alimentos naturales, artesanales y
-    de calidad hasta tu mesa. Nos mueve nuestro amor y pasión por la alimentación
-    consciente y con propósito. '
+  description: Mi nombre es Bárbara, soy la fundadora de Healthy Pleasures, todos
+    los días trabajo junto con Sioní (mi mamá) y Rosa (nuestra asistente de cocina)
+    para llevar alimentos naturales, artesanales y de calidad hasta tu mesa. Nos mueve
+    nuestro amor y pasión por la alimentación consciente y con propósito.
   image:
     optimized: "/images/nosotros_foto_mision.webp"
     fallback: "/images/nosotros_foto_mision.jpg"
@@ -26,9 +26,13 @@ bulletpoints:
 - title: "¿Qué queremos?"
   description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
+    Además buscamos elaborar nuestras mantequillas con consciencia ambiental, para
+    saber más sobre nuestros esfuerzos por reducir la huella ambiental en nuestra
+    producción haz click [**aquí.**](https://www.healthypleasurescr.com/posts/reduce-reuse-recyle/
+    "Consciencia ambiental")
   image:
-    optimized: "/images/Webpg.webp"
-    fallback: "/images/HEALTHY PLEASURES-11.jpg"
+    optimized: "/images/mamifoto.webp"
+    fallback: "/images/mamifoto.jpg"
 layout: about
 menu:
   main:
