@@ -6,6 +6,11 @@ introduction: 'Aquí encontrarás respuesta a las preguntas más frecuentes que 
   alguna otra pregunta, sugerencia o problema, nuestro número y correo están al final
   de la página. '
 questions:
+- question: "¿Cuál es el costo del envío?"
+  answer: |-
+    El costo del envío en la GAM es de $1
+
+    El costa del envío fuera de la GAM es de $3
 - question: "¿Hacen envíos en todo Costa Rica?"
   answer: Sí, hacemos envíos en todo el país. Para nosotros es una prioridad que cada
     persona pueda disfrutar de todos los beneficios nutricionales de nuestros productos
