@@ -3,7 +3,7 @@ title: Nuestra Historia
 headline: Somos Healthy Pleasures
 introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la elaboración
   de mantequillas de semillas 100% naturales, veganas, artesanales, keto y sin azúcar.
-  Tu compra tiene un gran propósito, descubriío a continuación...**"
+  Tu compra tiene un gran propósito, descubrilo a continuación...**"
 bulletpoints:
 - title: "¿Quiénes somos?"
   description: Mi nombre es Bárbara, soy la fundadora de Healthy Pleasures, todos
