@@ -48,7 +48,6 @@
         <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
         <script src="{{ 'js/main.js' | relative_url }}"></script>
         <script src="{{ site.snipcart_js }}" defer></script>
-        <script src="{{ 'js/es.js' | relative_url }}"></script>
         <div hidden id="snipcart" data-api-key="{{ site.snipcart_api_key }}">
           <cart-header title="Planty">
             <div class="root">
@@ -112,5 +111,6 @@
             </div>
           </checkout>
         </div>
+        <script src="{{ 'js/es.js' | relative_url }}"></script>
     </body> 
 </html>
