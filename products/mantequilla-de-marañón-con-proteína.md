@@ -6,9 +6,9 @@ id3: "112"
 title: Mantequilla de Marañón con Proteína vegana
 description: 'Una increíble combinación de marañón con proteína sin lactosa sabor
   a vainilla. Cada porción te aporta 5g de proteína.  '
-price1: "3900"
-price2: "6900"
-price3: "22000"
+price1: "6.9"
+price2: "12"
+price3: "38"
 images:
   default:
     thumbnail:
