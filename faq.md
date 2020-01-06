@@ -13,7 +13,7 @@ questions:
     Tenemos dos formas de entregarte tu pedido hasta tu casa o trabajo:
 
     1. Correos de Costa Rica.
-    2. Transporte Healthy Pleasures en Sabana, Escazú, Santa Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén (si vivís o trabajas en estas zonas utiliza el código promocional "esteyoeste"para recibir un descuento en el costo del envío).
+    2. Transporte Healthy Pleasures en Sabana, Escazú, Santa Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén.
 - question: "¿Cuál es el costo del envío?"
   answer: |-
     El costo del envío en la GAM es de $1
