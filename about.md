@@ -28,9 +28,9 @@ bulletpoints:
 - title: "¿Qué queremos?"
   description: Ser reconocidos y elegidos por fomentar el consumo de productos alimenticios
     con propósito, por ser la mejor marca de compra para el bienestar y para ayudar.
-    Además buscamos elaborar nuestras mantequillas con consciencia ambiental, para
-    saber más sobre nuestros esfuerzos por reducir la huella ambiental en nuestra
-    producción haz click [**aquí.**](https://www.healthypleasurescr.com/posts/reduce-reuse-recyle/
+    Además, buscamos elaborar nuestras mantequillas con consciencia ambiental y promovemos
+    las alimentación sostenible. Para saber más sobre nuestros esfuerzos por reducir
+    nuestra huella ambiental en nuestra producción haz click [**aquí.**](https://www.healthypleasurescr.com/posts/reduce-reuse-recyle/
     "Consciencia ambiental")
   image:
     optimized: "/images/mamifoto.webp"
