@@ -7,8 +7,8 @@ title: Gingerbread-nut butter
 description: 'Nuestra mantequilla navideña de almendra, jengibre, nueces, maple y
   canela sabe a navidad. Es el complemento perfecto para tus recetas en esta hermosa
   época. '
-price1: "3500"
-price2: "6500"
+price1: "6"
+price2: '11.50'
 price3: ''
 images:
   default:
