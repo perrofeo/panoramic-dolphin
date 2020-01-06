@@ -6,12 +6,12 @@ introduction: "##### **Somos una pequeña empresa de Costa Rica dedicada a la el
   Tu compra tiene un gran propósito, descubrilo a continuación...**"
 bulletpoints:
 - title: "¿Quiénes somos?"
-  description: "Mi nombre es Bárbara Sibaja, fundadora de Healthy Pleasures. Sioní,
-    Rosy y yo conformamos un equipo de mujeres emprendedoras que trabajan todos los
-    días  para llevar alimentos 100% naturales, artesanales, ticos y de calidad hasta
-    tu mesa. Nos mueve nuestro amor y pasión por la alimentación consciente y con
-    propósito. Healthy Pleasures es mi sueño y te invito a apoyarme para hacerlo crecer.Esperamos
-    que como nosotras creas en comprar para ayudar.\n\nCon amor, \n\nBárbara.  "
+  description: |-
+    Mi nombre es Bárbara Sibaja, fundadora de Healthy Pleasures. Sioní, Rosy y yo conformamos un equipo de mujeres emprendedoras que trabajan todos los días  para llevar alimentos 100% naturales, artesanales, ticos y de calidad hasta tu mesa. Nos mueve nuestro amor y pasión por la alimentación consciente y con propósito. Healthy Pleasures es mi sueño y te invito a apoyarme para hacerlo crecer. Espero que al igual que nosotras, creas en comprar para ayudar.
+
+    Con amor,
+
+    Bárbara.
   image:
     optimized: "/images/nosotros_foto_mision.webp"
     fallback: "/images/nosotros_foto_mision.jpg"
