@@ -1,10 +1,17 @@
 {
   "data": [
     {
+      "text": "De verdad con las mejores mantequillas, gracias a Dios por su proyecto.",
+      "author": {
+        "name": "Marcela Orellana",
+        "location": "Escazú, San José"
+      }
+    },
+    {
       "text": "La mantequilla de almendra con proteína es el complemento perfecto para mi dieta sin gluten.",
       "author": {
         "name": "Andrea Chinchilla",
-        "location": "San José"
+        "location": "Curridabat, San José"
       }
     },
     {
