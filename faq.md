@@ -26,9 +26,9 @@ questions:
     Indicas si la dirección de envío es dentro o fuera de la GAM.\n6. Seleccionas
     el método de pago. Si queres pagar en USD dólares y con tarjeta lo podes hacer
     por medio de la plataforma de Paypal y si preferís pagar en colones y por transferencia
-    seleccionas la opción ”pagar más tarde” en donde tendras acceso a nuestras cuentas
-    bancarias y correo electrónico para hacer efectiva la transferencia.\n7. Esperás
-    entre 1-2 días y voila, tendras tus mantequillas. "
+    seleccionas la opción ”Facturar más tarde” en donde tendras acceso a nuestras
+    cuentas bancarias y correo electrónico para hacer efectivo el pago de tus mantequillas
+    vía transferencia.\n7. Esperás entre 1-2 días y voila, tendras tus mantequillas. "
 - question: "¿Cuánto demora en llegar mi pedido?"
   answer: "**Depende de dónde te encuentres**:\n\n* El envío dentro de la GAM entre
     1 y 2 días. \n* El envío fuer a dela GAM entre 2-3 días. "
