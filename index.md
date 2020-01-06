@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Descubre las mejores mantequillas de semillas 100% naturales y sin azúcar
+# Las mejores mantequillas de semillas 100% naturales, veganas y sin azúcar.
