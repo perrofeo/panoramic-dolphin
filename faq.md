@@ -6,11 +6,6 @@ introduction: 'Aquí encontrarás respuesta a las preguntas más frecuentes que 
   alguna otra pregunta, sugerencia o problema, nuestro número y correo están al final
   de la página. '
 questions:
-- question: "¿Cuál es el costo del envío?"
-  answer: |-
-    El costo del envío en la GAM es de $1
-
-    El costa del envío fuera de la GAM es de $3
 - question: "¿Hacen envíos en todo Costa Rica?"
   answer: Sí, hacemos envíos en todo el país. Para nosotros es una prioridad que cada
     persona pueda disfrutar de todos los beneficios nutricionales de nuestros productos
@@ -21,6 +16,11 @@ questions:
     Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén (si vivís o trabajas
     en estas zonas utiliza el código promocional \"esteyoeste\"para recibir un descuento
     en el costo del envío). "
+- question: "¿Cuál es el costo del envío?"
+  answer: |-
+    El costo del envío en la GAM es de $1
+
+    El costa del envío fuera de la GAM es de $3
 - question: "¿Cuánto demora en llegar mi pedido?"
   answer: "**Depende de dónde te encuentres**:\n\n* El envío dentro de la GAM entre
     1 y 2 días. \n* El envío fuer a dela GAM entre 2-3 días. "
