@@ -6,8 +6,8 @@ id3: "39"
 title: 'Trío de mantequillas de maní, almendra y marañón puras. '
 description: 'Combo de nuestras mantequillas de maní, almendra y marañón. '
 price1: "14"
-price2: "25.5"
-price3: "73.6"
+price2: '25.50'
+price3: '73.60'
 images:
   default:
     thumbnail:
