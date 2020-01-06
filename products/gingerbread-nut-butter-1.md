@@ -8,7 +8,7 @@ description: 'Nuestra mantequilla navideña de almendra, jengibre, nueces, maple
   canela sabe a navidad. Es el complemento perfecto para tus recetas en esta hermosa
   época. '
 price1: "6"
-price2: "11.5"
+price2: '11.50'
 price3: ''
 images:
   default:
