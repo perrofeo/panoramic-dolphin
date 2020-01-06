@@ -104,7 +104,7 @@ Snipcart.execute('registerLocale', 'es', {
     payment_informations:
     "Información de pago",
     payment_informations_bill_me_later:
-    "Realiza el pago por transferencia a las siguientes cuentas: Cuenta BAC colones: 936034115. Cuenta Iban: CR32010200009360341157. Cuenta cliente: 10200009360341157. Titular: Bárbara Sibaja. Cédula: 115690084. Cuenta BN colones: 200-02-164-505265-1. Cuenta cliente: 15116420025052651. Cuenta Iban: CR56015116420025052651. Titular: Bárbara Sibaja. Cédula: 115690084. Envía el comprobante de pago al correo info@healthypleasurescr.com",
+    "Realiza el pago por transferencia a las siguientes cuentas: Cuenta BAC colones: 936034115. Cuenta Iban: CR32010200009360341157. Cuenta cliente: 10200009360341157. Titular: Bárbara Sibaja. Cédula: 115690084. <br>Cuenta BN colones: 200-02-164-505265-1. Cuenta cliente: 15116420025052651. Cuenta Iban: CR56015116420025052651. Titular: Bárbara Sibaja. Cédula: 115690084. Envía el comprobante de pago al correo info@healthypleasurescr.com",
     payment_informations_no_payment_required:
     "No se requiere pago",
     payment_informations_paypalexpress:
