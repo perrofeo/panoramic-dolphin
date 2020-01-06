@@ -10,12 +10,12 @@ bulletpoints:
     Rosy y yo conformamos un equipo de mujeres emprendedoras que trabajan todos los
     días  para llevar alimentos 100% naturales, artesanales, ticos y de calidad hasta
     tu mesa. Nos mueve nuestro amor y pasión por la alimentación consciente y con
-    propósito. Healthy Pleasures es mi sueño y te invito a apoyarme para hacerlo crecer.\n\nEsperamos
+    propósito. Healthy Pleasures es mi sueño y te invito a apoyarme para hacerlo crecer.Esperamos
     que como nosotras creas en comprar para ayudar.\n\nCon amor, \n\nBárbara.  "
   image:
     optimized: "/images/nosotros_foto_mision.webp"
     fallback: "/images/nosotros_foto_mision.jpg"
-- title: 'Nuestro propósito '
+- title: Nuestra misión
   description: |-
     ##### Bendecir tu cuerpo, mente y espíritu con nuestros productos y donar el 10% de las ganancias a misioneros cristianos de Costa Rica.
 
