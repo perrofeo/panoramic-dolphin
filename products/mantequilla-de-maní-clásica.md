@@ -6,9 +6,9 @@ id3: "72"
 title: Mantequilla de Maní Pura
 description: Nuestra mantequilla de maní es crunchy, libre de azúcar, vegana y low-carb
   ♡
-price1: "3.9"
-price2: "7.5"
-price3: "23.7"
+price1: '3.90'
+price2: '7.50'
+price3: '23.70'
 images:
   default:
     thumbnail:
