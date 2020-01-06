@@ -1,10 +1,9 @@
 ---
 title: FAQ
 headline: Preguntas Frecuentes
-introduction: 'Aquí encontrarás respuesta a las preguntas más frecuentes que te puedan
-  surgir al comprar nuestros productos en línea. No dudes en contactarnos si tienes
-  alguna otra pregunta, sugerencia o problema, nuestro número y correo están al final
-  de la página. '
+introduction: Aquí encontrarás respuesta a preguntas que pueden surgir al comprar
+  nuestros productos en línea. No dudes en contactarnos si tienes alguna otra pregunta,
+  sugerencia o problema, nuestro número telefónico y correo están al final de la página.
 questions:
 - question: "¿Hacen envíos en todo Costa Rica?"
   answer: |-
@@ -13,7 +12,7 @@ questions:
     Tenemos dos formas de entregarte tu pedido hasta tu casa o trabajo:
 
     1. Correos de Costa Rica.
-    2. Transporte Healthy Pleasures en Sabana, Escazú, Santa Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén (si vivís o trabajas en estas zonas utiliza el código promocional "esteyoeste"para recibir un descuento en el costo del envío).
+    2. Transporte Healthy Pleasures en Sabana, Escazú, Santa Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén.
 - question: "¿Cuál es el costo del envío?"
   answer: |-
     El costo del envío en la GAM es de $1
@@ -26,9 +25,9 @@ questions:
     Indicas si la dirección de envío es dentro o fuera de la GAM.\n6. Seleccionas
     el método de pago. Si queres pagar en USD dólares y con tarjeta lo podes hacer
     por medio de la plataforma de Paypal y si preferís pagar en colones y por transferencia
-    seleccionas la opción ”pagar más tarde” en donde tendras acceso a nuestras cuentas
-    bancarias y correo electrónico para hacer efectiva la transferencia.\n7. Esperás
-    entre 1-2 días y voila, tendras tus mantequillas. "
+    seleccionas la opción ”Facturar más tarde” en donde tendras acceso a nuestras
+    cuentas bancarias y correo electrónico para hacer efectivo el pago de tus mantequillas
+    vía transferencia.\n7. Esperás entre 1-2 días y voila, tendras tus mantequillas. "
 - question: "¿Cuánto demora en llegar mi pedido?"
   answer: "**Depende de dónde te encuentres**:\n\n* El envío dentro de la GAM entre
     1 y 2 días. \n* El envío fuer a dela GAM entre 2-3 días. "
