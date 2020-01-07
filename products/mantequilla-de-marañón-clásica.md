@@ -8,7 +8,7 @@ description: "¡La favorita de muchas y muchos ! Esta opción tiene un único in
   marañones procesasados. "
 price1: '5.50'
 price2: "11"
-price3: '31.70'
+price3: "32"
 images:
   default:
     thumbnail:
