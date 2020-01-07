@@ -122,7 +122,6 @@ fields:
   config:
     required: true
 pages:
-- products/gingerbread-nut-butter-1.md
 - products/mantequilla-de-almendras-clásica.md
 - products/mantequilla-de-almendras-con-chocolate.md
 - products/mantequilla-de-almendras-con-coco.md
