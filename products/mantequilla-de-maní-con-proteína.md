@@ -7,7 +7,7 @@ title: Mantequilla de Maní con Proteína vegana
 description: 'Una increíble combinación de maní con proteína sin lactosa sabor a vainilla.
   Cada porción te aporta 5g de proteína.  '
 price1: '5.30'
-price2: "9"
+price2: '9.50'
 price3: '26.30'
 images:
   default:
