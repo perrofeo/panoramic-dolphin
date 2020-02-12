@@ -15,8 +15,8 @@ images:
       optimized: "/images/san valentin.webp"
       fallback: "/images/San valentin.jpeg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/san valentin.webp"
+      fallback: "/images/San valentin.jpeg"
   featured:
     thumbnail:
       optimized: ''
