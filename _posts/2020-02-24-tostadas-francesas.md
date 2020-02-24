@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: Tostadas francesas saludables
 
 ---
-Las tostadas francesas son una opción increíble para un “brunch” el fin de semana o para disfrutar en ocasiones especiales. Recordá que la alimentación saludable no tiene porque ser aburrida ;)
+Las tostadas francesas son una opción increíble para un “brunch” para el fin de semana o para disfrutar en ocasiones especiales. Recordá que la alimentación saludable no tiene porque ser aburrida ;)
 
 ![](/images/F31D18E5-83BC-4208-8B56-5AEF216463A4.jpeg)
 
@@ -31,6 +31,5 @@ Las tostadas francesas son una opción increíble para un “brunch” el fin de
 5. Colocar las tostadas en un plato.
 6. Cortar los bananos en rodajas delgadas y colocar encima de las tostadas.
 7. Añadir la mantequilla Healthy Pleasures y la miel de tu preferencia sobre las tostadas.
-8. DISFRUTAR
 
 ¡Feliz fin de semana!
