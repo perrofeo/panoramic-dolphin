@@ -6,10 +6,11 @@ title: 'Tostadas francesas '
 ---
 Las tostadas francesas son una opción increíble para un “brunch” el fin de semana o para disfrutar en ocasiones especiales. Recordá que la alimentación saludable no tiene porque ser aburrida ;)
 
-![](/images/F31D18E5-83BC-4208-8B56-5AEF216463A4.jpeg)  
+![](/images/F31D18E5-83BC-4208-8B56-5AEF216463A4.jpeg)
+
 **Ingredientes**:
 
-(Receta para 4 tostadas)
+(Rinde para 4 tostadas)
 
 1. Pan (tipo “brioche” preferiblemente).
 2. 4 huevos enteros
