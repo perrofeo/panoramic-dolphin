@@ -24,11 +24,13 @@ Las tostadas francesas son una opción increíble para un “brunch” el fin de
 
 **Preparación**:
 
-1. Cortar el pan en rodajas gruesas. 
-2. Batir primeramente los huevos en un ”bowl”, para luego añadir la leche, el azúcar, la canela y la vainilla. Mezclar todos los ingredientes hasta obtener una consistencia homogénea. 
-3. Remojar las rodajas de pan en la mezcla líquida hasta que la miga del pan esté completamente húmeda. 
-4. Derretir una pizca de mantequilla en el sartén para freír las rodajas de pan el sartén en un fuego medio-alto. Freír el pan de cada lado hasta que adquiera un color dorado y una textura más seca, como se observa en la foto. 
+1. Cortar el pan en rodajas gruesas.
+2. Batir primeramente los huevos en un ”bowl”, para luego añadir la leche, el azúcar, la canela y la vainilla. Mezclar todos los ingredientes hasta obtener una consistencia homogénea.
+3. Remojar las rodajas de pan en la mezcla líquida hasta que la miga del pan esté completamente húmeda.
+4. Derretir una pizca de mantequilla en el sartén para freír las rodajas de pan el sartén en un fuego medio-alto. Freír el pan de cada lado hasta que adquiera un color dorado y una textura más seca, como se observa en la foto.
 5. Colocar las tostadas en un plato.
-6. Cortar los bananos en rodajas delgadas y colocar encima de las tostadas. 
-7. Añadir la mantequilla Healthy Pleasures y la miel de tu preferencia sobre las tostadas
+6. Cortar los bananos en rodajas delgadas y colocar encima de las tostadas.
+7. Añadir la mantequilla Healthy Pleasures y la miel de tu preferencia sobre las tostadas.
 8. DISFRUTAR
+
+¡Feliz fin de semana!
