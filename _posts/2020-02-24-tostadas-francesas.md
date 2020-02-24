@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: 'Tostadas francesas '
+title: Tostadas francesas saludables
 
 ---
 Las tostadas francesas son una opción increíble para un “brunch” el fin de semana o para disfrutar en ocasiones especiales. Recordá que la alimentación saludable no tiene porque ser aburrida ;)
