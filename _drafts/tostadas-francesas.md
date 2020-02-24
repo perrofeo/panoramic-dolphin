@@ -12,15 +12,15 @@ Las tostadas francesas son una opción increíble para un “brunch” el fin de
 
 (Rinde para 4 tostadas)
 
-1. Pan (tipo “brioche” preferiblemente).
-2. 4 huevos enteros
-3. 1/2 taza de leche (de tu preferencia).
-4. 3 cucharadas de natuvia o 3 de azúcar (la que gustes)
-5. Mantequilla Healthy Pleasures
-6. 3 bananos
-7. Miel de agave, miel o maple.
-8. Canela en polvo (al gusto)
-9. 1 cdta de vainilla
+* Pan (tipo “brioche” preferiblemente).
+* 4 huevos enteros
+* 1/2 taza de leche (de tu preferencia).
+* 3 cucharadas de natuvia o 3 de azúcar (la que gustes)
+* Mantequilla Healthy Pleasures
+* 3 bananos
+* Miel de agave, miel o maple.
+* Canela en polvo (al gusto)
+* 1 cdta de vainilla
 
 **Preparación**:
 
