@@ -2,8 +2,8 @@
   "title": "10% OFF en tus compras de mantequillas con proteína",
   "subtitle": "Para recibir el descuento utiliza el código \"vegan\" antes de realizar el pago. ",
   "image": {
-    "optimized": "/images/manipromo1.webp",
-    "fallback": "/images/manipromo1.jpg"
+    "optimized": "/images/proteina.webp",
+    "fallback": "/images/Almendra proteina.png"
   },
   "cta": {
     "text": "Comprar",
