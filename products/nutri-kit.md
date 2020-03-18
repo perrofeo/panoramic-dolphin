@@ -21,13 +21,13 @@ images:
       fallback: "/images/Nutri kit-2.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/nutri kit-2.webp"
+      fallback: "/images/Nutri kit-4.jpg"
     original:
       optimized: ''
       fallback: ''
-category: ''
-featured: false
-section: ''
+category: almendra
+featured: true
+section: Store
 
 ---
