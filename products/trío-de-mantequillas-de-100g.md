@@ -24,7 +24,7 @@ images:
       optimized: "/images/copia trio.webp"
       fallback: "/images/Copia.jpeg"
 category: almendra
-featured: true
+featured: false
 section: Store
 
 ---
