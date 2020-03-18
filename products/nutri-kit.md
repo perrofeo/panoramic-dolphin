@@ -2,14 +2,14 @@
 layout: product
 id: "123"
 id2: "124"
-id3: ''
+id3: "125"
 title: Nutri Kit
 description: 'Kit para estimular tu sistema inmunológico y levantar tus defensas.
-  Incluye 1 mantequilla de maní y 1de almendra, fuente de Vitamina C, Vitamina E,
-  Zinc y Hierro ♡  '
+  Incluye 1 mantequilla de maní y 1de almendra. Son fuente de Vitamina C, Vitamina
+  E, Zinc y Hierro ♡  '
 price1: '11.50'
 price2: "16"
-price3: ''
+price3: "45"
 images:
   default:
     thumbnail:
