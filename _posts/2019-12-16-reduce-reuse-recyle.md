@@ -4,14 +4,13 @@ author: Healthy Pleasures
 title: Conciencia ambiental
 
 ---
-
-![](/images/Reduce,reuse,recycle.png)
-
 En Healthy Pleasures nos preocupamos por elaborar nuestras mantequillas de forma eco-amigable en cada una de nuestras etapas de producción. Producir con **conciencia ambiental** es una de nuestras metas y nos esforzamos diariamente para cumplirla.
 
 Nuestras mantequillas son eco-productos elaborados con amor por manos de mujeres costarricenses que buscan bendecir el planeta con una producción sostenible.
 
-Bajo el lema Reduce, Reuse, Recycle.
+Bajo el lema 
+
+![](/images/RduceReuseRecycl.png)
 
 **Reducimos** la utilización de plásticos en nuestra planta de producción y eliminamos la venta de productos en envases plásticos pues no creemos en la necesidad de generar deshechos de un solo uso para la venta de nuestros productos. Nuestras etiquetas son de papel que puede ser reciclado y nuestros empaques de papel kraft.
 
