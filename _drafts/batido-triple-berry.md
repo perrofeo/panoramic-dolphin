@@ -6,7 +6,7 @@ title: Batido triple berry
 ---
 Una receta para un batido delicioso, cremoso y perfecto para subir las defensas de tu cuerpo. Con este batido tu cuerpo obtendrá una sobre carga de antioxidantes, vitamina C, vitamina E y Zinc **♡ #bendicetucuerpo**
 
-![](/images/triple berry smoothie-2.jpg)
+![](/images/berry smoothie-4.jpg)
 
 **Ingredientes:**
 
