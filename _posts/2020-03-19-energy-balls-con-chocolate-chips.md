@@ -20,8 +20,10 @@ La Dra. Mariel González, nos trae una receta deliciosa de energy balls veganos,
 
 **Preparación:**
 
-En un recipiente con un tenedor haga el puré de banano, luego agregue la vainilla, la chia, la natuvia, la mantequilla, los chips de chocolate y por último puedes ir agregando la avena y revolviendo poco a poco.
-
-Trata de hacer las bolitas con tus manos en caso de que ocupas humedecerlas puede facilitar.
+1. En un recipiente con un tenedor aplasta el banano hasta crear un "puré", luego agregá la vainilla, la chia, la natuvia, la mantequilla, los chips de chocolate y por último puedes ir agregando la avena y la revuelves poco a poco con los demás ingredientes. 
+2. La textura final de la mezcla debe de ser compacta y poco pegajosa para facilitar la tarea de elaboración de cada bolita. 
+3. Tomá la cantidad de mezcla deseada con tus manos y forma cada bolita en  el tamaño que gustés. 
+4. Podes refrigerar las bolitas por 20 minutos para que la textura sea un poco más sólida. 
+5. **¡Disfrutar!**
 
 Nos contas que te parece ♡ #bendicetucuerpo
