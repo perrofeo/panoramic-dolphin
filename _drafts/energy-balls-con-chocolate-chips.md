@@ -4,9 +4,9 @@ author: Dra. Mariel González, Licenciada en Nutrición.
 title: Energy Balls con chocolate chips
 
 ---
-La Dra. Mariel González nos trae una receta deliciosa de energy balls veganos, libres de gluten y preservantes. Son perfectos para comer antes de entrenar, como un desayuno on the go o hasta como un pequeño postre. Comer rico y saludable sí es posible. 
+La Dra. Mariel González nos trae una receta deliciosa de energy balls veganos, libres de gluten y preservantes. Son perfectos para comer antes de entrenar, como un desayuno on the go o hasta como un pequeño postre. Comer rico y saludable sí es posible.
 
-![](/images/Energy balls veganos-3.jpeg)
+         ![](/images/Energy balls veganos-4.jpeg)
 
 **Ingredientes:**
 
@@ -16,7 +16,7 @@ La Dra. Mariel González nos trae una receta deliciosa de energy balls veganos, 
 * 1/2 tz de mantequilla de marañón o Almendra o maní de Healthy Pleasures
 * 1 cucharada de extracto de vainilla.
 * 1 banano maduro.
-*  4 sobres de natuvia o stevia 
+* 4 sobres de natuvia o stevia
 
 **Preparación:**
 
