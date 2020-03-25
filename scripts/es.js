@@ -1,3 +1,5 @@
+Snipcart.api.configure('show_continue_shopping', true);
+
 Snipcart.execute('registerLocale', 'es', {
     yes:
     "Sí",
