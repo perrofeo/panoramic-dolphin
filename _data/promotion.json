@@ -1,9 +1,9 @@
 {
-  "title": "10% OFF en tus compras de mantequilla de maní de cualquier sabor.",
-  "subtitle": "Para recibir el descuento utiliza el código \"peanutlover\" antes de realizar el pago. ",
+  "title": "10% OFF en tus compras de mantequillas con proteína",
+  "subtitle": "Para recibir el descuento utiliza el código \"vegan\" antes de realizar el pago. ",
   "image": {
-    "optimized": "/images/manipromo1.webp",
-    "fallback": "/images/manipromo1.jpg"
+    "optimized": "/images/proteina.webp",
+    "fallback": "/images/Almendra proteina.png"
   },
   "cta": {
     "text": "Comprar",
