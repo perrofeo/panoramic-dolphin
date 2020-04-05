@@ -23,6 +23,6 @@ Rinde para 2 personas.
 
 Coloca todos los ingredientes en una licuadora y mezcla los ingredientes hasta que la textura sea homogénea y cremosa. Si la mezcla está muy espesa, podés agregar un poco de agua para ayudar a la licuadora a mezclar mejor tu batido. 
 
-**Dato importante:** Los bananos no tienen que estar congelados, sin embargo, el batido quedará ligeramente menos cremoso.
+**Dato importante:** Los bananos no tienen que estar congelados, sin embargo, el batido quedará ligeramente menos cremoso. 
 
 **¡ENJOY!**
