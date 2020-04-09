@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: 'Healthy Frapuccino '
+title: 'Healthy Frappuccino '
 
 ---
-Te traemos la receta de un frapuccino de chocolate que no tiene nada que envidiarle al de Starbucks ;)
+Te traemos la receta de un frappuccino de chocolate que no tiene nada que envidiarle al de Starbucks ;)
 
 Sin azúcar, lactosa ni carbohidratos. Te advertimos que hay peligro de caer en una adicción por culpa de esta refrescante bebida de café con chocolate.
 
