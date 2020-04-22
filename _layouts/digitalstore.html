@@ -4,7 +4,19 @@ layout: body
 
 <main class="content store">
     <div class="content__row content__row--direction-row store__head">
-        <h1 class="store__title">Recetas</h1>
+        <h1 class="store__title">E-Books</h1>
+    </div>
+
+    <div class="content__row store__container">
+        <nav class="store__nav">
+            
+            {% include nav_categories.html page=page site=site %}
+        </nav>
+        <section class="store__products">
+            {% assign product_pages = '/products' | get_pages | sort: 'name' %}
+            
+            {% include product_grid.html product_pages=product_pages cssClass='store__product-grid' %}
+        </section>
     </div>
 
     <div class="content__row store__container">
