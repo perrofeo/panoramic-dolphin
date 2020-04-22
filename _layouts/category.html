@@ -18,6 +18,11 @@ layout: body
                 
                 {% include product_grid.html product_pages=category_product_pages cssClass='store__product-grid' %}
             </section>
+            <section class="store__products">
+                {% assign category_product_pages = '/digitalproducts' | get_pages | where_exp: "item", "item.category == page.slug" | sort: 'name' %}
+                
+                {% include product_grid.html product_pages=category_product_pages cssClass='store__product-grid' %}
+            </section>
         </div>
     
         <section class="content__row">
