@@ -1,9 +1,9 @@
 ---
 layout: digitalproduct
-id: "400"
-title: Recetario 1
+id: "401"
+title: Recetario 2
 description: 'Recetas ricas y sanas'
-price1: "5"
+price1: "7"
 images:
   default:
     thumbnail:
