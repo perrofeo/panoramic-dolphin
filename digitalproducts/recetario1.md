@@ -1,17 +1,19 @@
 ---
 layout: digitalproduct
 id: "400"
-title: Recetario 1
-description: 'Recetas ricas y sanas'
+title: Para el alma
+description: '"Recetas para el Alma" es nuestro primer libro de recetas creado para enseñarte a nutrir tu cuerpo y alma con comida saludable y deliciosa. 
+
+En el e-book encontrarás más de 25 recetas originales y de fácil preparación, para todos los tiempos de comida, que te motivarán a llevar un estilo de vida saludable y sostenible en el tiempo.'
 price1: "5"
 images:
   default:
     thumbnail:
-      optimized: "/images/recetario1.jpg"
-      fallback: "/images/recetario1.jpg"
+      optimized: "/images/HP_ebook_1.jpg"
+      fallback: "/images/HP_ebook_1.jpg"
     original:
-      optimized: "/images/recetario1.jpg"
-      fallback: "/images/recetario1.jpg"
+      optimized: "/images/HP_ebook_1.jpg"
+      fallback: "/images/HP_ebook_1.jpg"
   featured:
     thumbnail:
       optimized: ''
