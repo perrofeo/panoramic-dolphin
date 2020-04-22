@@ -27,11 +27,6 @@ layout: body
                 <h2 class="product__category"> 
                     <a href="{{ category_page.url | relative_url }}"> {{ category_page.title }} </a>
                 </h2>
-                <!-- <div class="product__price">
-                    ₡{{ page.price1 }} 100g
-                    ₡{{ page.price2 }} 265g
-                    ₡{{ page.price3 }} 1kg
-                </div> -->
 
                 <article class="product__description">
                     {{ page.description }}
@@ -60,55 +55,9 @@ layout: body
                        </svg>
                        </span>
                        <span>
-                      100g</span><span class="product__price1">${{ page.price1 }}</span><span>{% include buy_button.html product_page=page %}</span></div>
-                  {# <div class="product__button-todo">
-                      <span>
-                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                            width="20px" height="20px" viewBox="0 0 25 25" enable-background="new 0 0 25 25" xml:space="preserve">
-                       <g>
-                           <path fill="#8E7F80" d="M25,8.59c0-1.102-0.514-1.579-1.028-2.092c-0.66-0.625-1.321-1.212-1.468-2.607H2.496
-                               C2.35,5.286,1.688,5.874,1.064,6.498C0.514,7.012,0,7.489,0,8.59v11.71c0,1.322,0.514,2.497,1.395,3.341
-                               C2.239,24.486,3.414,25,4.699,25h15.602c1.322,0,2.496-0.514,3.341-1.358C24.486,22.798,25,21.623,25,20.301V8.59L25,8.59z
-                                M0.808,2.9h23.422c0.22,0,0.403-0.11,0.55-0.257C24.927,2.496,25,2.313,25,2.092V0.808c0-0.22-0.073-0.44-0.221-0.587h-0.036
-                               C24.633,0.073,24.413,0,24.229,0H0.808c-0.22,0-0.44,0.073-0.587,0.22S0,0.587,0,0.808v1.285c0,0.221,0.073,0.404,0.22,0.551
-                               S0.587,2.9,0.808,2.9z"/>
-                       </g>
-                       <g>
-                           <defs>
-                               <rect id="SVGID_1_" x="-13.436" y="6.45" width="11.057" height="11.056"/>
-                           </defs>
-                           <clipPath id="SVGID_2_">
-                               <use xlink:href="#SVGID_1_"  overflow="visible"/>
-                           </clipPath>
-                       </g>
-                       </svg>
-                      </span>
-                      <span>
-                       265g</span><span class="product__price1">${{ page.price2 }}</span><span>{% include buy_button2.html product_page=page %}</span></div>
-                  <div class="product__button-todo">
-                      <span>
-                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                            width="25px" height="25px" viewBox="0 0 25 25" enable-background="new 0 0 25 25" xml:space="preserve">
-                       <g>
-                           <path fill="#8E7F80" d="M25,8.59c0-1.102-0.514-1.579-1.028-2.092c-0.66-0.625-1.321-1.212-1.468-2.607H2.496
-                               C2.35,5.286,1.688,5.874,1.064,6.498C0.514,7.012,0,7.489,0,8.59v11.71c0,1.322,0.514,2.497,1.395,3.341
-                               C2.239,24.486,3.414,25,4.699,25h15.602c1.322,0,2.496-0.514,3.341-1.358C24.486,22.798,25,21.623,25,20.301V8.59L25,8.59z
-                                M0.808,2.9h23.422c0.22,0,0.403-0.11,0.55-0.257C24.927,2.496,25,2.313,25,2.092V0.808c0-0.22-0.073-0.44-0.221-0.587h-0.036
-                               C24.633,0.073,24.413,0,24.229,0H0.808c-0.22,0-0.44,0.073-0.587,0.22S0,0.587,0,0.808v1.285c0,0.221,0.073,0.404,0.22,0.551
-                               S0.587,2.9,0.808,2.9z"/>
-                       </g>
-                       <g>
-                           <defs>
-                               <rect id="SVGID_1_" x="-13.436" y="6.45" width="11.057" height="11.056"/>
-                           </defs>
-                           <clipPath id="SVGID_2_">
-                               <use xlink:href="#SVGID_1_"  overflow="visible"/>
-                           </clipPath>
-                       </g>
-                       </svg>
-                      </span>
-                      <span>
-                      1kg</span><span class="product__price1">${{ page.price3 }}</span><span>{% include buy_button3.html product_page=page %}</span></div> #}
+                      100g</span><span class="product__price1">${{ page.price1 }}</span><span>{% include buy_button.html product_page=page %}</span>
+                    </div>
+                  
                 </div>
 
                 <!-- <div class="product__content">

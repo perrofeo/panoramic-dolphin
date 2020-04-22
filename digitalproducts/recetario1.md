@@ -7,11 +7,11 @@ price1: "5"
 images:
   default:
     thumbnail:
-      optimized: "/images/almendrapura-1.webp"
-      fallback: "/images/mantequillaArtboard 5.png"
+      optimized: "/images/recetario1.jpg"
+      fallback: "/images/recetario1.jpg"
     original:
-      optimized: "/images/almendrapura-1.webp"
-      fallback: "/images/mantequillaArtboard 5.png"
+      optimized: "/images/recetario1.jpg"
+      fallback: "/images/recetario1.jpg"
   featured:
     thumbnail:
       optimized: ''
