@@ -1,7 +1,7 @@
 ---
 layout: digitalproduct
 id: "400"
-guid: ""
+guid: "número guid"
 title: Para el alma
 description: '"Recetas para el Alma" es nuestro primer libro de recetas creado para enseñarte a nutrir tu cuerpo y alma con comida saludable y deliciosa. 
 
