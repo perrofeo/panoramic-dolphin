@@ -11,7 +11,7 @@ layout: body
         <section class="store__products">
             {% assign product_pages = '/digitalproducts' | get_pages | sort: 'name' %}
             
-            {% include product_grid.html product_pages=product_pages cssClass='store__product-grid' %}
+            {% include product_grid_digital.html product_pages=product_pages cssClass='store__product-grid' %}
         </section>
     </div>
 
