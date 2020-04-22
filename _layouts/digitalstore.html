@@ -8,10 +8,6 @@ layout: body
     </div>
 
     <div class="content__row store__container">
-        {# <nav class="store__nav">
-            
-            {% include nav_categories.html page=page site=site %}
-        </nav> #}
         <section class="store__products">
             {% assign product_pages = '/digitalproducts' | get_pages | sort: 'name' %}
             
