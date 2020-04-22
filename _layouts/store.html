@@ -16,6 +16,10 @@ layout: body
             {% assign product_pages = '/products' | get_pages | sort: 'name' %}
             
             {% include product_grid.html product_pages=product_pages cssClass='store__product-grid' %}
+
+            {% assign product_pages = '/digitalproducts' | get_pages | sort: 'name' %}
+            
+            {% include product_grid_digital.html product_pages=product_pages cssClass='store__product-grid' %}
         </section>
     </div>
 
