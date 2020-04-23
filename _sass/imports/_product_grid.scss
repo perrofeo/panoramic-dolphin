@@ -39,6 +39,13 @@
     color: $color_dark_grey;
     display: none;
   }
+  &__category-digital {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: $font_size_small;
+    color: $color_dark_grey;
+    display: none;
+  }
 
   &__item-image {
     width: 100%;
