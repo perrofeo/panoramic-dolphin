@@ -66,6 +66,11 @@ sections:
   match: "**/*"
   templates:
   - products
+- type: directory
+  path: digitalproducts
+  label: E-Books
+  create: documents
+  match: "**/*"
 - type: document
   path: _data/menus.yml
   label: Site Menus
