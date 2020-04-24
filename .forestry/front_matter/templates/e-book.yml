@@ -5,12 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: digitalproduct
 - type: text
   name: id
   label: id
 - type: text
   name: price1
-  label: price1
+  label: Precio
 - type: text
   name: guid
   label: guid
@@ -51,9 +53,14 @@ fields:
 - type: text
   name: category
   label: category
+  hidden: true
+  default: almendra
 - type: text
   name: section
   label: section
+  default: Store
+  hidden: true
 - type: text
   name: maxquantity1
   label: maxquantity1
+  hidden: true
