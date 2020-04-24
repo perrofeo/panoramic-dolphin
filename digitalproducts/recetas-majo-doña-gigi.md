@@ -11,11 +11,11 @@ description: Este bonito proyecto de madre e hija viene para recordarnos de que 
 images:
   default:
     thumbnail:
-      optimized: "/images/Healthy-Pleasures_ebook_1.webp"
-      fallback: "/images/Healthy-Pleasures_ebook_1.png"
+      optimized: "/images/Healthy-Pleasures_ebook_1a.webp"
+      fallback: "/images/Healthy-Pleasures_ebook_1a.png"
     original:
-      optimized: "/images/Healthy-Pleasures_ebook_1.webp"
-      fallback: "/images/Healthy-Pleasures_ebook_1.png"
+      optimized: "/images/Healthy-Pleasures_ebook_1a.webp"
+      fallback: "/images/Healthy-Pleasures_ebook_1a.png"
 category: almendra
 section: Store
 maxquantity1: ''
