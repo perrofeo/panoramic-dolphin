@@ -34,8 +34,10 @@ fields:
       name: thumbnail
       label: thumbnail
       fields:
-      - type: text
-        name: optimized
+      - name: optimized
+        type: file
+        config:
+          maxSize: 250
         label: optimized
       - type: file
         name: fallback
@@ -44,12 +46,14 @@ fields:
       name: original
       label: original
       fields:
-      - type: text
-        name: optimized
-        label: optimized
       - type: file
         name: fallback
         label: fallback
+      - name: optimized
+        type: file
+        config:
+          maxSize: 250
+        label: optimized
 - type: text
   name: category
   label: category
