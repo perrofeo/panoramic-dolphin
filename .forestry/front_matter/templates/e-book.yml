@@ -16,7 +16,7 @@ fields:
 - type: text
   name: guid
   label: File guid
-  description: Este número hay que copiarlo desde snipcart.
+  description: Este número hay que copiarlo desde Snipcart.
 - type: text
   name: title
   label: title
