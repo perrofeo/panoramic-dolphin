@@ -3,7 +3,7 @@ layout: digitalproduct
 id: "400"
 price1: "0"
 guid: "19b73571-c06b-4e0c-87b1-8a07778d953e"
-title: Recetas de Majo y doña Gigi
+title: Recetas de Majo y Doña Gigi
 description: '"Recetas para el Alma" es nuestro primer libro de recetas creado para enseñarte a nutrir tu cuerpo y alma con comida saludable y deliciosa. 
 
 En el e-book encontrarás más de 25 recetas originales y de fácil preparación, para todos los tiempos de comida, que te motivarán a llevar un estilo de vida saludable y sostenible en el tiempo.'
