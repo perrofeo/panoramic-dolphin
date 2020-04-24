@@ -10,10 +10,10 @@ En el e-book encontrarás más de 25 recetas originales y de fácil preparación
 images:
   default:
     thumbnail:
-      optimized: "/images/Healthy-Pleasures_ebook_1.png"
+      optimized: "/images/Healthy-Pleasures_ebook_1.webp"
       fallback: "/images/Healthy-Pleasures_ebook_1.png"
     original:
-      optimized: "/images/Healthy-Pleasures_ebook_1.png"
+      optimized: "/images/Healthy-Pleasures_ebook_1.webp"
       fallback: "/images/Healthy-Pleasures_ebook_1.png"
   featured:
     thumbnail:
