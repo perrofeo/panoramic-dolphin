@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: Chia pudding - Low carb snack ❤
 
 ---
-Este snack es perfecto si querés una merienda rica, saludable y súper fácil de hacer. Es un snack vegano, libre de gluten, bajo en carbohidratos y alto en grasas saludables y proteína vegetal.
+Este snack es perfecto si querés una merienda rica, saludable y súper fácil de hacer. Es un snack vegano, libre de gluten, bajo en carbohidratos y alto en grasas saludables.
 
 ![](/images/Chiapudding.png)
 
@@ -32,7 +32,7 @@ Información nutricional: Calorías:150  Grasa:5g  Carbs:15g
 
 **Para la base:**
 
-1. Agregá la leche, la mantequilla de almendra, la miel, la canela y la vainilla en una licuadora. Licualos durante 30 segundos aproximadamente para que los ingredientes estén bien mezclados.
+1. Agregá la leche, la mantequilla de almendra, la miel, la canela y la vainilla en una licuadora. Licúalos durante 30 segundos aproximadamente para que los ingredientes estén bien mezclados.
 2. Colocá la mezcla en un bowl mediano, agregá las semillas de chía dentro de la mezcla líquida y revolvé muy bien las semillas dentro de la mezcla.
 3. Cubrí la mezcla y refrigerá durante mínimo 7 horas. Preferiblemente durante toda la noche.
 4. En la mañana, revolvé el pudding de chía, probálo y si es necesario le podes agregar miel o más natuvia.
