@@ -1,0 +1,94 @@
+---
+layout: body
+---
+
+    {% assign category_page = '/category' | get_pages | where_exp: "item", "item.slug == page.category" | first %}
+    <main class="content">
+        <section class="product content__row content__row--bleed">  
+            <div class="product__background-left-overlay"></div>
+            <div class="product__background-left"></div>
+            <div class="product__background-right"></div>
+            <div class="product__header">
+                <a href="/store" class="product__back-to-store-link">
+                    <svg width="20" height="10" viewBox="0 0 20 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M2.73859 4.30914H19.75V5.59286H2.63961L6.06986 8.98864L5.17449 9.875L0.25 5L5.17449 0.125L6.06986 1.01136L2.73859 4.30914Z" fill="#981B42"/>
+                    </svg>                        
+                    todos los productos
+                </a>
+            </div>
+            <figure class="product__figure">
+                
+                {% include picture.html image=page.images.default.original alt=page.title cssClass='product__image' %}
+            </figure>
+            <div class="product__details">
+                <h1 class="product__title">
+                    {{ page.title }}
+                </h1>
+                <h2 class="product__category"> 
+                    <a href="{{ category_page.url | relative_url }}"> {{ category_page.title }} </a>
+                </h2>
+
+                <article class="product__description">
+                    {{ page.description }}
+                </article>
+                <div class="product__buttons">
+                  <div class="product__button-todo">
+                      <span>
+                            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="25px" height="26.667px" viewBox="0 0 25 26.667" enable-background="new 0 0 25 26.667" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-13.436" y="8.116" width="11.057" height="11.056"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+</g>
+<g>
+	<g transform="translate(-1195.000000, -2065.000000)">
+		<path fill="#8E7F80" d="M1204.444,2084.444c0,3.088,1.691,5.783,4.192,7.223h-10.859c-1.532,0-2.778-1.247-2.778-2.778v-21.11
+			c0-1.531,1.246-2.778,2.778-2.778h18.888c0.306,0,0.556,0.249,0.556,0.556s-0.25,0.556-0.556,0.556h-18.888
+			c-0.919,0-1.667,0.748-1.667,1.667s0.748,1.667,1.667,1.667h18.888c0.306,0,0.556,0.249,0.556,0.556v7.408
+			c-1.289-0.816-2.81-1.297-4.444-1.297C1208.182,2076.111,1204.444,2079.85,1204.444,2084.444z M1215.393,2085.392
+			c0.217-0.216,0.217-0.568,0-0.785s-0.569-0.217-0.786,0l-1.273,1.274v-4.215c0-0.306-0.25-0.555-0.555-0.555
+			c-0.309,0-0.556,0.249-0.556,0.555v4.215l-1.274-1.274c-0.217-0.217-0.569-0.217-0.786,0s-0.217,0.569,0,0.785l2.222,2.222
+			c0.051,0.052,0.113,0.092,0.181,0.121c0.069,0.027,0.141,0.043,0.214,0.043c0.07,0,0.143-0.016,0.211-0.043
+			c0.068-0.029,0.13-0.069,0.181-0.121L1215.393,2085.392z M1212.778,2077.223c3.981,0,7.222,3.239,7.222,7.222
+			s-3.24,7.222-7.222,7.222c-3.982,0-7.223-3.239-7.223-7.222S1208.796,2077.223,1212.778,2077.223z M1197.778,2067.222h17.777
+			c0.306,0,0.556,0.249,0.556,0.556s-0.25,0.556-0.556,0.556h-17.777c-0.307,0-0.556-0.249-0.556-0.556
+			S1197.471,2067.222,1197.778,2067.222z"/>
+	</g>
+</g>
+</svg>
+                       </span>
+                       <span>
+                      Precio</span><span class="product__price1">${{ page.price1 }}</span><span>{% include buy_button_digital.html product_page=page %}</span>
+                    </div>
+                  
+                </div>
+
+                <!-- <div class="product__content">
+                    {{ content }}
+                  </div> -->
+            </div>
+        </section>
+
+        <section class="content__row">
+        <h2 class="content__row-title content__row-title--medium">
+            <svg width="29" height="25" viewBox="0 0 29 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M28.152 3.4188C27.2129 1.75821 21.3251 -3.80243 14.4999 4.24829C7.33226 -3.80243 1.78532 1.75821 0.847792 3.4188C-0.859337 6.48936 0.164613 11.138 2.55492 13.3791L14.5015 25L26.4482 13.3791C28.8352 11.138 29.8592 6.49096 28.1521 3.4188H28.152Z" fill="#FDFDFD"/>
+            </svg>                    
+            Best Sellers
+        </h2>
+        {% assign featured_product_pages = '/products' | get_pages | where_exp: "item", "item.featured == true" %}
+        
+        {% include featured_products.html product_pages=featured_product_pages %}
+    </section>
+
+        <a href="/store" class="content__row content__row--bleed product__back-to-store">
+            <svg width="20" height="10" viewBox="0 0 20 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2.73859 4.30914H19.75V5.59286H2.63961L6.06986 8.98864L5.17449 9.875L0.25 5L5.17449 0.125L6.06986 1.01136L2.73859 4.30914Z" fill="white"/>
+            </svg>                        
+            todos los productos
+        </a>
+    </main>
