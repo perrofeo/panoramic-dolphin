@@ -1,0 +1,59 @@
+---
+label: E-Book
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: id
+  label: id
+- type: text
+  name: price1
+  label: price1
+- type: text
+  name: guid
+  label: guid
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: field_group
+  name: images
+  label: images
+  fields:
+  - type: field_group
+    name: default
+    label: default
+    fields:
+    - type: field_group
+      name: thumbnail
+      label: thumbnail
+      fields:
+      - type: text
+        name: optimized
+        label: optimized
+      - type: file
+        name: fallback
+        label: fallback
+    - type: field_group
+      name: original
+      label: original
+      fields:
+      - type: text
+        name: optimized
+        label: optimized
+      - type: file
+        name: fallback
+        label: fallback
+- type: text
+  name: category
+  label: category
+- type: text
+  name: section
+  label: section
+- type: text
+  name: maxquantity1
+  label: maxquantity1
