@@ -114,6 +114,7 @@ fields:
     - Store
     - About
     - Home
+  default: Store
 - type: text
   name: layout
   label: Layout
