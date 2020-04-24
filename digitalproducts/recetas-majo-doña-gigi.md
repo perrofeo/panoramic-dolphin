@@ -4,9 +4,8 @@ id: "400"
 price1: "0"
 guid: "19b73571-c06b-4e0c-87b1-8a07778d953e"
 title: Recetas de Majo y Doña Gigi
-description: '"Recetas para el Alma" es nuestro primer libro de recetas creado para enseñarte a nutrir tu cuerpo y alma con comida saludable y deliciosa. 
-
-En el e-book encontrarás más de 25 recetas originales y de fácil preparación, para todos los tiempos de comida, que te motivarán a llevar un estilo de vida saludable y sostenible en el tiempo.'
+description: 'Este bonito proyecto de madre y hija viene para recordarnos de que la comida, mas allá de proteínas, grasas y carbohidratos, es un ritual lleno de sensaciones, amor y recuerdos.
+En este e-book encontrarás recetas fáciles, prácticas, saludables y deliciosas para desayunos, plato fuerte y snacks para 5 días.'
 images:
   default:
     thumbnail:
@@ -15,15 +14,6 @@ images:
     original:
       optimized: "/images/Healthy-Pleasures_ebook_1.webp"
       fallback: "/images/Healthy-Pleasures_ebook_1.png"
-  featured:
-    thumbnail:
-      optimized: ''
-      fallback: ''
-    original:
-      optimized: ''
-      fallback: ''
-category: almendra
-featured: false
 section: Store
 maxquantity1: ''
 
