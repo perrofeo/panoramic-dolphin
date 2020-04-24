@@ -15,7 +15,8 @@ fields:
   label: Precio
 - type: text
   name: guid
-  label: guid
+  label: File guid
+  description: El número se crea en snipcart subiendo el archivo digital.
 - type: text
   name: title
   label: title
