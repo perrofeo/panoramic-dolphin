@@ -16,7 +16,7 @@ fields:
 - type: text
   name: guid
   label: File guid
-  description: El número se crea en snipcart subiendo el archivo digital.
+  description: Este número hay que copiarlo desde snipcart.
 - type: text
   name: title
   label: title
