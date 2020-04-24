@@ -64,3 +64,5 @@ fields:
   name: maxquantity1
   label: maxquantity1
   hidden: true
+pages:
+- digitalproducts/recetas-majo-doña-gigi.md
