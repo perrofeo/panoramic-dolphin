@@ -62,7 +62,7 @@ sections:
 - type: directory
   path: products
   label: Product
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - products
@@ -71,6 +71,8 @@ sections:
   label: E-Books
   create: documents
   match: "**/*"
+  templates:
+  - e-book
 - type: document
   path: _data/menus.yml
   label: Site Menus
