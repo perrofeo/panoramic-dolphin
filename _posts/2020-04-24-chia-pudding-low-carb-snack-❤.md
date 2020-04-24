@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: Chia pudding - Low carb snack ❤
+title: Chía pudding - Low carb snack ❤
 
 ---
 Este snack es perfecto si querés una merienda rica, saludable y súper fácil de hacer. Es un snack vegano, libre de gluten, bajo en carbohidratos y alto en grasas saludables.
