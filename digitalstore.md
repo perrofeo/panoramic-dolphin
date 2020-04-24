@@ -1,4 +1,4 @@
 ---
-title: 'Recetas '
+title: 'E-Books'
 layout: digitalstore
 ---
