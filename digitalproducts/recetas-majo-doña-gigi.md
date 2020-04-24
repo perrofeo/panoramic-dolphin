@@ -14,7 +14,7 @@ images:
     original:
       optimized: "/images/Healthy-Pleasures_ebook_1.webp"
       fallback: "/images/Healthy-Pleasures_ebook_1.png"
-category: ebook
+category: almendra
 section: Store
 maxquantity1: ''
 
