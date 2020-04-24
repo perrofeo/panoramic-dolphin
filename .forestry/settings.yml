@@ -5,6 +5,10 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5d7d13b7fb5f730011de0678/webhook/forestry
 sections:
 - type: document
+  path: digitalproducts
+  label: Ebooks
+  match: "**/*"
+- type: document
   path: _config.yml
   label: Global site config
   templates:
