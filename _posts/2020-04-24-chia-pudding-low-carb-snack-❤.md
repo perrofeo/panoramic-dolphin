@@ -6,6 +6,15 @@ title: 'Chía pudding '
 ---
 Este snack es perfecto si querés una merienda rica, saludable y súper fácil de hacer. Es un snack vegano, libre de gluten, bajo en carbohidratos y alto en grasas saludables.
 
+**Las semillas de chía son un súper alimento:**
+
+1. Tienen 5 veces más calcio que la leche.
+2. Poseen 3 veces más antioxidantes que los arándanos.
+3. Triplican la cantidad de hierro que poseen las espinacas.
+4. El doble fibra que la avena.
+5. Tienen más del doble de proteínas que cualquier verdura.
+6. Y más potasio que el plátano.
+
 ![](/images/Chiapudding.png)
 
 **Ingredientes:**
