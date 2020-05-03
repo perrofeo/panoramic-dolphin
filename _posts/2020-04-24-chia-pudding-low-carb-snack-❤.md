@@ -16,7 +16,7 @@ Información nutricional: Calorías:150  Grasa:5g  Carbs:15g
 
 **Para la base:**
 
-1. 2 tazas de leche de coco. Te recomendamos comprar la leche de coco pura y sin azúcar de [**La Cocotería**]()**.**
+1. 2 tazas de leche de coco. Te recomendamos comprar la leche de coco pura y sin azúcar de [**La Cocotería**](https://www.instagram.com/lacocoteria.cr/ "La Cocotería")**.**
 2. 2 cdas de mantequilla de almendra #healthypleasures
 3. 2 cdas de miel o 3 sobres de natuvia
 4. 4 cdas de canela
@@ -28,7 +28,7 @@ Información nutricional: Calorías:150  Grasa:5g  Carbs:15g
 1. 1 cda de mantequilla de almendra #healthypleasures
 2. 1/4 de taza de arándanos frescos
 3. 1/4 de taza de fresas
-4. Yogurt griego o de coco. Te recomendamos comprar la leche de coco pura y sin azúcar de [**La Cocotería**]()**.**
+4. Yogurt griego o de coco. Te recomendamos comprar la leche de coco pura y sin azúcar de[ **La Cocotería**](https://www.instagram.com/lacocoteria.cr/ "La Cocotería")**.**
 
 **Preparación:**
 
