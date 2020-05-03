@@ -15,7 +15,7 @@ Este snack es perfecto si querés una merienda rica, saludable y súper fácil d
 5. Tienen más del doble de proteínas que cualquier verdura.
 6. Y más potasio que el plátano.
 
-![](/images/Chiapudding.png)
+![](/images/IMG_9785-1.JPG)
 
 **Ingredientes:**
 
