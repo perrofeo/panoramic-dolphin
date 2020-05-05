@@ -35,4 +35,8 @@ Si sos amante de los desayunos dulces toma nota, porque esta receta acompañará
 6. Utiliza un recipiente de medida de 1/2 taza, llenalo de la mezcla y empieza a forma uno a uno tus pancakes. 
 7. Esperá a que en cada pancake se formen muchas burbujas antes de voltearlo. Cocina cada lado de los pancakes hasta que tomen un color café claro. 
 8. Coloca tus pancakes como gustes y agregá los toppings: el yogurt griego, las rodajas de banano, la mantequilla de marañón con coco y la miel que prefirás. 
-9. ¡Disfrutá!
+
+   .
+
+   .
+9. **¡Disfrutá!**
