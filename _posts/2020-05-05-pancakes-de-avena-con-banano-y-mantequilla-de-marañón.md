@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: Pancakes de avena con banano y mantequilla de marañón
 
 ---
-Si sos amante de los desayunos dulces toma nota, porque esta receta acompañará más de una de tus mañanas. Estos pancakes son esponjosos, ricos y saludables. En Healthy Pleasures que disfrutés del placer de comer libre de remordimientos #bencitucuerpo
+Si sos amante de los desayunos dulces toma nota, porque esta receta acompañará más de una de tus mañanas. Estos pancakes son esponjosos, ricos y saludables. En Healthy Pleasures que disfrutés del placer de comer libre de remordimientos.
 
 > ![](/images/Pancakes de avena-1.png)
 
@@ -24,6 +24,10 @@ Si sos amante de los desayunos dulces toma nota, porque esta receta acompañará
 10. **2 cdas de mantequilla de marañón con coco Healthy Pleasures**
 11. 1 cda de yogurt griego de tu preferencia
 12. Miel de agave o miel de abeja
+
+    .
+
+    .
 
 **PREPARACIÓN:**
 
