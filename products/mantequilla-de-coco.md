@@ -4,11 +4,12 @@ layout: product
 id: "124"
 id2: "125"
 id3: "126"
-title: 'Mantequilla de coco '
-description: 'Mantequilla de coco100% natural. La mantequilla tiene un único único
-  ingrediente coco puro, libre de azúcar agregada, aceites, preservantes y gluten.
-  Perfecta para cocinar recetas dulces y saladas, así como para aplicar sobre tu piel
-  y cabello como un humectante natural.  '
+title: Mantequilla de coco pura
+description: 'Mantequilla de coco 100% natural, libre de azúcar agregada, aceites,
+  preservantes y gluten. Perfecta para cocinar recetas dulces y saladas, así como
+  para aplicar sobre tu piel y cabello como un humectante natural. Donamos 30% de
+  las ganancias de estas mantequillas para compra de viveres para las familias afectadas
+  por el Covid-19. Para saber más visitá nuestro blog post. '
 price1: '6.50'
 price2: '10.50'
 price3: "27.35"
