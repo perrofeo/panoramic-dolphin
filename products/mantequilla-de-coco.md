@@ -23,12 +23,12 @@ images:
       fallback: "/images/mantequillas-coco.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/mantequilla-265g.webp"
+      fallback: "/images/mantequilla-de-coco-265.jpg"
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: marañón
 featured: true
 published: false
 
