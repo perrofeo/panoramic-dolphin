@@ -1,5 +1,5 @@
 ---
-section: Store
+section: Home
 layout: product
 id: "124"
 id2: "125"
@@ -28,7 +28,7 @@ images:
       optimized: ''
       fallback: ''
 category: ''
-featured: false
+featured: true
 published: false
 
 ---
