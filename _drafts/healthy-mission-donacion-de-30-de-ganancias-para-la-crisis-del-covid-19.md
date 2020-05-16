@@ -1,14 +1,14 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: 'Healthy Mission: Donación de 30% de ganancias para la crisis del Covid-19'
+title: Healthy Mission
 
 ---
 A pesar de que somos una pequeña empresa creemos y funcionamos para una gran visión: Queremos ser reconocidos y elegidos por fomentar el consumo de productos alimenticios con propósito, por ser la mejor marca de compra para el bienestar y para ayudar. 
 
-Como ya es bien conocido, la crisis del Covid-19 no sólo ha afectado la salud pública, sino que también la estabilidad económica de miles de familias costarricenses. Creemos en que podemos aportar nuestro granito de arena con tu ayuda para intentar apaciguar esta dura situación.
+**Creamos nuestra nueva mantequilla de coco con el propósito de donar el 30% de las ganancias provenientes de tus compras de estas mantequillas para la compra de víveres para las afectadas por el desempleo en la Comunidad de Nosara en Guanacaste.** 
 
-Creamos nuestra nueva mantequilla de coco con el propósito de donar el 30% de las ganancias provenientes de tus compras de estas mantequillas para la compra de víveres para las afectadas por el desempleo en la Comunidad de Nosara en Guanacaste. 
+La crisis del Covid-19 no sólo ha afectado la salud pública, sino que también la estabilidad económica de miles de familias costarricenses. Creemos en que podemos aportar nuestro granito de arena con tu ayuda para intentar apaciguar esta dura situación.
 
 ![](/images/nosara1.jpg)
 
