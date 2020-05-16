@@ -22,7 +22,7 @@ Para apoyar a la Comunidad de Nosara decidimos aliarnos con la Iglesia Casa Vida
 
 ![](/images/nosara3.jpg)
 
-Estaremos publicando nuestras ganancias mensuales provenientes de tus compras de nuestras mantequillas de coco para que podas dimensionar el impacto que podemos realizar juntos. Esperamos que querás ser parte de esta gran iniciativa, sin vos no los podemos lograr.
+Estaremos publicando nuestras ganancias mensuales provenientes de tus compras de nuestras mantequillas de coco para que podas dimensionar el impacto que podemos generar juntos. Esperamos que querás ser parte de esta gran iniciativa, sin vos no los podemos lograr.
 
 Con amor,
 
