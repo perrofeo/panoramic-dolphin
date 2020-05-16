@@ -28,7 +28,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: marañón
+category: almendra
 featured: true
 published: false
 
