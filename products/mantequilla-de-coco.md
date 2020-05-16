@@ -30,6 +30,5 @@ images:
       fallback: ''
 category: almendra
 featured: true
-published: false
 
 ---
