@@ -34,7 +34,7 @@ Para esta receta necesitás dos de nuestras mantequillas: mantequilla de maní p
 
 1. 3 cdas de mantequilla de maní Healthy Pleasures
 2. 2 cdas de mantequilla de coco Healthy Pleasures
-3. 1/2 taza de leche de coco en lata sin azúcar (la podes conseguir en Automercado).
+3. 1/2 taza de leche de coco en lata sin azúcar 
 4. 1 cdita de polvo de ajo
 5. 1 cdita de sal marina
 6. 3 cdas de natuvia al gusto.
@@ -45,7 +45,7 @@ Para esta receta necesitás dos de nuestras mantequillas: mantequilla de maní p
 **Pollo:**
 
 1. 
-   1. Colocá los chicharritos o chicharrones secos en una bolsa tipo ziplog para triturarlos hasta formar pequeñas boronas.
+   1. Colocá los chicharritos o chicharrones secos en una bolsa tipo ziploc para triturarlos hasta formar pequeñas boronas.
 2. 
    1. Ingredientes secos: Colocá la mezcla de chicharritos en un recipiente redondo y agregá las especies para condimentar el pollo:la sal marina, la pimienta negra, la sazón completa, el polvo de ajo y la paprika. Revolvé bien la mezcla.
 3. 
@@ -65,3 +65,5 @@ Para esta receta necesitás dos de nuestras mantequillas: mantequilla de maní p
    1. Opcional: colocá pedacitos de maní triturado sobre la salsa para que la misma tenga una textura crujiente.
 
 Que disfrutés ;)
+
+###### Receta fue extraída de Amber´s Keto Kitchen. 
