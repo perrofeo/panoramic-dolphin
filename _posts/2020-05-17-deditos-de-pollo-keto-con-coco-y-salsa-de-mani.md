@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: 'Deditos de pollo keto con coco y salsa de maní '
 
 ---
-Una receta súper útil, práctica y rápida que estamos seguras de que vos y tu familia van amar. Para hacerla necesitas dos de nuestras mantequillas: mantequilla de coco y mantequilla de maní pura. 
+Una receta súper útil, práctica y rápida que estamos seguras de que vos y tu familia van amar. Para hacerla necesitas dos de nuestras mantequillas: [**mantequilla de coco **](https://www.healthypleasurescr.com/products/mantequilla-de-coco/ "Mantequilla de coco")y [**mantequilla de maní pura**](https://www.healthypleasurescr.com/products/mantequilla-de-man%C3%AD-cl%C3%A1sica/ "Mantequilla de maní"). 
 
 Los deditos de pollo keto los podes preparar en la air fryer, sartén e inclusive al horno y los acompañarás con un salsa saludable de maní y coco hecha en casa. Es una receta original, saludable y deliciosa que podes comer para almorzar o cenar. 
 
