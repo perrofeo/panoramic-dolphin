@@ -50,7 +50,7 @@ Los deditos de pollo keto los podes preparar en la air fryer, sartén e inclusiv
 **Salsa:**
 
 1. 1. Mezclá en un recipiente todos los ingredientes de la salsa hasta obtener una textura cremosa y homogénea. 
-2. 2. Refrigerar la salsa 15 minutos antes de servir. 
-3. 3. Opcional: colocar pedacitos de maní triturado sobre la salsa para que la misma tenga una textura crujiente. 
+2. 2. Refrigerá la salsa 15 minutos antes de servir. 
+3. 3. Opcional: colocá pedacitos de maní triturado sobre la salsa para que la misma tenga una textura crujiente. 
 
-A disfrutar. 
+Que disfrutés ;)
