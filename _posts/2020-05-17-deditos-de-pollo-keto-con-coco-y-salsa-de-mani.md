@@ -64,6 +64,4 @@ Para esta receta necesitás dos de nuestras mantequillas: mantequilla de maní p
 3. 
    1. Opcional: colocá pedacitos de maní triturado sobre la salsa para que la misma tenga una textura crujiente.
 
-Que disfrutés ;)
-
-###### Receta fue extraída de Amber´s Keto Kitchen. 
+Que disfrutés ;) 
