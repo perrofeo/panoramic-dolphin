@@ -41,11 +41,11 @@ Los deditos de pollo keto los podes preparar en la air fryer, sartén e inclusiv
 
 **Pollo:**
 
-1. Colocá los chicharritos o chicharrones secos en una bolsa tipo ziplog para romperlo hasta convertirlos en pequeñas boronas. 
-2. Ingredientes secos: Colocá la mezcla de chicharritos en un recipiente redondo y agregá las especies para condimentar el pollo:la sal marina, la pimienta negra, la sazón completa, el polvo de ajo y la paprika. Revolvé bien la mezcla. 
-3. Ingredientes húmedos: En otro recipiente revolvé la mantequilla de coco, el huevo y el agua hasta que queden bien mezclados. 
-4. Partí las pechugas de pollo en 2-3 pedazos y sumerjílas bien en la mezcla de ingredientes húmedos. Luego sumergí las pechugas en la mezcla de ingredientes secos de manera que queden totalmente cubiertas por la mezcla. 
-5. En tu air fryer, sartén u horno, rociá aceite de oliva en spray y colocá las deditos de pollo previamente empanizados para cocinarlos. 
+1. 1. Colocá los chicharritos o chicharrones secos en una bolsa tipo ziplog para triturarlos hasta formar pequeñas boronas. 
+2. 2. Ingredientes secos: Colocá la mezcla de chicharritos en un recipiente redondo y agregá las especies para condimentar el pollo:la sal marina, la pimienta negra, la sazón completa, el polvo de ajo y la paprika. Revolvé bien la mezcla. 
+3. 3. Ingredientes húmedos: En otro recipiente revolvé la mantequilla de coco, el huevo y el agua hasta que queden bien mezclados. 
+4. 4. Partí las pechugas de pollo en 2-3 pedazos y sumerjílas bien en la mezcla de ingredientes húmedos. Luego sumergí las pechugas en la mezcla de ingredientes secos de manera que queden totalmente cubiertas por la mezcla. 
+5. 5. En tu air fryer, sartén u horno, rociá aceite de oliva en spray y colocá las deditos de pollo previamente empanizados para cocinarlos. 
 
 **Salsa:**
 
