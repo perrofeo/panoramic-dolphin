@@ -28,7 +28,7 @@ Para esta receta necesitás dos de nuestras mantequillas: mantequilla de maní p
 1. 2 paquetes de chicharritos (chicharrón seco)
 2. 1 cda de agua
 3. 1 huevo grande
-4. 2 cdas de Mantequilla de coco Healthy Pleasures
+4. 1 cda de Mantequilla de coco Healthy Pleasures
 
 **Para la salsa:**
 
@@ -51,7 +51,7 @@ Para esta receta necesitás dos de nuestras mantequillas: mantequilla de maní p
 3. 
    1. Ingredientes húmedos: En otro recipiente revolvé la mantequilla de coco, el huevo y el agua hasta que queden bien mezclados.
 4. 
-   1. Partí las pechugas de pollo en 2-3 pedazos y sumerjílas bien en la mezcla de ingredientes húmedos. Luego sumergí las pechugas en la mezcla de ingredientes secos de manera que queden totalmente cubiertas por la mezcla.
+   1. Partí las pechugas de pollo en 2-3 pedazos. Con tu mano derecha sumergí bien los deditos de pollo en la mezcla de ingredientes húmedos y luego con tu mano izquierda sumergílos en la mezcla de ingredientes secos, de manera que queden totalmente cubiertoss por la mezcla.
 5. 
    1. En tu air fryer, sartén u horno, rociá aceite de oliva en spray y colocá las deditos de pollo previamente empanizados para cocinarlos.
 
