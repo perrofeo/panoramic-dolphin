@@ -27,7 +27,7 @@ Si seguís una dieta baja en carbohidratos y alta en grasas saludables esta rece
 
 1. Picá finamente la cebolla, el ajo y el culantro.
 2. Colocá en plato hondo la corvina y la marinás con la salsa de soya, sal, pimienta, 1/2 limón, 1cdita de ajo picado y **1 cda de mantequilla de coco Healthy Pleasures**. Aseguráte de que todos los ingredientes queden bien revueltos y unidos al pescado. 
-3. Dejás el pescado marinando en el plato por 20 minutos. Durante estos 20 minutos podes preparar la salsa. 
+3. Dejás el pescado marinando en el plato por 20 minutos. Durante estos 20 minutos podes preparar la salsa. Este paso es muy importante para que el pescado absorba el sabor de los ingredientes que estamos utilizando. 
 
 ![](/images/captura-de-pantalla-2020-05-25-a-la-s-13-32-26.png)
 
