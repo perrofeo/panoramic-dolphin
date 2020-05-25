@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: Corvina estilo caribeño
 
 ---
-Esta receta es de lo mejor que he probado ultimamente, de verdad que se disfruta casa bocado. La podes hacer en 35 minutos y con 10 ingredientes que prácticamente todo hogar costarricense tiene.
+Esta receta es de lo mejor que he probado ultimamente, de verdad que se disfruta casa bocado. La podés hacer en 35 minutos y con 10 ingredientes que prácticamente todo hogar costarricense tiene.
 
 Si seguís una dieta baja en carbohidratos y alta en grasas saludables esta receta te encantará. 
 
