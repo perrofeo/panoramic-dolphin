@@ -35,3 +35,7 @@ Esta receta es de lo mejor que he probado ultimamente, de verdad que se disfruta
 4. Al cumplirse los 30 minutos, cocinás las corvinas ya marinadas en un sartén por ambos lados en fuego medio.
 5. Tomás un plato hondo, servís la salsa y encima colocás el filete de corvina. 
 6. Opcional: Agregar 1/4 de aguacate en rodajas con 2 hojitas de espinaca para acompañar. 
+
+![](/images/captura-de-pantalla-2020-05-25-a-la-s-13-40-54.png)
+
+Esperamos que realmente te animés a hacer esta receta, es súper simple, fácil y rápida. Darle a nuestro paladar sabores diferentes nos permite disfrutar del placer de comer saludablemente #bendicetucuerpo 
