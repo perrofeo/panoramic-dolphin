@@ -123,7 +123,6 @@ fields:
   config:
     required: true
 pages:
-- products/2-pack-1-mantequilla-de-almendra-y-1-mantequilla-de-maranon-de-265g..md
 - products/mantequilla-de-almendras-clásica.md
 - products/mantequilla-de-almendras-clásica.md
 - products/mantequilla-de-almendras-con-chocolate.md
