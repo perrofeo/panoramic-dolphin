@@ -2,12 +2,13 @@
 section: Store
 layout: product
 id: ''
-id2: ''
+id2: "130"
 id3: ''
-title: 'Self Love Pack: 1 mantequilla de almendra y 1 mantequilla de marañón de 265g.  '
-description: 'Dos de nuestras mantequillas más vendidas en un Pack con envío a domicilio
-  incluido en todo el país. No perdás esta súper oportunidad, estás a varios clicks
-  de disfrutar de un perfecto placer saludable a un súper precio. Costo: ₡12,900'
+title: Self Love Pack
+description: '1 mantequilla de almendra y 1 mantequilla de marañón de 265g. Dos de
+  nuestras mantequillas más vendidas en un Pack con envío a domicilio incluido en
+  todo el país. No perdás esta súper oportunidad, estás a varios clicks de disfrutar
+  de un perfecto placer saludable a un súper precio. Costo: ₡12,900'
 price1: ''
 price2: '22.40'
 price3: ''
