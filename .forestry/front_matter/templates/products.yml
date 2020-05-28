@@ -100,6 +100,7 @@ fields:
     - almendra
     - maní
     - marañón
+    - coco
 - type: boolean
   name: featured
   label: Featured
