@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: 'Misioneros que apoyás con tu compra '
 
 ---
-**Los misioneros cristianos** son personas con una misión: vivir y trabajar para servir a Dios con el propósito de expandir el amor de Dios en diferentes partes del mundo. El corazón de las misiones es el de evangelizar, es decir, dar conocer las buenas nuevas del amor de Jesús, discipular, servir y amar a las personas.
+**Los misioneros cristianos** son personas con una misión: vivir y trabajar para servir a Dios con el propósito de expandir la palabra y el amor de Dios en diferentes partes del mundo. El corazón de las misiones es el de evangelizar, es decir, dar conocer las buenas nuevas del amor de Jesús, discipular, servir y amar a las personas.
 
 En Healthy Pleasures **donamos el 10% de nuestras ganancias** mensuales a dos misioneros, Gabriel Almanza y María José Castillo, ambos son de Costa Rica. A continuación podrías conocer más sobre su vida como misioneros.
 

@@ -25,7 +25,7 @@ images:
       optimized: "/images/ALMENDRA-FONDO-CHOC-3.webp"
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: almendra
-featured: true
+featured: false
 section: Store
 
 ---

@@ -100,6 +100,8 @@ fields:
     - almendra
     - maní
     - marañón
+    - coco
+    - kits
 - type: boolean
   name: featured
   label: Featured
@@ -131,6 +133,7 @@ pages:
 - products/mantequilla-de-almendras-con-coco.md
 - products/mantequilla-de-almendras-con-proteína.md
 - products/mantequilla-de-almendras-con-proteína.md
+- products/mantequilla-de-coco.md
 - products/mantequilla-de-maní-clásica.md
 - products/mantequilla-de-maní-clásica.md
 - products/mantequilla-de-maní-con-chocolate.md
@@ -149,5 +152,6 @@ pages:
 - products/mantequilla-de-marañón-con-proteína.md
 - products/nutri-kit.md
 - products/nutri-kit.md
+- products/pack.md
 - products/trío-de-mantequillas-de-100g.md
 - products/trío-de-mantequillas-de-100g.md
