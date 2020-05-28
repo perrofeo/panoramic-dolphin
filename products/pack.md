@@ -26,7 +26,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: kits
 featured: false
 
 ---
