@@ -101,6 +101,7 @@ fields:
     - maní
     - marañón
     - coco
+    - kits
 - type: boolean
   name: featured
   label: Featured
