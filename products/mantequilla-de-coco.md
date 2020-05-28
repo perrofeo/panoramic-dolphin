@@ -1,5 +1,5 @@
 ---
-section: Home
+section: Store
 layout: product
 id: "127"
 id2: "128"
@@ -28,7 +28,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: almendra
+category: coco
 featured: true
 
 ---
