@@ -23,7 +23,7 @@ images:
     original:
       optimized: "/images/copia trio.webp"
       fallback: "/images/Copia.jpeg"
-category: almendra
+category: kits
 featured: false
 section: Store
 
