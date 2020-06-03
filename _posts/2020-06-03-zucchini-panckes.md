@@ -4,7 +4,7 @@ author: Healthy Pleasures
 title: Zucchini Panckes
 
 ---
-Esta receta de pancakes saludables de la atleta [**Nani Marín**](https://www.instagram.com/nanimaringuzman/ "Nani Marín") te va a encantar, no sólo es súper original, sino que es increiblemente deliciosa. 
+Esta receta de pancakes saludables de la atleta [**Nani Marín**](https://www.instagram.com/nanimaringuzman/ "Nani Marín") te va a encantar, no sólo es súper original, sino que también es increiblemente deliciosa. 
 
 Están cargados de proteína, grasas saludables, carbohidratos complejos y vegetales. Es un desayuno post entrenamiento súper completo y saciante.
 
@@ -32,3 +32,5 @@ Están cargados de proteína, grasas saludables, carbohidratos complejos y veget
 4. **Toppings:** cocinar manzana en cuadritos con miel de maple, vainilla y canela.
 5. **Mantequilla de almendra de Healthy Pleasures.** 
 6. Frostings: 1/2 scoop de proteína con un chorrito de leche de almendra y hacer mezcla pastosa
+
+**¡BUEN PROVECHO!**
