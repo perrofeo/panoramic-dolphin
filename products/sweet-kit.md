@@ -17,8 +17,8 @@ images:
       optimized: "/images/kit-gourmet.webp"
       fallback: "/images/captura-de-pantalla-2020-06-04-a-la-s-14-25-31.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/kit-gourmet.webp"
+      fallback: "/images/captura-de-pantalla-2020-06-04-a-la-s-14-25-31.png"
   featured:
     thumbnail:
       optimized: ''
