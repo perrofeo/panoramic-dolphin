@@ -7,7 +7,8 @@ id3: ''
 title: To cook pack
 description: 'Este pack lo creamos para las y los amantes de la cocina. Estas 3 mantequillas
   las podes usar como base para cocinar un sin fin de recetas como galletas, panes,
-  crumbles, aderezos, salsas, etc. '
+  crumbles, aderezos, salsas, etc. Si bien son deliciosas por sí solas, son perfectas
+  como un sustituto de la mantequilla láctea en tus recetas.  '
 price1: '15.50'
 price2: '26 '
 price3: ''
