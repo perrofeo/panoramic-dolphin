@@ -4,11 +4,10 @@ layout: product
 id: "131"
 id2: "132"
 id3: ''
-title: Sweet Kit
-description: 'Este kit lo creamos para las y los amantes del dulce. Si bien nuestras
-  mantequillas son 100% libres de azúcar, estas 3 mantequillas tienen un sabor dulce
-  natural. Incluye: 1 mantequilla de almendra con chocolate, 1 mantequilla de coco
-  y 1 de marañón pura. '
+title: To cook pack
+description: 'Este pack lo creamos para las y los amantes de la cocina. Estas 3 mantequillas
+  las podes usar como base para cocinar un sin fin de recetas como galletas, panes,
+  crumbles o simplemente a cucharadas. '
 price1: '15.50'
 price2: '26 '
 price3: ''
