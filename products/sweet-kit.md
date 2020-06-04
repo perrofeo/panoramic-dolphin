@@ -7,9 +7,10 @@ id3: ''
 title: Sweet Kit
 description: 'Este kit lo creamos para las y los amantes del dulce. Si bien nuestras
   mantequillas son 100% libres de azúcar, estas 3 mantequillas tienen un sabor dulce
-  natural. '
+  natural. Incluye: 1 mantequilla de almendra con chocolate, 1 mantequilla de coco
+  y 1 de marañón pura. '
 price1: '15.50'
-price2: '26.50'
+price2: '26 '
 price3: ''
 images:
   default:
@@ -28,6 +29,5 @@ images:
       fallback: ''
 category: ''
 featured: false
-published: false
 
 ---
