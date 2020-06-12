@@ -3,7 +3,7 @@
     "name" : "Healthy Pleasures",
     "scope" : "/",
     "display": "minimal-ui",
-    "start_url" : "https://www.healthypleasurescr.com/",
+    "start_url" : "/?source=pwa",
     "short_name" : "Healthy Pleasures",
     "theme_color" : "#CC9933",
     "description" : "Mantequillas de almendra, maní y marañón de Costa Rica",
