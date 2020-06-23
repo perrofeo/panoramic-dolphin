@@ -12,12 +12,12 @@ Son un snack o postre perfecto para los que amamos el dulce. Son súper práctic
 
 **Ingredientes:**
 
-1. 2 tazas de yogurt natural o el de tu preferencia (puede ser hasta yogurt de coco si sos intolerante a la lactosa).
-2. 1/2 taza de arándanos.
-3. Mantequilla de marañón **#healthypleasures**
-4. 3/4 de taza de cereal o granola triturada.
-5. 1/2 taza de arándanos.
-6. Stevia al gusto.
+1. 1. 2 tazas de yogurt natural o el de tu preferencia (puede ser hasta yogurt de coco si sos intolerante a la lactosa).
+2. 2. 1/2 taza de arándanos.
+3. 3. Mantequilla de marañón **#healthypleasures**
+4. 4. 3/4 de taza de cereal o granola triturada.
+5. 5. 1/2 taza de arándanos.
+6. 6. Stevia al gusto.
 
 **Preparación:**
 
