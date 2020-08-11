@@ -8,7 +8,7 @@ description: 'Deliciosa mantequilla de almendra pura ♡ Sólo contiene 2 ingred
   almendras sin sal y canela en polvo.'
 price1: "5"
 price2: '9.50'
-price3: '27.50'
+price3: "30"
 images:
   default:
     thumbnail:
