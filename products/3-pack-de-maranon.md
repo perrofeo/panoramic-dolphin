@@ -14,11 +14,11 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/tresmaranon-2.webp"
-      fallback: "/images/tresmaranon-2.JPG"
+      optimized: "/images/maranontres.webp"
+      fallback: "/images/maranontres.JPG"
     original:
-      optimized: "/images/tresmaranon-2.webp"
-      fallback: "/images/tresmaranon-2.JPG"
+      optimized: "/images/maranontres.webp"
+      fallback: "/images/maranontres.JPG"
   featured:
     thumbnail:
       optimized: ''
