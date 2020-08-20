@@ -14,19 +14,19 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: "/images/packmaranon.webp"
+      optimized: "/images/packmaranon-1.webp"
       fallback: "/images/pack-maranon.JPG"
     original:
-      optimized: "/images/pack-maranon.JPG"
+      optimized: "/images/packmaranon.webp"
       fallback: "/images/pack-maranon.JPG"
   featured:
     thumbnail:
-      optimized: "/images/packmaranon.webp"
-      fallback: "/images/pack-maranon.JPG"
+      optimized: ''
+      fallback: ''
     original:
-      optimized: "/images/packmaranon.webp"
-      fallback: "/images/pack-maranon.JPG"
-category: ''
+      optimized: ''
+      fallback: ''
+category: kits
 featured: false
 published: false
 
