@@ -17,8 +17,8 @@ images:
       optimized: "/images/packmaranon.webp"
       fallback: "/images/pack-maranon.JPG"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/pack-maranon.JPG"
+      fallback: "/images/pack-maranon.JPG"
   featured:
     thumbnail:
       optimized: "/images/packmaranon.webp"
