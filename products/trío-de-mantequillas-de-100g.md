@@ -3,10 +3,11 @@ layout: product
 id: "37"
 id2: "38"
 id3: "39"
-title: 'Trío de mantequillas de maní, almendra y marañón puras. '
-description: 'Combo de nuestras mantequillas de maní, almendra y marañón. '
-price1: "17"
-price2: '26.30'
+title: "¡Trío de mantequillas de maní, almendra y marañón!"
+description: 'Combo de nuestras mantequillas de maní, almendra y marañón 100% puras
+  y libres de azúcar. Costo en colones: 10,500 con envío incluido en todo el país. '
+price1: "17.5"
+price2: "30"
 price3: "76"
 images:
   default:
