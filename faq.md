@@ -15,9 +15,9 @@ questions:
     2. Transporte Healthy Pleasures en Sabana, Escazú, Santa Ana, San Pedro, Los Yoses, Curridabat y San Antonio de Belén.
 - question: "¿Cuál es el costo del envío?"
   answer: |-
-    El costo del envío en la GAM es de $1
+    El costo del envío en la GAM es de $2,50
 
-    El costa del envío fuera de la GAM es de $3
+    El costa del envío fuera de la GAM es de $3,50
 - question: "¿Cómo hago mi pedido?"
   answer: "1\\.Seleccionas las mantequillas que deseas comprar. \n\n2\\.Las agregas
     al carrito de compras.\n\n3\\.Creas una cuenta de cliente o seleccionas pagar
@@ -29,8 +29,11 @@ questions:
     cuentas bancarias y correo electrónico para hacer efectivo el pago de tus mantequillas
     vía transferencia.\n7. Esperás entre 1-2 días y voila, tendras tus mantequillas. "
 - question: "¿Cuánto demora en llegar mi pedido?"
-  answer: "**Depende de dónde te encuentres**:\n\n* El envío dentro de la GAM entre
-    1 y 2 días. \n* El envío fuer a dela GAM entre 2-3 días. "
+  answer: |-
+    **Depende de dónde te encuentres**:
+
+    * El envío dentro de la GAM entre 1-3 días.
+    * El envío fuer a dela GAM entre 3-4 días.
 - question: "¿Cuáles son sus puntos de venta?"
   answer: "**Curridabat:**\n\n• Estanco Verde, Pinares\n\n**Escazu:**\n\n•Tienda Buena
     Tierra, Escazú Centro\n\n•Planta de producción Healthy Pleasures, Guachipelín\n\n•La
