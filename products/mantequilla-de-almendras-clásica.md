@@ -4,11 +4,11 @@ id: "130"
 id2: "131"
 id3: "132"
 title: Mantequilla de Almendra Pura
-description: 'Deliciosa mantequilla de almendra pura ♡ Sólo contiene 1 ingrediente:
-  almendras sin sal.'
-price1: "5"
-price2: '9.50'
-price3: "30"
+description: 'Deliciosa mantequilla de almendra 100% natural y libre de azúcar. Sólo
+  contiene 1 ingrediente: almendras sin sal y nada más.'
+price1: '4.50'
+price2: '8.50'
+price3: '25.10'
 images:
   default:
     thumbnail:
