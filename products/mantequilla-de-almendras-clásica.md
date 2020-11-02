@@ -4,8 +4,8 @@ id: "130"
 id2: "131"
 id3: "132"
 title: Mantequilla de Almendra Pura
-description: 'Deliciosa mantequilla de almendra pura ♡ Sólo contiene 2 ingredientes:
-  almendras sin sal y canela en polvo.'
+description: 'Deliciosa mantequilla de almendra pura ♡ Sólo contiene 1 ingrediente:
+  almendras sin sal.'
 price1: "5"
 price2: '9.50'
 price3: "30"
