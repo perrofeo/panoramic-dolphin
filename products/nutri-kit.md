@@ -8,8 +8,8 @@ description: 'Kit para estimular tu sistema inmunológico y levantar tus defensa
   Incluye 1 mantequilla de maní y 1de almendra con coco. El maní, la almendra y el
   coco son fuente de Vitamina C, Vitamina E, Zinc, Antioxidantes y Hierro. #bendicetucuerpo
   ♡  '
-price1: '11.50'
-price2: "16"
+price1: '12.50'
+price2: "18.85"
 price3: "45"
 images:
   default:
