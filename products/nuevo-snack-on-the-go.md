@@ -27,6 +27,5 @@ images:
       fallback: ''
 category: kits
 featured: false
-published: false
 
 ---
