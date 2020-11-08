@@ -4,9 +4,9 @@ layout: product
 id: "135"
 id2: ''
 id3: ''
-title: "¡Nuevo! Snack on the Go"
-description: 'Incluye 1 sobre de 50g de mantequilla de maní, 1 de mantequilla de almendra
-  y 1 de mantequilla de marañón. Te acompañamos a donde sea que vayas. '
+title: "¡Nuevo! 3 pack Snack on the Go"
+description: 'Este 3 pack incluye 1 sobre de 50g de mantequilla de maní, 1 de mantequilla
+  de almendra y 1 de mantequilla de marañón. Te acompañamos a donde sea que vayas. '
 price1: "5.5"
 price2: ''
 price3: ''
