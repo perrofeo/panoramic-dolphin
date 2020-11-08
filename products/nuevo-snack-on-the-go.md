@@ -16,8 +16,8 @@ images:
       optimized: "/images/trioweb.webp"
       fallback: "/images/trio.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/trioweb.webp"
+      fallback: "/images/trio.jpg"
   featured:
     thumbnail:
       optimized: ''
