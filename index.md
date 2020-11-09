@@ -1,5 +1,5 @@
 ---
-title: Inicio - Healthy Pleasures
+title: Venta Mantequillas de Maní sin Azúcar Costa Rica, Sin Gluten y Lactosa
 isHome: true
 layout: index
 
