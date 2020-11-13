@@ -9,7 +9,7 @@ description: '1 mantequilla de almendra y 1 mantequilla de marañón de 265g con
   a domicilio incluido en todo el país. ¡No perdás esta súper oportunidad! Costo:
   ₡12,900'
 price1: ''
-price2: '19,40'
+price2: '20.20'
 price3: ''
 images:
   default:
