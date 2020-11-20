@@ -16,8 +16,8 @@ images:
       optimized: "/images/navidad.webp"
       fallback: "/images/navidad.JPG"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/navidad.webp"
+      fallback: "/images/navidad-1.JPG"
   featured:
     thumbnail:
       optimized: ''
@@ -27,6 +27,5 @@ images:
       fallback: ''
 category: ''
 featured: false
-published: false
 
 ---
