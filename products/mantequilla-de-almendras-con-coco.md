@@ -3,7 +3,7 @@ layout: product
 id: "40"
 id2: "41"
 id3: "42"
-title: Mantequilla de Almendra con Coco
+title: Mantequilla de Almendra con Coco Costa Rica
 description: "¡Para los amantes del coco! Si sos amante de las almendras y el coco
   esta es tu opción. Ingredientes: almendras sin sal y coco rayado 100% puro. Su textura
   crunchy te enamorará. "
