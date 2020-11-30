@@ -23,9 +23,9 @@ images:
       optimized: ''
       fallback: ''
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/navidad-1.webp"
+      fallback: "/images/navidad-1.JPG"
 category: ''
-featured: false
+featured: true
 
 ---
