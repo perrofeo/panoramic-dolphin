@@ -17,8 +17,8 @@ images:
       optimized: "/images/3navidad.webp"
       fallback: "/images/captura-de-pantalla-2020-11-30-a-la-s-09-39-39.png"
     original:
-      optimized: "/images/3navidad.webp"
-      fallback: "/images/captura-de-pantalla-2020-11-30-a-la-s-09-39-39.png"
+      optimized: "/images/3packnavidad.webp"
+      fallback: "/images/3pack-navidad.jpeg"
   featured:
     thumbnail:
       optimized: "/images/3packnavidad.webp"
