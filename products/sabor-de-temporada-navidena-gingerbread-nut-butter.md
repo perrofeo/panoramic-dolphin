@@ -25,7 +25,7 @@ images:
     original:
       optimized: "/images/navidad-1.webp"
       fallback: "/images/navidad-1.JPG"
-category: ''
+category: almendra
 featured: true
 
 ---

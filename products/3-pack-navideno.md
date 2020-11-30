@@ -4,7 +4,7 @@ layout: product
 id: "141"
 id2: "142"
 id3: ''
-title: 3 Pack Navideño
+title: Christmas 3 Pack
 description: 'Este increíble pack incluye 3 mantequillas de 100g: 1 mantequilla de
   Gingerbread (navideña), 1 mantequilla de almendra pura y 1 de marañón pura. Todas
   son 100% libres de azúcar, naturales y veganas.  '
@@ -26,7 +26,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: kits
 featured: false
 
 ---
