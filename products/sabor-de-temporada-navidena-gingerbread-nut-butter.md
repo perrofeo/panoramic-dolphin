@@ -20,11 +20,11 @@ images:
       fallback: "/images/navidad-1.JPG"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
-    original:
       optimized: "/images/navidad-1.webp"
       fallback: "/images/navidad-1.JPG"
+    original:
+      optimized: "/images/christmas.webp"
+      fallback: "/images/christmas.png"
 category: almendra
 featured: true
 
