@@ -21,12 +21,12 @@ images:
       fallback: "/images/captura-de-pantalla-2020-11-30-a-la-s-09-39-39.png"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/3packnavidad.webp"
+      fallback: "/images/3pack-navidad.jpeg"
     original:
       optimized: ''
       fallback: ''
 category: kits
-featured: false
+featured: true
 
 ---
