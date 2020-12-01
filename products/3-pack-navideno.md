@@ -4,12 +4,12 @@ layout: product
 id: "141"
 id2: "142"
 id3: ''
-title: Christmas 3 Butter Pack
+title: 3 Nut Butter Christmas Pack
 description: 'Este increíble pack incluye 3 mantequillas de 100g: 1 mantequilla de
   Gingerbread (navideña), 1 mantequilla de almendra pura y 1 de marañón pura. Todas
   son 100% libres de azúcar, naturales y veganas.  '
-price1: '17.50'
-price2: "33"
+price1: "17"
+price2: "30"
 price3: ''
 images:
   default:
