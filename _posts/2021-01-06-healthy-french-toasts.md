@@ -13,7 +13,7 @@ title: Healthy French Toast
 1. 4 rodajas de pan cuadrado blanco o integral.
 2. 1 huevo
 3. 1 banano grande
-4. Mantequilla de marañón con chocolate #healthypleasures
+4. Mantequilla de marañón con chocolate #healthypleasures al gusto
 5. 1 sobre de stevia o azúcar de tu preferencia
 6. Leche de almendra o de preferencia ("un chorrito")
 7. Canela al gusto
@@ -27,5 +27,5 @@ title: Healthy French Toast
 4. 4. Remojar muy bien las rebanadas en la mezcla realizada en el paso 1.
 5. 5. Colocar las rebanadas de pan remojadas en el sartén. Dejarlas cocinando hasta que estén doradas en ambos lados.
 6. 6. Partir el banano en rodajas finas.
-7. 7. Cuando las rebanadas de pan estén cocinadas, puedes colocar la mantequilla de marañón y las rodajas de banano encima para luego acomodarlas como se ve en la foto.
+7. 7. Cuando las rebanadas de pan estén cocinadas, podes colocar la mantequilla de marañón y las rodajas de banano encima para luego acomodarlas como se ve en la foto.
 8. 8. ¡A disfrutar!
