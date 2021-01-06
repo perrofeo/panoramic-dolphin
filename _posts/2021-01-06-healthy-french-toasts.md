@@ -10,14 +10,14 @@ title: Healthy French Toast
 
 **Ingredientes:**
 
-1. * 4 rodajas de pan cuadrado blanco o integral.
-2. * 1 huevo
-3. * 1 banano grande
-4. * Mantequilla de marañón con chocolate #healthypleasures
-5. * 1 sobre de stevia o azúcar de tu preferencia
-6. * Leche de almendra o de preferencia (un chorrito)
-7. * Canela al gusto
-8. * Esencia de vainilla al gusto
+1. 4 rodajas de pan cuadrado blanco o integral.
+2. 1 huevo
+3. 1 banano grande
+4. Mantequilla de marañón con chocolate #healthypleasures
+5. 1 sobre de stevia o azúcar de tu preferencia
+6. Leche de almendra o de preferencia ("un chorrito")
+7. Canela al gusto
+8. Esencia de vainilla al gusto
 
 **Preparación:**
 
