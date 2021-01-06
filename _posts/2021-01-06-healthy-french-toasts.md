@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Healthy Pleasures
-title: 'Healthy French Toasts '
+title: Healthy French Toast
 
 ---
 ¡Les traemos una nueva receta de tostadas francesas saludables! En Healthy Pleasures promovemos la idea de que comer saludable no tiene que ser aburrido. Es una receta super simple, necesitás pocos ingredientes pero el más importante es nuestra mantequilla de marañón con chocolate. La podés comprar [aquí](https://www.healthypleasurescr.com/products/mantequilla-de-mara%C3%B1%C3%B3n-con-chocolate/ "Mantequilla de marañón chocolate ").
