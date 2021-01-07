@@ -28,5 +28,6 @@ images:
       fallback: "/images/captura-de-pantalla-2020-11-30-a-la-s-09-39-39.png"
 category: kits
 featured: true
+published: false
 
 ---
