@@ -7,8 +7,8 @@ title: Mantequilla de Almendra con Chocolate
 description: 'Nuestra mantequilla de almendra con chocolate es perfecta si sos amante
   del dulce. Utilizamos tres ingredientes: almendras sin sal, cacao 100% puro (de
   CR) y stevia pura. '
-price1: "6"
-price2: "11.5"
+price1: '5.50'
+price2: '10.50'
 price3: "32"
 images:
   default:
@@ -26,7 +26,7 @@ images:
       optimized: "/images/ALMENDRA-FONDO-CHOC-3.webp"
       fallback: "/images/ALMENDRA-FONDO-CHOC-3.jpg"
 category: almendra
-featured: true
+featured: false
 section: Store
 
 ---

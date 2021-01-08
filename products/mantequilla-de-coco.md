@@ -10,9 +10,9 @@ description: Mantequilla de coco 100% natural, libre de azúcar agregada, aceite
   para aplicar sobre tu piel y cabello como un humectante natural. Donamos 30% de
   las ganancias de estas mantequillas para compra de viveres para las familias afectadas
   por el Covid-19. Para saber más visitá nuestro blog post ♡
-price1: '6.50'
-price2: '10.50'
-price3: "27.35"
+price1: '5.70'
+price2: '10.90'
+price3: "35"
 images:
   default:
     thumbnail:

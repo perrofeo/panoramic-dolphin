@@ -126,6 +126,7 @@ fields:
     required: true
 pages:
 - products/3-pack-de-maranon.md
+- products/3-pack-navideno.md
 - products/mantequilla-de-almendras-clásica.md
 - products/mantequilla-de-almendras-clásica.md
 - products/mantequilla-de-almendras-con-chocolate.md
@@ -155,6 +156,7 @@ pages:
 - products/nutri-kit.md
 - products/nutri-kit.md
 - products/pack.md
+- products/sabor-de-temporada-navidena-gingerbread-nut-butter.md
 - products/sweet-kit.md
 - products/trío-de-mantequillas-de-100g.md
 - products/trío-de-mantequillas-de-100g.md
