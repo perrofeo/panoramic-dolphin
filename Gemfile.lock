@@ -60,7 +60,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.8.4)
+  jekyll (~> 3.9)
   jekyll-menus (~> 0.6.0)
   jekyll-paginate (~> 1.1)
   jekyll-paginate-v2 (~> 1.9)
