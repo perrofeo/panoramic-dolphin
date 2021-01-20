@@ -125,6 +125,7 @@ fields:
   config:
     required: true
 pages:
+- products/10-pack-sachets-on-the-go.md
 - products/3-pack-de-maranon.md
 - products/3-pack-navideno.md
 - products/mantequilla-de-almendras-clásica.md
