@@ -16,11 +16,11 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/10packlado.webp"
+      fallback: "/images/10packlado.jpg"
     original:
-      optimized: "/images/10pack.jpg"
-      fallback: "/images/10pack.webp"
+      optimized: "/images/10pack.webp"
+      fallback: "/images/10pack.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -30,6 +30,5 @@ images:
       fallback: ''
 category: ''
 featured: false
-published: false
 
 ---
