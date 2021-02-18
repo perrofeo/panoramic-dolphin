@@ -29,5 +29,6 @@ images:
       fallback: ''
 category: ''
 featured: false
+published: false
 
 ---
