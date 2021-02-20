@@ -10,7 +10,7 @@ description: 'Este pack lo creamos para las y los amantes de la cocina. Estas 3 
   crumbles, aderezos, salsas, etc. Si bien son deliciosas por sí solas, son perfectas
   como un sustituto de la mantequilla láctea en tus recetas.  '
 price1: '15.50'
-price2: '26 '
+price2: "30"
 price3: ''
 images:
   default:
@@ -29,5 +29,6 @@ images:
       fallback: ''
 category: ''
 featured: false
+published: false
 
 ---

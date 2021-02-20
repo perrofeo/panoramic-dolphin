@@ -27,5 +27,6 @@ images:
       fallback: "/images/christmas.png"
 category: almendra
 featured: true
+published: false
 
 ---
