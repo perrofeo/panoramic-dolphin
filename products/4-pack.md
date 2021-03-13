@@ -20,12 +20,12 @@ images:
       fallback: "/images/4pack.JPG"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/4pack2web.webp"
+      fallback: "/images/4pack2.JPG"
     original:
       optimized: ''
       fallback: ''
-category: ''
-featured: false
+category: kits
+featured: true
 
 ---
