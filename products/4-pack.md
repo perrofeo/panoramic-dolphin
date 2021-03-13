@@ -16,8 +16,8 @@ images:
       optimized: "/images/4packweb.webp"
       fallback: "/images/4pack.JPG"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/4packweb.webp"
+      fallback: "/images/4pack.JPG"
   featured:
     thumbnail:
       optimized: ''
@@ -27,6 +27,5 @@ images:
       fallback: ''
 category: ''
 featured: false
-published: false
 
 ---
