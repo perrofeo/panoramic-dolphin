@@ -5,10 +5,10 @@ id: ''
 id2: "138"
 id3: ''
 title: Cashew Lover Pack
-description: 'Definitivamente para los amantes de la mantequilla de marañón. Disfrutá
-  del único sabor de nuestra mantequilla y del sin fin de beneficios nutricionales
-  de esta súper semilla. Este pack incluye 1 mantequilla de marañon pura de 265g,
-  1 de 100g y 1 de 50g. '
+description: 'Definitivamente para los amantes de la mantequilla de marañón 100% pura
+  y libre de azúcar. Disfrutá del único sabor de nuestra mantequilla y se sus beneficios
+  nutricionales. Este pack incluye 1 mantequilla de marañon pura de 265g, 1 de 100g
+  y 1 de 50g. '
 price1: ''
 price2: "20.63"
 price3: ''
@@ -18,8 +18,8 @@ images:
       optimized: "/images/cashew-loverpackweb.webp"
       fallback: "/images/cashewloverpack.png"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/cashew-loverpackweb.webp"
+      fallback: "/images/cashewloverpack.png"
   featured:
     thumbnail:
       optimized: ''
