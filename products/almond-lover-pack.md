@@ -26,7 +26,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: kits
+category: almendra
 featured: false
 
 ---

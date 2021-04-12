@@ -27,7 +27,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: kits
+category: marañón
 featured: false
 
 ---
