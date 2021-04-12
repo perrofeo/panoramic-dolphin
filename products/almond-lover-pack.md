@@ -9,7 +9,7 @@ description: 'Si sos amante de la mantequilla de almendra 100% pura te recomenda
   esta opción. Incluye 3 mantequillas de almendra pura: 1 sachet de 50g, 1 de 100g
   y 1 de 265g. '
 price1: ''
-price2: ''
+price2: '16.50'
 price3: ''
 images:
   default:
@@ -26,7 +26,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: kits
 featured: false
 
 ---
