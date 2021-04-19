@@ -25,7 +25,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: maní
 featured: false
 
 ---
