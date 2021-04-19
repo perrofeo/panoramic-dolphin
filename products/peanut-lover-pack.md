@@ -16,8 +16,8 @@ images:
       optimized: "/images/peanutbutterpack.webp"
       fallback: "/images/peanutbutterpack.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/peanutbutterpack.webp"
+      fallback: "/images/peanutbutterpack.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -27,6 +27,5 @@ images:
       fallback: ''
 category: ''
 featured: false
-published: false
 
 ---
