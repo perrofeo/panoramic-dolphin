@@ -8,7 +8,7 @@ title: Peanut Lover Pack
 description: 'Este Pack es para los amantes del maní. Trae 3 mantequillas de maní:
   1 de 50g, 1 de 100g y 1 de 265g.'
 price1: ''
-price2: "13"
+price2: "13.67"
 price3: ''
 images:
   default:
