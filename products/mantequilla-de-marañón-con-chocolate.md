@@ -5,9 +5,9 @@ id2: "91"
 id3: "92"
 title: Mantequilla de Marañón con Chocolate
 description: Procesada con marañon (de CR) sin sal y 100% puro.
-price1: '5.50'
+price1: '5.80'
 price2: "11"
-price3: "36"
+price3: '36.50'
 images:
   default:
     thumbnail:
