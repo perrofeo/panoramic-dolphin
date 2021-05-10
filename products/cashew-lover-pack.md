@@ -10,7 +10,7 @@ description: 'Definitivamente para los amantes de la mantequilla de marañón 10
   nutricionales. Este pack incluye 1 mantequilla de marañon pura de 265g, 1 de 100g
   y 1 de 50g. '
 price1: ''
-price2: '17.50'
+price2: '20.10'
 price3: ''
 images:
   default:
