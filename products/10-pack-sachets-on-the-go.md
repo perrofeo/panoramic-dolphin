@@ -9,7 +9,7 @@ description: 'Al comprar este 10 Pack vas a adquirir 10 sachets/sobres de manteq
   de los sabores que vos querás. Sabores disponibles: maní pura, almendra pura, almendra
   con proteína, marañón pura, marañón con coco o marañón con chocolate. Realizá tu
   pedido y envianos cuáles son los sabores que querés a nuestro Whatsapp 89423381. '
-price1: '16.50'
+price1: "18"
 price2: ''
 price3: ''
 images:
