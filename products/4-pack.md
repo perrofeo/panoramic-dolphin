@@ -7,7 +7,7 @@ id3: ''
 title: '4 Pack '
 description: 'Este pack inlcuye nuestras 4 mantequillas en sus versiones más puras:
   marañón pura, maní pura, almendra pura, coco pura.'
-price1: "18"
+price1: '20.10'
 price2: '33.50'
 price3: ''
 images:
