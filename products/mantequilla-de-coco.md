@@ -12,7 +12,7 @@ description: Mantequilla de coco 100% natural, libre de azúcar agregada, aceite
   por el Covid-19. Para saber más visitá nuestro blog post ♡
 price1: "5"
 price2: "10"
-price3: "30"
+price3: "28"
 images:
   default:
     thumbnail:
