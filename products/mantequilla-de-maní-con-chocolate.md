@@ -6,9 +6,9 @@ id3: "82"
 title: Mantequilla de Maní con Chocolate
 description: 'Esta chocolatosa mezcla te va a encantar: Maní, cacao 100% puro y stevia.
   ¡Un deleite para tu paladar!'
-price1: '4.80'
-price2: "10"
-price3: '33.50'
+price1: '5.70'
+price2: "8"
+price3: "23"
 images:
   default:
     thumbnail:
