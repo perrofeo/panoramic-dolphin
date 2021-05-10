@@ -8,7 +8,7 @@ title: 2 Pack
 description: 1 mantequilla de almendra y 1 mantequilla de marañón de 265g 100% naturales,
   puras y libres de azúcar.
 price1: ''
-price2: '20.20'
+price2: '20.60'
 price3: ''
 images:
   default:
