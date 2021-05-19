@@ -8,7 +8,7 @@ description: Nuestra mantequilla de maní es cremosa, libre de azúcar, vegana y
   Hecha base de sólo maní, libre de aceites y preservantes.
 price1: '4.20'
 price2: '6.80'
-price3: "20"
+price3: "23"
 images:
   default:
     thumbnail:
