@@ -8,7 +8,7 @@ description: 'Una increíble combinación de maní con proteína sin lactosa sab
   Cada porción te aporta 5g de proteína.  '
 price1: '5.30'
 price2: '9.20'
-price3: "24"
+price3: "25"
 images:
   default:
     thumbnail:
