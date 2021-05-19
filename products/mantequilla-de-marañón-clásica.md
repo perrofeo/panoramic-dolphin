@@ -7,7 +7,7 @@ title: Mantequilla de Marañón pura
 description: "¡La favorita de muchas y muchos ! Esta opción tiene un único ingrediente:
   marañones procesasados. "
 price1: '5.60'
-price2: '9.80'
+price2: "10"
 price3: '33.50'
 images:
   default:
