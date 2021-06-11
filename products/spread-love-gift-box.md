@@ -5,9 +5,9 @@ id: ''
 id2: "136"
 id3: ''
 title: Spread Love Gift Box
-description: 'Esta cajita trae nuestros 2 nuevos sabores premium. Al comprar esta
-  cajita estarás recibiendo un 10% de descuento sobre el monto original de cada mantequilla
-  y una increíble experiencia para tu paladar!! Costo: ¢11,700'
+description: 'Esta cajita trae nuestros 2 nuevos sabores premium! Al comprarla estarás
+  recibiendo un 10% de descuento sobre el monto original de cada mantequilla y una
+  increíble experiencia para tu paladar!! Costo: ¢11,700 (envío gratis). '
 price1: ''
 price2: '18.70'
 price3: ''
@@ -17,8 +17,8 @@ images:
       optimized: "/images/giftbox.webp"
       fallback: "/images/giftbox.jpg"
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/giftbox.webp"
+      fallback: "/images/giftbox.jpg"
   featured:
     thumbnail:
       optimized: ''
@@ -26,8 +26,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: kits
 featured: false
-published: false
 
 ---
