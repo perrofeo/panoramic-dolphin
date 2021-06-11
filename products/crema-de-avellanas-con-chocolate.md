@@ -24,13 +24,13 @@ images:
       fallback: "/images/avellanasconchocolate.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/avellanasreceta.webp"
+      fallback: "/images/avellanasreceta.jpg"
     original:
-      optimized: ''
-      fallback: ''
-category: ''
-featured: false
+      optimized: "/images/avellanaschocolate.webp"
+      fallback: "/images/avellanasconchocolate.jpg"
+category: almendra
+featured: true
 published: false
 
 ---

@@ -27,7 +27,7 @@ images:
       optimized: ''
       fallback: ''
 category: kits
-featured: true
+featured: false
 section: Store
 
 ---
