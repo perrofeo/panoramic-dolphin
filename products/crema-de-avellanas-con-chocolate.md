@@ -17,8 +17,8 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/avellanasreceta.webp"
+      fallback: "/images/avellanasreceta.jpg"
     original:
       optimized: "/images/avellanaschocolate.webp"
       fallback: "/images/avellanasconchocolate.jpg"
