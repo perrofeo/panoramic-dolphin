@@ -15,8 +15,8 @@ price3: ''
 images:
   default:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/pecancoconutblanco.webp"
+      fallback: "/images/pecancoconutfondoblanco.jpg"
     original:
       optimized: "/images/pecancoconutweb.webp"
       fallback: "/images/pecancoconutcrunch-1.jpg"
