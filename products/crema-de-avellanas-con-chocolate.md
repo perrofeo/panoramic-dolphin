@@ -20,8 +20,8 @@ images:
       optimized: ''
       fallback: ''
     original:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/avellanaschocolate.webp"
+      fallback: "/images/avellanasconchocolate.jpg"
   featured:
     thumbnail:
       optimized: ''
