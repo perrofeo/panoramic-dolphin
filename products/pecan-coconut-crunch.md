@@ -8,9 +8,9 @@ title: Pecan Coconut Crunch - Nuevo sabor!
 description: Chunks de pecanas mezclados con mantequilla de marañón, mantequilla de
   almendra, coco rallado natural y semillas de chía. La textura es crujiente y su
   sabor es espectacular. Es 100% keto, natural, vegana y libre de azúcar. Te aporta
-  5g de grasa y 2g de carbohidrato por porción.
+  5g de grasa y 2g de carbohidrato por porción. Costo:¢6,500.
 price1: ''
-price2: '10.80'
+price2: '10.40'
 price3: ''
 images:
   default:

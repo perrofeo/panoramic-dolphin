@@ -12,7 +12,7 @@ description: 'A petición de ustedes les traemos una cremosa mezcla de avellanas
   100% natural y libre de azúcares agregados. Te aporta 5g de grasa y 3g de carbohidrato
   por porción. Costo en colones: ¢6,250.  '
 price1: ''
-price2: '10.40'
+price2: "10"
 price3: ''
 images:
   default:
