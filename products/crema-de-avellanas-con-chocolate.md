@@ -4,7 +4,7 @@ layout: product
 id: ''
 id2: "135"
 id3: ''
-title: Crema de Avellanas con Chocolate
+title: Crema de Avellanas con Chocolate - Nuevo sabor!!
 description: 'A petición de ustedes les traemos una cremosa mezcla de avellanas con
   cacao 100% puro, endulzada con dátiles y stevia. Sí dátiles, este fruto además de
   darle un delicioso dulzor le da una consistencia única a esta crema-mantequilla.
