@@ -4,7 +4,7 @@ layout: product
 id: ''
 id2: "134"
 id3: ''
-title: Pecan Coconut Crunch
+title: Pecan Coconut Crunch - Nuevo sabor!
 description: Chunks de pecanas mezclados con mantequilla de marañón, mantequilla de
   almendra, coco rallado natural y semillas de chía. La textura es crujiente y su
   sabor es espectacular. Es 100% keto, natural, vegana y libre de azúcar. Te aporta
@@ -29,6 +29,5 @@ images:
       fallback: "/images/pecancoconutcrunch-1.jpg"
 category: almendra
 featured: true
-published: false
 
 ---
