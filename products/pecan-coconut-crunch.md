@@ -22,13 +22,13 @@ images:
       fallback: "/images/pecancoconutcrunch-1.jpg"
   featured:
     thumbnail:
-      optimized: ''
-      fallback: ''
+      optimized: "/images/pecancoconutblanco.webp"
+      fallback: "/images/pecancoconutfondoblanco.jpg"
     original:
-      optimized: ''
-      fallback: ''
-category: ''
-featured: false
+      optimized: "/images/pecancoconutweb.webp"
+      fallback: "/images/pecancoconutcrunch-1.jpg"
+category: almendra
+featured: true
 published: false
 
 ---
