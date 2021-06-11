@@ -31,6 +31,5 @@ images:
       fallback: "/images/avellanasconchocolate.jpg"
 category: almendra
 featured: true
-published: false
 
 ---
