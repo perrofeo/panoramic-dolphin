@@ -9,7 +9,7 @@ description: 'Esta cajita trae nuestros 2 nuevos sabores premium! Al comprarla e
   recibiendo un 10% de descuento sobre el monto original de cada mantequilla y una
   increíble experiencia para tu paladar!! Costo: ¢11,700 (envío gratis). '
 price1: ''
-price2: '18.70'
+price2: "20"
 price3: ''
 images:
   default:
