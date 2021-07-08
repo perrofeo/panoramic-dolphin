@@ -10,7 +10,7 @@ description: Chunks de pecanas mezclados con mantequilla de marañón, mantequil
   sabor es espectacular. Es 100% keto, natural, vegana y libre de azúcar. Te aporta
   5g de grasa y 2g de carbohidrato por porción. Costo:¢6,500.
 price1: ''
-price2: '10.40'
+price2: "10.75"
 price3: ''
 images:
   default:
